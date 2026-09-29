@@ -1,0 +1,13 @@
+services:
+  jupyter:
+    image: jupyter/scipy-notebook:latest
+    container_name: jupyter_db_migration
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/work
+      - ./data:/home/jovyan/data
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=${JUPYTER_TOKEN}
+    restart: unless-stopped
