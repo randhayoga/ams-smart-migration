@@ -1,0 +1,113 @@
+id,code,name,address,phone_number,email,description,contact_person_1,cp_email_1,cp_phone_1,contact_person_2,cp_email_2,cp_phone_2,created_at,updated_at
+1,VN00001,Koperasi RE,Jl. Kalibata Timur 1 No. 27,(021) 79181180,,,,,02179181180,,,,2018-04-05 14:10:42,2018-04-05 14:10:42
+2,VN00002,Alfa Solusi,,,,,,,,,,,2017-01-04 13:20:41,2017-01-04 13:20:41
+3,VN00003,Cahaya Sukses,"Komplek Rukan Puri Mutiara, Blok A No. 99, Sunter, RT. 2 / RW. 5, Sunter Agung, Tj. Priok, Kota Jakarta Utara, Daerah Khusus Ibukota Jakarta 14350",021-5601496,,,,,,,,,2018-10-25 13:18:51,2018-10-25 13:18:51
+4,VN00004,Cascasia,,,,,,,,,,,2017-01-04 13:26:50,2017-01-04 13:26:50
+5,VN00008,Daniel,,,,,,,,,,,2017-01-04 13:28:55,2017-01-04 13:28:55
+6,VN00009,EDPMEDIA,,021-5805828 / 29,,,,,,,,,2017-01-04 13:30:10,2017-01-04 13:30:10
+7,VN00010,Everest Technology,,,,,,,,,,,2017-01-04 13:30:28,2017-01-04 13:30:28
+8,VN00011,Glodok,,,,,,,,,,,2017-01-04 13:30:37,2017-01-04 13:30:37
+9,VN00012,Gramedia,,,,,,,,,,,2017-01-04 13:30:49,2017-01-04 13:30:49
+10,VN00013,Indosystem,,,,,,,,,,,2017-01-04 13:30:58,2017-01-04 13:30:58
+11,VN00015,Multimedia Sejahtera Servitama,,,,,,,,,,,2017-01-04 13:31:19,2017-01-04 13:31:19
+12,VN00016,Optima Solusindo Informatika,,,,,,,,,,,2017-01-04 13:31:33,2017-01-04 13:31:33
+13,VN00017,Panca Putra,,,,,,,,,,,2017-01-04 13:31:50,2017-01-04 13:31:50
+14,VN00019,Sarana Aircon Utama,,,,,,,,,,,2017-01-04 13:32:21,2017-01-04 13:32:21
+15,VN00021,Sentra Grafika Kompumedia,Jl. Kaliata Timur II No 27 PT Rekayasa Engineering Gedung Graha RE Lt. Mezzanine Div ICT,81310527999,,,,,,,,,2018-11-12 08:31:08,2018-11-12 08:31:08
+16,VN00022,Siemens,,,,,,,,,,,2017-01-04 13:33:47,2017-01-04 13:33:47
+17,VN00023,Sinergi,,,,,,,,,,,2017-01-04 13:33:56,2017-01-04 13:33:56
+18,VN00024,Surabaya,,,,,,,,,,,2017-01-04 13:34:10,2017-01-04 13:34:10
+19,VN00025,Wilerdtindo,,,,,,,,,,,2018-03-23 10:37:36,2018-03-23 10:37:36
+20,VN00026,PT Paradise Perkasa,"Jl. Perancis No. L78 Kosambi, Dadap, Tangerang - Banten 15213",62 21 2967 3939,info@paradiseperkasa.com,,,manroe@paradiseperkasa.com,,,,,2018-03-23 10:37:36,2018-03-23 10:37:36
+21,VN00027,PT Loka Manggala,Mutiara Taman Palem Blok A. 8 No. 8 - Cengkareng Timur - Jakarta 11730,62 21 5435 0011,,,,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+22,VN00028,PT Golden Pratama Engineering,"Jl. Boulevard Raya BA 2/56 Gading Serpong, Pakulonan Barat, Tangerang, Banten 15810",62 21 5420 2980,sales@ptgoldenpe.com,,,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+23,VN00029,PT Crane Indonesia,"Kawasan Industri Delta Silicone Blok Ae No. 49, Jl. Akasia, Lippo Cikarang, Bekasi",62 21 8990 7980,,,,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+24,VN00030,PT Mitra Galperti,"Sovereign Plaza, 6th Floor Jl. TB Simatupang Kav. 36 Cilandak, Jakarta Selatan 12430",62 21 2940 0108,sales@galperti.co.id,,,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+25,VN00031,PT Fajar Benua Indopack,"Jl. Mayor Oking Jayaatmaja No. 88 Cibinong 16911 Jawa Barat, Indonesia",62 21 8791 8838,sales@fajarbenua.co.id,,,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+26,VN00032,PT Nichias Sunijaya,Panin Life Center 2nd Floor Room 205 Jl. Letjend. S. Parman Kav. 91 Jakarta 11420,62 21 5695 6207,industrial_admin@nichias-id.com,,,autoparts@nichias-id.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+27,VN00033,PT Gamako Ekakarsa,Jl. Pinangsia Timur No. 44 Jakarta 11110,62 21 6902 756,sales@gamako.co.id,,,donny@gamako.co.id,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+28,VN00034,PT Binder Indonesia,Jl. Pangeran Diponegoro No. 108 - Tambun Bekasi 17510,62 21 8822 150,sales@binderindo.co.id,,,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+29,VN00035,PT Kranindo Prima,Jl. Pangeran Jayakarta 46. Blok A1. Jakarta 10730,62 21 6243 151,suherman@kranindoprima.com,,,suherman@kranindoprima.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+30,VN00036,PT Karya Prima Suplindo,"Komplek Griya Inti Sentosa, Ruko Sunter Icon, Jl. Griya Sejahtera Blok L - 1 No. 12 - 14, Jakarta Utara 14350",62 21 2946 0111,sales@karyaprimasuplindo.co.id,,,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+31,VN00037,PT KPM Oil & Gas,"PSW Tower, 8th Floor, Jl. Pangeran Antasari No. 75, Cilandak, Jakarta Selatan, 12430",62 21 3970 8090,,,,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+32,VN00038,PT Valvindo Megah,Jl. Pangeran Jayakarta 68 Blok B No. 23 Jakarta,62 21 6498 323,sales@valvindo.com,,,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+33,VN00039,PT Fors Fortid Indonesia,"L'Avenue Office Tower 18th Floor Jl. Raya Pasar Minggu Kav. 16, Pancoran Jakarta Selatan 12780",021-8066 7133,marketing@fors-fortis.com,Steel door Bostinco,Yudianto,yudi.bostinco@gmail.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+34,VN00040,PT Bluescope Lysaght Indonesia,"Jl. Desa Danau Indah Blok Dd2/2 Kawasan Industri MM2100, Cibitung, Bekasi, Indonesia",021-8998 2965,,Roofing,Dicky Prabowo,dicky.prabowo@bluescope.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+35,VN00041,PT Union Metal,Menara Sudirman 16th Floor Jl. Jend. Sudirman Kav. 60,021-522 7707,marketing@unionmetal.co.id,Floordeck,Anton,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+36,VN00042,Indonesian Epoxy Floor,,,,,"Andriyana, SE",marketingepoxy@gmail.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+37,VN00043,PT Karlita Emas,Jl. Pegangsaan Dua Rukan Royal Gading Square Blok RG. 10/9 Jakarta Utara 14250,021-4483 4970 / 1671 / 1540,info@karlitaemas.com,Steel grating,Ulva W,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+38,VN00044,Adimix PCI Indonesia,"Jl. Imam Bonjol, Desa Telaga Asih, Cibitung, Bekasi",021-88362536,,Spun pile,Rinintia Arimurti,rin.arimurti@gmail.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+39,VN00045,PT KSB Indonesia & PT KSB Sales Indonesia,"Jl. Timor Block D2 - 1, MM2100 Industrial Town Cibitung, 17520 Indonesia, Secure Building Block B, 3 Floor, Jl. Raya Protokol Halim Perdanakusuma, Jakarta 13610 Indonesia",+62 21 808 86509,,,Tegar Supriyadi,tegar.supriyadi@ksb.co.id,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+40,VN00046,PT Petrotec Guna Perkasa,"Head Office: Jl. Raya Pos Pengumben No. 21H - Jakarta Barat 11630 - Indonesia, Operational Office: Jl. Tekno 4 Blok G1 No. 28 - 29, Taman Tekno - BSD City, Tangerang 15314 - Indonesia",+62-21-585 9764,,,Christy,christy@pgp.co.id,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+41,VN00047,PT Ashcrofindo Manunggal,"Jl. Pluit Selatan I No. 59, RT. 21 / RW. 8, Pluit, Penjaringan, Kota Jakarta Utara, Daerah Khusus Ibukota Jakarta 14450",+62-21-66 11 55 7,,,Rizal,rizal@ashcrofindo.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+42,VN00048,PT Bumi Cahaya Unggul,"Jl. Rawa Kepiting No. 3, Kawasan Industri Pulo Gadung, Rw. 3, Rawa Terate, Jakarta, Rw. 3, RW. Terate, Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13920",+62-21-29558400,,,Muluk,muluk.a@bcupt.id,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+43,VN00049,PT Roda Nurmala,PT Roda Nurmala Komplek Perkantoran Royal Sunter Jl. Danau Sunter Selatan Blok F No. 16 - 17 Jakarta Utara 14350 Indonesia,+62 21 6515689,,,Adi,adi@rodanurmala.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+44,VN00050,PT Duraquipt Cemerlang,"Jl. Limo Raya No. 9, Limo, Kota Depok, Jawa Barat 16515",+62 21 7535559,,,Neneng,neneng@ptdqc.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+45,VN00051,PT Enerflex Indonesia,"Jl. Raya Cilandak KKO Jl. Cilandak Commercial Estate No. 105, RT. 13 / RW. 5, Cilandak Tim., Pasar Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12560",+62 21 789 0180,,,R. Chandra,rchandra@enerflex.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+46,VN00052,PT SAS International,"Graha Semesta Building, 4th Floor, Jl. Raya Kebayoran Lama Pal VII. No. 31, Jakarta 12210, Indonesia",+62-21-5347880,,,Dani,dani@sasinternasional.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+47,VN00053,PT Fajar Mas Murni,"Jl. Raya Narogong 214 Bekasi 17116, West Java, Indonesia",+62-21 820 3989 / +62-21 820 3994,,,Cesar,cesar@fajarmasmurni.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+48,VN00054,PT Pacific Process Engineering,"Techno Park Industrial Estate, Sector XI, Block G2, No. 5, Bumi Serpong Damai (BSD) City 15322",+62 21 7588 1945,,,Jabbar,abdul.jabbar@pacificprocessengineering.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+49,VN00055,PT Dinar Inti Duba,"Gedung Hin An Lantai 3A Suite D., Jl. Kh. Hasyim Ashari No. 4 - 6 Jakarta Pusat",021-22633723,,,Steven,dinarintiduba@gmail.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+50,VN00056,PT Indobara,"Head Office: Jl. Gunung Sahari Raya, No. 57 G, Jakarta 10610",+62-21 420 9908 / +62-21 420 9033,,,Jeffry,jeffry@indobara.co.id,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+51,VN00057,PT Rantai Laut,"Jl. Pintu Air Raya No. 38H, Complex 38, Jakarta Pusat 10710, Indonesia",+62-21 386-0505 / +62-21 386-0606,,,Bobby Heryadi,bobby@rantai-laut.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+52,VN00058,PT Sabrindo,"Komp. Ruko Cempaka Mas Blok J No. 10, Jl. Letjen Suprapto, Jakarta - 10640 Indonesia",+62-21-29558400,,,Gilang,"gilang@saberindo.co.id
+info@saberindo.co.id",,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+53,VN00060,PT Kalimutu Mitra Perkasa,"Sentra Latumeten Blok Aa#18, Jl. Raya Latumenten Kav. 50 - Jakarta 11460",021 5696 0197,,,Citra Paramita,citra.hparamita@kalimutu.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+54,VN00061,PT Rejeki Utama,Wisma Geha. Jl. Timor No. 25. Jakarta 10350 - Indonesia,021 3162924,,,Susanto Pranoto,inquiry@rejekiutama.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+55,VN00062,Trafindo,Jl. Hayam Wuruk 4,021 3451384,,,Ir. Irwan Rochandi,irwan.r@trafoindonesia.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+56,VN00063,Perpro,Jl. Danau Sunter Utara Blok B 36A No. 10,021 6400751 / 021 6401849,,,Ikhsan Fahri Hanafi,,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+57,VN00064,Philips,Philips Building 2nd Floor Jl. Buncit Raya Kav. 99 - 100,021 29651333,,,Yopy Handian,yopy.handian@philips.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+58,VN00065,Kotaminyak,Jl. Bandengan Selatan No. 60A,021 6621725,,,Handri Petrus Sitinjak,petrus@kotaminyak.co.id,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+59,VN00066,Erico,"Erico Limited, Sampoerna Strategic Square, South Tower B Level 18, Jl. Jend. Sudirman Kav. 45 - 46",021 5750941,,,Erwin Elysar,eelysar@erico.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+60,VN00067,Schneider Electric,"Ventura Building 7th Floor Jl. R.A. Kartini Kav. 26, Cilandak",021 7504406,,,Ir. Nanang Agus Sandjoko,nanang.agus-sandjoko@schneider-electric.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+61,VN00068,Socomec,"Vinilon Building - Unit 02A, 3rd Floor Jl. Raden Saleh Kav. 13 - 17",021 29619645,,,Rana Gemilang,rana.gemilang@socomec.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+62,VN00069,Trakindo,Gedung TMT 11th - 17th Floor Jl. Cilandak KKO No. 1,021 29976620 / 021 7822373,,,Eko Aditiya,eko.aditya@trakindo.co.id,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+63,VN00070,Berkah Cipta Persada,Kawasan Industri Greenland - Kota Deltamas Jl. Greenland IV Blok AC No. 07 Cikarang,021 89972630,,,Yosserizal Adlim,yosserizal.adlim@berkahcipta.co.id,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+64,VN00071,Sucaco,Jl. Kebon Sirih 71,021 3100525,,,Agus Ilyas,agus@sucaco.com,,,,,2018-03-23 00:00:00,2018-03-23 00:00:00
+65,VN00072,Koperasi Reka Teknika Utama,Kalibata Timur 2 No. 27 Jakarta Selatan,79181180,teguh.santoso@re.rekayasa.co.id,Melayani semua kebutuhan kantor,Teguh Santoso,,081383023481,Ibu Elsa,,082122355770,2020-10-01 13:01:41,2020-10-01 13:01:41
+66,VN00073,Kontraktor Rifai,Jl. Kalibata Timur 2 No. 27,0217918180,jayadi@gmai.com,Pembangunan gedung,Jaya,,,,,,2023-06-15 09:38:20,2023-06-15 09:38:20
+67,VN00074,PT Intisari Komputindo,"Taman Palem Lestari Blok. H No. 62, Ruko Pelangi - Cengkareng, Jakarta Barat 11730",02155956262,lingga@intisari.co.id,Sales,Lingga,,085692791484,,,,2023-07-07 15:34:41,2023-07-07 15:34:41
+68,VN00075,Yolori,Online Tokopedia,1234567,tokopedia@gmail.com,Jual periperal komputer,,,,,,,2023-10-27 14:36:01,2023-10-27 14:36:01
+69,VN00076,Protech Computer,Tokopedia Online,1234567,tokopedia@gmail.com,Jual PC & laptop,,,,,,,2023-10-27 14:37:30,2023-10-27 14:37:30
+70,VN00077,Trinity Official Store,Tokopedia Online,1234567,it.ops@re.rekayasa.co.id,Jual sparepart IT,,,,,,,2024-01-21 23:28:06,2024-01-21 23:28:06
+71,VN00078,Agres ID,Tokopedia Online,1234567,it.ops@re.rekayasa.co.id,Jual laptop,,,,,,,2024-01-21 23:29:52,2024-01-21 23:29:52
+72,VN00079,Trans Survey,Kembangan Jakarta Barat,08192120879,transsurvey@gmai.com,Jakarta barat,Asep Mulyana,,,,,,2024-02-01 15:02:53,2024-02-01 15:02:53
+73,VN00080,PT Danan Wingus Sakti,"Ruko Season City SH/D/07, Jl. Prof Dr. Latumenten No. 33 Blok D Jembatan Besi, Tambora, Jakarta Barat 11320",02129071330,sales@ptdws.co.id,Licensed software,A. Wira W,,02129071330,,sales@ptdws.co.id,,2024-02-13 13:12:07,2024-02-13 13:12:07
+74,VN00081,PT Multi Prima Mandiri Sukses,"Jl. Hidup Baru Blok D No. 06 Gunung Sahari, Pademangan, Jakarta Utara 14420",02199634125,sales@multiprint.co.id,"Service printer, toner & tinta",Mr. Isman,,,,,,2024-02-13 13:14:37,2024-02-13 13:14:37
+75,VN00082,PT Putraduta Buanasentosa (Indoarsip),"Komp. Perkantoran Buncit Mas B - 12, Jl. Mampang Prapatan Raya No. 108 Jakarta Selatan",0217946390,krw-fax@indoarsip.co.id,Pengarsipan dokumen,Mr. Albert,,,,,,2024-02-13 13:17:28,2024-02-13 13:17:28
+76,VN00083,PD Duta Copy Service,"Jl. Bendungan Hilir Raya No. 36, Jakarta Pusat",0215701991,printing.duta@gmail.com,Fotocopy & jilid,Mr. Iwan Soedewa,,,,,,2024-02-13 13:19:17,2024-02-13 13:19:17
+77,VN00084,Koperasi Reka Sejahtera,Jl. Kalibata Timur I No. 36,0217988700,gito@rekayasa.co.id,General trading,Mr. Gito Waluyo,,,,,,2024-02-13 13:22:08,2024-02-13 13:22:08
+78,VN00085,PT Sarana Solusindo Informatika,"Jl. Sisingamangaraja No. 53 Kebayoran Baru, Jakarta 12110",0217201419,marketing@solusi.com,"Software license, training center, CAD/CAM solutions, professional services",Mr. Tri Handaka,,,,,,2024-02-13 13:23:53,2024-02-13 13:23:53
+79,VN00086,PT Abadi Jaya Makmur,Jl. Toko Tiga No. 30 Jakarta,0216911190,pd.abadi@yahoo.com,Office equipment & home furniture,Mrs. Meliza,,,,,,2024-02-13 13:30:16,2024-02-13 13:30:16
+80,VN00087,PT Onna Prima Utama,Jl. Kapuk Utara I No. 3 Jakarta 14460,02129328128,dwi.lestari@onna.co.id,Blinds specialist,Ms. Dwi Lestari,,,,,,2024-02-13 13:33:44,2024-02-13 13:33:44
+81,VN00118,PT Berkat Niaga Dunia,"Jl. Cideng Barat No. 47D, Cideng Jakarta Pusat",0216327060,sales@ptdws.co.id,PPE & safety gear,Mr. Kiansun,,,,,,2024-02-13 13:37:12,2024-02-13 13:37:12
+82,VN00088,PT Berca Carrier Indonesia,"Jl. Pangeran Jayakarta 149B, Jakarta 10730",085624655504,diki.zakaria@carrier.co.id,Software Hourly Analysis Program (HAP),Mr. Diki Zakaria,,,,,,2024-02-13 13:39:11,2024-02-13 13:39:11
+83,VN00089,PT Mitsubishi Jaya Elevator & Escalator,Gd. Jaya Lt. 11 Jl. MH Thamrin No. 12 Jakarta Pusat,081288101717,tata@mjee.co.id,Pemeliharaan lift,Mr. Tata,,,,,,2024-02-13 13:40:39,2024-02-13 13:40:39
+84,VN00090,"Codeware, Inc.","5224 Station Way, Sarasota Floor 34233, PO Box 741888, Atlanta, GA, 30384 - 1888 USA",9419272670,mary.samuels@codeware.com,Software COMPRESS,Mr. Mary Samuels,,,,,,2024-02-13 13:42:46,2024-02-13 13:42:46
+85,VN00091,Bentley Systems International Ltd.,"Block 2 Upper Floor, Park Place, Upper Hatch Street, Dublin D02 Np94 / IE",03534364600,manisha.shaw@bentley.com,Software SACS Offshore,Ms. Lannawati Kwee,,,,,,2024-02-13 13:45:56,2024-02-13 13:45:56
+86,VN00092,PT Lima Pilar Cakrawala,"Grand Galaxy City Blok RSA 1 No. 57, Bekasi",02182732227,fitri@lpc.co.id,Software & mail server specialist,Mrs. Fika Safitri,,,,,,2024-02-13 13:47:19,2024-02-13 13:47:19
+87,VN00093,PT Cipta Satria Informatika,"Jl. Keuangan I No. 11 Cilandak Barat, Jakarta Selatan 12430",085692962103,agung.pramudito@ciptasatria.com,"Licensed software, computer system & training specialist",Mr. Agung Pramudito,,,,,,2024-02-13 13:50:05,2024-02-13 13:50:05
+88,VN00094,PT Medatama (Mega Persada Utama),"Jl. Raya Inspeksi Saluran Kalimalang, Cipinang Bali III No. 1A, Jakarta Timur",02186607021,medatama100@gmail.com,"Pemeriksaan, pengujian & re-sertifikasi peralatan K3",Mr. Cornelis,,,,,,2024-02-13 13:51:23,2024-02-13 13:51:23
+89,VN00095,PT Recare,Jl. Kalibata Timur II No. 27 Jakarta Selatan,021798181180,mujiono@recare.rekayasa.co.id,"MPS, cleaning service",Mr. Muji,,,,,,2024-02-13 13:52:34,2024-02-13 13:52:34
+90,VN00096,Trimble Solutions SEA Pte. Ltd.,"3 Harbourfront Place #13 - 02 Harbourfront Tower, Singapore 099254",6562738775,tekla.indonesia@buildings.trimble.com,Licensed software,Mr. Leo Yulyardi,,,,,,2024-02-13 13:54:16,2024-02-13 13:54:16
+91,VN00097,PT Parsaoran Global Datatrans,"Graha Mampang Building 5th Floor, Jl. Mampang Prapatan No. 100 Jakarta 12760",02129841968,ari@hsp.net.id,Internet provider - HSPNet,Ms. Aryani,,,,,,2024-02-13 13:55:40,2024-02-13 13:55:40
+92,VN00098,Kayreach System,"Grand Slipi Tower 35th Floor Unit B - C, Jl. Letjen S Parman Kav. 22 - 24 Slipi, Jakarta Barat",02129022360,marketing@kayreach.com,Licensed software,Mr. Agung Pramudito,,,,,,2024-02-13 14:01:25,2024-02-13 14:01:25
+93,VN00099,Cahaya Jaya Services,"37 Jl. Pemimpin #07 - 07 MAPEX Building, Singapore 577177",6564814106,etap@cbn.net.id,Software,Mr. Moh. Hudri,,,,,,2024-02-13 14:03:02,2024-02-13 14:03:02
+94,VN00100,PT Piranti Sarana Technologi,"Jl. Hybrida Raya PF 23/7 - 8, Rw. 3, Pegangsaan Dua, Kelapa Gading, Jakarta 14250",02145865667,stef.siswanto@gmail.com,Software,Mr. Siswanto,,,,,,2024-02-13 14:04:48,2024-02-13 14:04:48
+95,VN00101,PT Multi Kharisma,"Rukan Daan Mogot Baru, Jl. Tampak Siring Blok KJG No. 18",082211017555,kevin@multi-kharisma.com,"Printer, PC, network",Mr. Kevin,,,,,,2024-02-13 14:07:05,2024-02-13 14:07:05
+96,VN00102,PT Lippo Insurance Tbk,"Lippo Kuningan Building Lantai 27 Unit A&F, Jl. H.R. Rasuna Said Kav. B - 12 Jakarta Selatan",08170760300,marketing01.gatsu@lippoinsurance.com,Asuransi gedung,Yuli Saputro,,,,,,2024-02-13 14:08:38,2024-02-13 14:08:38
+97,VN00103,PT Mitralab Buana,Jl. Agung Raya II No. 14 Lenteng Agung Jakarta Selatan,082172276415,info@mitralabbuana.co.id,Uji kualitas lingkungan,Syahrul Amri,,,,,,2024-02-13 14:10:18,2024-02-13 14:10:18
+98,VN00104,PT Arya Sentra Solusindo,"Jl. Abdul Majid Raya No. 33 Cipete Selatan, Jakarta Selatan",082246460645,aryasentraconsulting@gmail.com,Jasa konsultasi dan training,Angga,,,,,,2024-02-13 14:25:24,2024-02-13 14:25:24
+99,VN00105,PT Praba Sinergi Utama,"The Vida 7th Floor, Jl. Raya Perjuangan No. 8 Kebon Jeruk Jakarta Barat 11530 Indonesia",087887547599,nico.putra02@gmail.com,Jasa konsultasi dan training,Nico,,,,,,2024-02-13 14:26:55,2024-02-13 14:26:55
+100,VN00106,Anril Film,"Jl. Dr Ide Anak Agung Gde Agung Lot 8, 9/A9 Labtek II Building, 2nd Floor, Jl. Ganesa 10 Bandung 40132Gedung Kantor Taman A9 Unit C5 Lantai 3, Kuningan Timur Setiabudi, Jakarta Selatan",0816600130,kaufik@anril.com,Jasa foto aerial & video udara serta company profile,Kaufik Anril,,,,,,2024-02-13 14:28:54,2024-02-13 14:28:54
+101,VN00107,Beat Studio,"Mangkuluhur City Office 18th Floor, Jl. Gatot Subroto No. Kav. 2 - 3, RT. 1 / RW. 4, Karet Semanggi, Setiabudi, Jakarta",02127883335,txxj@thebeat.co,Jasa pemasaran perdagangan digital dan platrom pertukaran iklan,Julius Tio,,,,,,2024-02-13 14:42:29,2024-02-13 14:42:29
+102,VN00108,PT Prismaco,"Jl. Siliwangi No. 56, Sepanjang Jaya, Bekasi",02182427670,ahmad.haekal@prismaco.co.id,Jasa penjualan dan sewa mesin fotocopy beserta layanan purna jualnya,Haekal,,,,,,2024-02-13 14:46:37,2024-02-13 14:46:37
+103,VN00109,PT Kelola Buana Lestari,"Jl. Durian B.3 No. 1 Angkasa Puri Jati Asih, Bekasi",082211777203,kelola.buana@gmail.com,Pengelolaan limbah bahan berbahaya dan beracun (B3),Okky,,,,,,2024-02-13 14:48:47,2024-02-13 14:48:47
+104,VN00110,Intact Official Store,Tokopedia,12345678,tokopedia@gmail.com,Seller brand V-Gen & Orico,,,,,,,2024-03-26 14:30:08,2024-03-26 14:30:08
+105,VN00111,Tokopedia,Toko Online,12345678,tokopedia@gmail.com,Toko online,,,,,,,2024-09-24 09:38:14,2024-09-24 09:38:14
+106,VN00112,Titis,Jakarta,12345678,titis@gmail.com,Vendor project Iwan Kurniawan,,,,,,,2024-09-24 11:01:31,2024-09-24 11:01:31
+107,VN00113,Sunio Citra Teknologi,"Rukan City Square Blok C No. 15, Jl. Peta Selatan Jakarta 11840",02154338150,tommy@suniocitra.com,www.suniocitra.com,,,,,,,2025-02-11 14:15:51,2025-02-11 14:15:51
+108,VN00114,Sarana Solusindo Prima,"Jl. Bungur Besar No. 46X, Jakarta Pusat 10610",02142876596,sales@saranasolusindoprima.com,"Ph. (021)4287-6596,4287-6602",,,,,,,2025-02-11 14:18:39,2025-02-11 14:18:39
+109,VN00115,PT Cipta Tekno Solusindo,Tangerang,02179181180,marketing@solusindo.com,Vendor IT,Windy,,089608366897,,,,2026-05-19 16:32:19,2026-05-19 16:32:19
+110,VN00116,PT United Teknologi Integrasi,"Blok 21 Building, Jl. Siantar No. 18 Cideng, Jakarta Pusat 10150",081806994548,sales@uti.co.id,Vendor IT,Misar Sulaeman,,081806994548,,,,2026-08-31 09:56:27,2026-08-31 09:56:27
+111,VN00117,PT Sparta Computindo Teknologi,Jl. Raya Lenteng Agung Barat No. 8 Serengseng Sawah Jagakarsa,087780149485,sparta_computindo@yahoo.co.id,Vendor server,Iman,,087780149485,,,,2026-09-18 17:28:22,2026-09-18 17:28:22

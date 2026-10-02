@@ -1,0 +1,195 @@
+"id","code","name","address","city","telfon","fax","KodeWilayah","currency","syarat_bayar","email","description","cp_name1","cp_telp1","cp_email1","cp_name2","cp_telp2","cp_email2","create_date","create_owner","deletion","deletion_date","deletion_owner","attachment_1","attachment_2","direktori","att_format_1","att_format_2"
+9,"VN00001","Koperasi RE","Jl Kalibata Timur 1 No 27","NULL","(021) 79181180","NULL","DKI","IDR","30H","NULL","NULL","NULL","2.17918e+009","NULL","NULL","NULL","NULL","2018-04-05 14:10:42.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+10,"VN00002","Alfa Solusi","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:20:41.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+11,"VN00003","Cahaya Sukses","Komplek Rukan Puri Mutiara,blok A no.99,sunter, RT.2/RW.5, Sunter Agung, Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14350","NULL","021-5601496","0215601496","DKI","IDR","30H","","","","","","","","","2018-10-25 13:18:51.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+12,"VN00004","CASCASIA","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:26:50.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+13,"VN00005","CIPTA SATRIA INFORMATIKA","JL PEGANGSAAN TIMUR NO 32","NULL","021-7665004","021223325","BBL","IDR","30H","","","Doni","","","","","","2018-10-24 17:06:19.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+14,"VN00006","CODEWARE","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:27:37.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+15,"VN00007","DANAN WINGUS","NULL","NULL","021-5674573 / 75","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:28:34.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+16,"VN00008","Daniel","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:28:55.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+17,"VN00009","EDPMEDIA ","NULL","NULL","021-5805828 / 29","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:30:10.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+18,"VN00010","EVEREST TECHNOLOGY","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:30:28.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+19,"VN00011","Glodok","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:30:37.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+20,"VN00012","GRAMEDIA","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:30:49.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+21,"VN00013","INDOSYSTEM","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:30:58.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+22,"VN00014","MULTI KHARISMA","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:31:07.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+23,"VN00015","Multimedia Sejahtera Servitama","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:31:19.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+24,"VN00016","OPTIMA SOLUSINDO INFORMATIKA","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:31:33.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+25,"VN00017","PANCA PUTRA","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:31:50.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+26,"VN00018","PIRANTI SARANA","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:32:06.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+27,"VN00019","SARANA AIRCON UTAMA","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:32:21.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+28,"VN00020","SARANA SOLUSINDO","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:32:32.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+29,"VN00021","SENTRA GRAFIKA KOMPUMEDIA","JL KALIATA TIMUR II NO 27  PT REKAYASA ENGINEERING Gedung Graha RE Lt Mezzanine Div ICT","NULL","81310527999","NULL","DKI","IDR","30H","","","","","","","","","2018-11-12 08:31:08.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+30,"VN00022","SIEMENS","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:33:47.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+31,"VN00023","Sinergi","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:33:56.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+32,"VN00024","SURABAYA","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2017-01-04 13:34:10.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+33,"VN00025","Wilerdtindo","NULL","NULL","NULL","NULL","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2018-03-23 10:37:36.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+34,"VN00026","PT PARADISE PERKASA","Jl. Perancis No.l78 Kosambi,Dadap, Tangerang - Banten 15213","Banten","62 21 2967 3939","62 21 2967 3938","DKI","IDR","30H","info@paradiseperkasa.com","NULL","NULL","NULL","manroe@paradiseperkasa.com","NULL","NULL","NULL","2018-03-23 10:37:36.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+35,"VN00027","PT LOKA MANGGALA","Mutiara Taman Palem Blok A.8 No. 8 - Cengkareng Timur - Jakarta 11730","Jakarta","62 21 5435 0011","62 21 5435 0033","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+36,"VN00028","PT GOLDEN PRATAMA ENGINEERING","JL. Boulevard Raya BA 2/56 Gading Serpong, Pakulonan Barat, Tangerang, Banten 15810 ","Banten","62 21 5420 2980","62 21 5469 421","DKI","IDR","30H","sales@ptgoldenpe.com ","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+37,"VN00029","PT CRANE INDONESIA","Kawasan Industri Delta Silicone Blok AE No. 49, Jl. Akasia, Lippo Cikarang, Bekasi","Bekasi","62 21 8990 7980","62 21 8990 7980","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+38,"VN00030","PT MITRA GALPERTI","Sovereign Plaza, 6th Floor Jl. TB Simatupang Kav. 36 Cilandak, Jakarta Selatan 12430","Jakarta","62 21 2940 0108","62 21 2940 0109 ","DKI","IDR","30H","sales@galperti.co.id","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+39,"VN00031","PT FAJAR BENUA INDOPACK","Jl. Mayor Oking Jayaatmaja No. 88 Cibinong 16911 Jawa Barat, Indonesia","Cibinong","62 21 8791 8838","62 21 8791 884","DKI","IDR","30H","sales@fajarbenua.co.id","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+40,"VN00032","PT NICHIAS SUNIJAYA","Panin Life Center 2nd Floor Room 205 Jl. Letjend.S.Parman Kav.91 Jakarta 11420","Jakarta","62 21 5695 6207","62 21 5695 6208","DKI","IDR","30H","industrial_admin@nichias-id.com","NULL","NULL","NULL","autoparts@nichias-id.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+41,"VN00033","PT GAMAKO EKAKARSA","Jl. Pinangsia Timur No. 44 Jakarta 11110","Jakarta","62 21 6902 756","62 21 6902 758","DKI","IDR","30H","sales@gamako.co.id","NULL","NULL","NULL","donny@gamako.co.id","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+42,"VN00034","PT BINDER INDONESIA","Jl. Pangeran Diponegoro No. 108 - Tambun Bekasi 17510","Bekasi","62 21 8822 150","62 21 8807 334","DKI","IDR","30H","Sales@binderindo.co.id","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+43,"VN00035","PT KRANINDO PRIMA","Jl. Pangeran Jayakarta 46. Blok A1. Jakarta 10730","Jakarta","62 21 6243 151","62 21 6291 209","DKI","IDR","30H","suherman@kranindoprima.com","NULL","NULL","NULL","suherman@kranindoprima.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+44,"VN00036","PT KARYA PRIMA SUPLINDO","Komplek Griya Inti Sentosa, Ruko Sunter Icon, JL.Griya Sejahtera Blok L-1 No.12–14, Jakarta Utara 14350","Jakarta","62 21 2946 0111","62 21 2946 0666","DKI","IDR","30H","sales@karyaprimasuplindo.co.id","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+45,"VN00037","PT KPM OIL & GAS","PSW Tower, 8th Floor, Jl. Pangeran Antasari No.75, Cilandak, Jakarta Selatan, 12430","Jakarta","62 21  3970 8090","62 21 3970 0190","DKI","IDR","30H","NULL","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+46,"VN00038","PT VALVINDO MEGAH","Jln. Pangeran Jayakarta 68 Blok B No. 23 Jakarta","Jakarta","62 21 6498 323","62 21 6498 488","DKI","IDR","30H","sales@valvindo.com","NULL","NULL","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+47,"VN00039","PT. FORS FORTID INDONESIA                        (Steel Door Bostinco))","L'AVENUE OFFICE TOWER 18th FLOOR  Jl. Raya Pasar Minggu Kav. 16, Pancoran   Jakarta Selatan 12780","Jakarta","021-8066 7133","021-8066 7137","DKI","IDR","30H","marketing@fors-fortis.com","NULL","YUDIANTO","NULL","yudi.bostinco@gmail.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+48,"VN00040","PT. BLUESCOPE LYSAGHT INDONESIA      (Roofing)  ","Jl. Desa Danau Indah Blok DD2/2 Kawasan Industri MM2100,Cibitung, Bekasi, Indonesia","Jakarta","021-8998 2965","021-8998 2966","DKI","IDR","30H","NULL","NULL","Dicky Prabowo","NULL","Dicky.Prabowo@bluescope.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+49,"VN00041","PT. UNION METAL                                       (Floordeck)","MENARA SUDIRMAN 16th FLOOR  Jl. Jend. Sudirman Kav. 60","Jakarta","021-522 7707","021-522 7718/9","DKI","IDR","30H","marketing@unionmetal.co.id","NULL","ANTON","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+50,"VN00042","INDONESIAN EPOXY FLOOR","NULL","Jakarta","NULL","NULL","DKI","IDR","30H","NULL","NULL","ANDRIYANA, SE","NULL","Marketingepoxy@gmail.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+51,"VN00043","PT. KARLITA EMAS                                       ( Steel Grating)","Jl. Pegangsaan Dua Rukan Royal Gading Square Blok RG. 10/9 Jakarta Utara 14250","Jakarta","021-4483 4970/1671/1540","021-4483 2851","DKI","IDR","30H","info@karlitaemas.com","NULL","ULVA  W","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+52,"VN00044","ADIMIX PCI INDONESIA                            (Spun Pile)","Jl. Imam Bonjol , Desa Telaga Asih, Cibitung, Bekasi","Jakarta","021-88362536","021-88362531","DKI","IDR","30H","NULL","NULL","Rinintia Arimurti","NULL","rin.arimurti@gmail.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+53,"VN00045","PT KSB Indonesia & PT KSB Sales Indonesia","Jl. Timor Block D2-1, MM2100 Industrial Town Cibitung, 17520 Indonesia
+Secure Building Block B, 3 Floor, Jl. Raya Protokol Halim Perdanakusuma, Jakarta 13610 Indonesia","Jakarta","'+62 21 808 86509","NULL","DKI","IDR","30H","NULL","NULL","Tegar Supriyadi","NULL","tegar.supriyadi@ksb.co.id","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+54,"VN00046","PT. Petrotec Guna Perkasa","Head Office:
+Jl. Raya Pos Pengumben No. 21H – Jakarta Barat 11630 – Indonesia
+Operational Office:
+Jl. Tekno 4 Blok G1 No. 28-29, Taman Tekno – BSD City, Tangerang 15314 – Indonesia","Jakarta, Tangerang","'+62-21-585 9764 
+","'+62-21-585 9764 ","DKI","IDR","30H","NULL","NULL","Christy","NULL","christy@pgp.co.id","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+55,"VN00047","PT. Ashcrofindo Manunggal","Jl. Pluit Selatan I No.59, RT.21/RW.8, Pluit, Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14450","Jakarta","'+62-21-66 11 55 7","NULL","DKI","IDR","30H","NULL","NULL","Rizal","NULL","rizal@ashcrofindo.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+56,"VN00048","PT. Bumi Cahaya Unggul","Jln Rawa Kepiting No 3, Kawasan Industri Pulo Gadung, RW.3, Rawa Terate, Jakarta, RW.3, Rw. Terate, Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13920","Jakarta","'+62-21-29558400 ","NULL","DKI","IDR","30H","NULL","NULL","Muluk","NULL","muluk.a@bcupt.id ","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+57,"VN00049","PT. Roda Nurmala","PT Roda Nurmala Komplek Perkantoran Royal Sunter Jalan Danau Sunter Selatan Blok F No.16-17 Jakarta Utara 14350 Indonesia                ","Jakarta","'+62 21 6515689 ","NULL","DKI","IDR","30H","NULL","NULL","Adi","NULL","adi@rodanurmala.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+58,"VN00050","PT.Duraquipt Cemerlang","Jl. Limo Raya No.9, Limo, Kota Depok, Jawa Barat 16515.","Depok","'+62 21 7535559","NULL","DKI","IDR","30H","NULL","NULL","Neneng","NULL","neneng@ptdqc.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+59,"VN00051","PT. Enerflex Indonesia","Jl. Raya Cilandak Kko Jl. Cilandak Commercial Estate No.105, RT.13/RW.5, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12560","Jakarta","'+62 21 789 0180","NULL","DKI","IDR","30H","NULL","NULL","R. Chandra","NULL"," rchandra@enerflex.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+60,"VN00052","PT SAS International ","Graha Semesta Building, 4th floor 
+Jl. Raya Kebayoran Lama Pal VII. No. 31
+Jakarta 12210, Indonesia","jakarta","'+62-21-5347880","NULL","DKI","IDR","30H","NULL","NULL","Dani","NULL","dani@sasinternasional.com ","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+61,"VN00053","PT. Fajar Mas Murni","Jl. Raya Narogong 214 Bekasi 17116
+West Java, Indonesia
+","Bekasi","'+62-21 820 3989
++62-21 820 3994","NULL","DKI","IDR","30H","NULL","NULL","Cesar","NULL","cesar@fajarmasmurni.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+62,"VN00054"," PT. Pacific Process Engineering","Techno Park Industrial Estate, Sector XI, Block G2, No.5
+Bumi Serpong Damai (BSD) City 15322","Serpong","'+62 21 7588 1945","NULL","DKI","IDR","30H","NULL","NULL","jabbar","NULL","abdul.jabbar@pacificprocessengineering.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+63,"VN00055","PT. Dinar Inti Duba","Gedung Hin An Lantai 3A Suite D.
+Jl. KH. Hasyim Ashari No. 4-6 Jakarta Pusat","Jakarta","021-22633723","NULL","DKI","IDR","30H","NULL","NULL","Steven","NULL","Dinarintiduba@gmail.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+64,"VN00056","PT. Indobara","Head Office:
+Jl. Gunung Sahari Raya, No. 57 G, Jakarta 10610","Jakarta","'+62-21 420 9908
++62-21 420 9033","'+62-21 420 3454","DKI","IDR","30H","NULL","NULL","Jeffry","NULL","jeffry@indobara.co.id; ","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+65,"VN00057","PT. Rantai Laut","Jl. Pintu Air Raya No. 38H, 
+Complex 38, Jakarta Pusat 10710,
+Indonesia","Jakarta","'+62-21 386-0505
++62-21 386-0606","'+62-21 386-4545","DKI","IDR","30H","NULL","NULL","Bobby Heryadi","NULL","bobby@rantai-laut.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+66,"VN00058","PT. Sabrindo","Komp Ruko Cempaka Mas Blok J No 10
+Jl. Letjen Suprapto, Jakarta - 10640 Indonesia","Jakarta","'+62-21-29558400 "," ","DKI","IDR","30H","NULL","NULL","Gilang","NULL","gilang@saberindo.co.id
+info@saberindo.co.id","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+67,"VN00059","PT. Roda Nurmala","PT Roda Nurmala Komplek Perkantoran Royal Sunter Jalan Danau Sunter Selatan Blok F No.16-17 Jakarta Utara 14350 Indonesia                 ","Jakarta","'+62 21 6515689 ","NULL","DKI","IDR","30H","NULL","NULL","Adi","NULL","adi@rodanurmala.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+68,"VN00060","PT. Kalimutu Mitra Perkasa","Sentra Latumeten Blok AA#18
+JL. Raya Latumenten Kav. 50 – Jakarta 11460","Jakarta","021 5696 0197 ","021 5696 0497","DKI","IDR","30H","NULL","NULL","Citra Paramita","NULL","citra.hparamita@kalimutu.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+69,"VN00061","PT. Rejeki Utama","WISMA GEHA. Jl. Timor No.25. Jakarta 10350 – Indonesia","Jakarta","021 3162924","021 3162779","DKI","IDR","30H","NULL","NULL","Susanto Pranoto","NULL","inquiry@rejekiutama.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+70,"VN00062","Trafindo","Jl. Hayam Wuruk 4","Jakarta","021 3451384","021 5900616","DKI","IDR","30H","NULL","NULL","Ir. Irwan Rochandi","NULL","irwan.r@trafoindonesia.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+71,"VN00063","Perpro","Jl. Danau Sunter Utara Blok B 36A No. 10 ","Jakarta","021 6400751, 021 6401849","021-65308341","DKI","IDR","30H","NULL","NULL","Ikhsan Fahri Hanafi","NULL","NULL","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+72,"VN00064","Philips","Philips Building 2nd Floor Jl. Buncit Raya Kav. 99-100","Jakarta","021 29651333","021 7940050","DKI","IDR","30H","NULL","NULL","Yopy Handian","NULL","yopy.handian@philips.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+73,"VN00065","Kotaminyak","Jl. Bandengan Selatan No. 60A","Jakarta","021 6621725","021 6621733
+021 6621734","DKI","IDR","30H","NULL","NULL","Handri Petrus Sitinjak","NULL","petrus@kotaminyak.co.id","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+74,"VN00066","Erico","Erico Limited, Sampoerna Strategic Square, South Tower B Level 18, Jl. Jend. Sudirman Kav 45-46","Jakarta","021 5750941","021 5750942","DKI","IDR","30H","NULL","NULL","Erwin Elysar","NULL","eelysar@erico.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+75,"VN00067","Schneider Electric","Ventura Building 7th floor Jl. R.A Kartini Kav.26, Cilandak","Jakarta","021 7504406","021 7504415-16","DKI","IDR","30H","NULL","NULL","Ir. Nanang Agus Sandjoko","NULL","nanang.agus-sandjoko@schneider-electric.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+76,"VN00068","Socomec","Vinilon Building - Unit 02A, 3rd Floor Jl. Raden Saleh Kav. 13-17","Jakarta","021 29619645","021 29619644","DKI","IDR","30H","NULL","NULL","Rana Gemilang","NULL","rana.gemilang@socomec.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+77,"VN00069","Trakindo","Gedung TMT 11th - 17th Floor Jl. Cilandak KKO No. 1","Jakarta","021 29976620
+021 7822373","021 29976612
+021 7822357","DKI","IDR","30H","NULL","NULL","Eko Aditiya","NULL","eko.aditya@trakindo.co.id","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+78,"VN00070","Berkah Cipta Persada","Kawasan Industri Greenland - Kota Deltamas Jl. Greenland IV Blok AC No. 07 Cikarang","Bekasi","021 89972630","021 89972634","DKI","IDR","30H","NULL","NULL","Yosserizal Adlim","NULL","yosserizal.adlim@berkahcipta.co.id","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+79,"VN00071","Sucaco","Jl. Kebon Sirih 71 ","Jakarta","021 3100525","021 31931119","DKI","IDR","30H","NULL","NULL","Agus Ilyas","NULL","agus@sucaco.com","NULL","NULL","NULL","2018-03-23 00:00:00.000","302716",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+80,"VN00072","Koperasi Reka Teknika Utama","Kalibata Timur 2 no. 27 Jakarta Selatan","NULL","79181180","NULL","DKI","IDR","H30","teguh.santoso@re.rekayasa.co.id","Melayani semua kebutuhan kantor","Teguh Santoso","081383023481","","ibu elsa","082122355770","","2020-10-01 13:01:41.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1080,"VN00073","Kontraktor Rifai","Jalan Kalibata Timur 2 No 27","NULL","0217918180","NULL","DKI","IDR","H30","jayadi@gmai.com","Pembangunan gedung","Jaya","","","","","","2023-06-15 09:38:20.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1081,"VN00074","PT. INTISARI KOMPUTINDO","Taman Palem Lestari Blok. H No. 62 
+Ruko Pelangi – Cengkareng 
+Jakarta Barat 11730 ","NULL","02155956262","NULL","DKI","IDR","H30","lingga@intisari.co.id","Sales","Lingga","085692791484","","","","","2023-07-07 15:34:41.000","053573",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1082,"VN00075","YOLORI","Online Tokopedia","NULL","1234567","NULL","DKI","IDR","H30","tokopedia@gmail.com","Jual periperal Komputer","","","","","","","2023-10-27 14:36:01.000","053573",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1083,"VN00076","Protech Computer","Tokopedia Online","NULL","1234567","NULL","DKI","IDR","H30","tokopedia@gmail.com","Jual PC & Laptop","","","","","","","2023-10-27 14:37:30.000","053573",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1084,"VN00077","Trinity Official Store","Tokopedia Online","NULL","1234567","NULL","DKI","IDR","H30","it.ops@re.rekayasa.co.id","Jual Sparepart IT","","","","","","","2024-01-21 23:28:06.000","053573",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1085,"VN00078","Agres ID","Tokopedia Online","NULL","1234567","NULL","DKI","IDR","H30","it.ops@re.rekayasa.co.id","Jual Laptop","","","","","","","2024-01-21 23:29:52.000","053573",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1086,"VN00079","Trans survey","Kembangan Jakarta Barat","NULL","08192120879","NULL","DKI","IDR","H30","transsurvey@gmai.com","Jakarta Barat","Asep Mulyana","","","","","","2024-02-01 15:02:53.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1087,"VN00080"," PT Danan Wingus Sakti "," Ruko Season City SH/D/07 
+ Jl Prof Dr.Latumenten No 33 Blok D Jembatan Besi 
+ Tambora, Jakarta Barat 11320 ","NULL","02129071330","NULL","DKI","IDR","H30","sales@ptdws.co.id"," Licensed Software 
+","A.Wira W","02129071330","","","","sales@ptdws.co.id","2024-02-13 13:12:07.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1088,"VN00081"," PT Multi Prima Mandiri Sukses "," Jl.Hidup Baru Blok D No.06 Gunung Sahari 
+ Pademangan, Jakarta Utara 14420 ","NULL","02199634125","NULL","DKI","IDR","H30","sales@multiprint.co.id"," Service Printer, Toner & Tinta 
+","Mr.Isman","","","","","","2024-02-13 13:14:37.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1089,"VN00082"," PT Putraduta Buanasentosa   (Indoarsip) "," Komp.Perkantoran Buncit Mas B-12 
+ Jl.Mampang Prapatan Raya No.108 Jakarta Selatan ","NULL","0217946390","NULL","DKI","IDR","H30","krw-fax@indoarsip.co.id"," Pengarsipan dokumen 
+","Mr.Albert","","","","","","2024-02-13 13:17:28.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1090,"VN00083"," PD Duta Copy Service "," Jl. Bendungan Hilir Raya No.36  
+ Jakarta Pusat ","NULL","0215701991","NULL","DKI","IDR","H30","printing.duta@gmail.com"," Fotocopy & Jilid 
+","Mr.Iwan Soedewa","","","","","","2024-02-13 13:19:17.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1091,"VN00084"," Koperasi Reka Sejahtera "," Jl. Kalibata Timur I No.36 
+","NULL","0217988700","NULL","DKI","IDR","H30","gito@rekayasa.co.id"," General Trading 
+","Mr.Gito Waluyo","","","","","","2024-02-13 13:22:08.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1092,"VN00085"," PT Sarana Solusindo Informatika "," Jl. Sisingamangaraja No.53 Kebayoran Baru  
+ Jakarta 12110 ","NULL","0217201419","NULL","DKI","IDR","H30","marketing@solusi.com"," Software Lisence, Training Center, CAD/CAM Solutions, Professional Services ","Mr.Tri Handaka","","","","","","2024-02-13 13:23:53.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1093,"VN00086"," PT ABADI JAYA MAKMUR "," JL. Toko Tiga No. 30 Jakarta 
+","NULL","0216911190","NULL","DKI","IDR","H30","pd.abadi@yahoo.com"," OFFICE EQUIPMENT & HOME FURNITURE ","Mrs.Meliza","","","","","","2024-02-13 13:30:16.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1094,"VN00087"," PT Onna Prima Utama "," JL. Kapuk Utara I No.3 Jakarta 14460 
+","NULL","02129328128","NULL","DKI","IDR","H30","dwi.lestari@onna.co.id"," BLINDS SPECIALIST 
+","Ms.Dwi Lestari","","","","","","2024-02-13 13:33:44.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1095,"VN00080"," PT. Berkat Niaga Dunia "," Jl. Cideng Barat No. 47D, Cideng Jakarta Pusat 
+","NULL","0216327060","NULL","DKI","IDR","H30","sales@ptdws.co.id"," PPE & Safety Gear 
+","Mr.Kiansun","","","","","","2024-02-13 13:37:12.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1096,"VN00088"," PT Berca Carrier Indonesia "," Jl Pangeran Jayakarta 149B 
+ Jakarta 10730 ","NULL","085624655504","NULL","DKI","IDR","H30","diki.zakaria@carrier.co.id"," Software Hourly Analysis Program (HAP) 
+","Mr. Diki Zakaria","","","","","","2024-02-13 13:39:11.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1097,"VN00089"," PT Mitsubishi Jaya Elevator & Escalator "," Gd.Jaya Lt.11 Jl. MH Thamrin No.12 Jakpus 
+","NULL","081288101717","NULL","DKI","IDR","H30","tata@mjee.co.id"," Pemeliharaan Lift  
+","Mr. Tata","","","","","","2024-02-13 13:40:39.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1098,"VN00090"," Codeware, Inc "," 5224 Station Way, Sarasota Fl 34233 
+ PO BOX 741888, Atlanta, GA, 30384-1888 USA ","NULL","9419272670","NULL","DKI","IDR","H30","mary.samuels@codeware.com"," Software COMPRESS ","Mr. Mary Samuels","","","","","","2024-02-13 13:42:46.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1099,"VN00091"," Bentley Systems International Ltd. "," Block 2 Upper Floor, Park Place 
+ Upper Hatch Street, Dublin D02 NP94 / IE ","NULL","03534364600","NULL","DKI","IDR","H30","Manisha.shaw@Bentley.com"," Software SACS Offshore 
+","Ms.Lannawati Kwee","","","","","","2024-02-13 13:45:56.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1100,"VN00092"," PT Lima Pilar Cakrawala "," Grand Galaxy City Blok RSA 1 No.57 
+ Bekasi  ","NULL","02182732227","NULL","DKI","IDR","H30","fitri@lpc.co.id"," Software & Mail Server Specialist 
+","Mrs, Fika Safitri","","","","","","2024-02-13 13:47:19.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1101,"VN00093"," PT Cipta Satria Informatika "," Jl. Keuangan I No.11 Cilandak Barat  
+ Jakarta Selatan 12430 ","NULL","085692962103","NULL","DKI","IDR","H30","agung.pramudito@ciptasatria.com"," Licensed Software, Computer System & Training Spesialist ","Mr.Agung Pramudito","","","","","","2024-02-13 13:50:05.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1102,"VN00094"," PT Medatama (Mega Persada Utama) "," Jl.Raya Inspeksi Saluran Kalimalang, Cipinang Bali III No.1A, Jakarta Timur ","NULL","02186607021","NULL","DKI","IDR","H30","medatama100@gmail.com"," Pemeriksaan, Pengujian & Re-Sertifikasi Peralatan K3 
+","Mr. Cornelis","","","","","","2024-02-13 13:51:23.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1103,"VN00095"," PT Recare  "," Jl. Kalibata Timur II No. 27 Jakarta Selatan 
+","NULL","021798181180","NULL","DKI","IDR","H30","mujiono@recare.rekayasa.co.id"," MPS, Cleaning Service 
+","Mr.Muji","","","","","","2024-02-13 13:52:34.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1104,"VN00096"," Trimble Solutions SEA Pte.Ltd "," 3 Harbourfront Place #13-02 Harbourfront Tower 
+ Singapore 099254 ","NULL","6562738775","NULL","DKI","IDR","H30","tekla.indonesia@buildings.trimble.com"," Licensed Software 
+","Mr.Leo Yulyardi","","","","","","2024-02-13 13:54:16.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1105,"VN00097"," PT Parsaoran Global Datatrans "," Graha Mampang Building 5th Fl, Jl.Mampang Prapatan No 100 Jakarta 12760 ","NULL","02129841968","NULL","DKI","IDR","H30","ari@hsp.net.id"," Internet Provider - HSPNet 
+","Ms.Aryani","","","","","","2024-02-13 13:55:40.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1106,"VN00098"," Kayreach System "," Grand Slipi Tower 35th Fl Unit B-C 
+ Jl Letjen S Parman Kav 22-24 Slipi, Jakarta Barat ","NULL","02129022360","NULL","DKI","IDR","H30","marketing@kayreach.com"," Licensed Software 
+","Mr.Agung Pramudito","","","","","","2024-02-13 14:01:25.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1107,"VN00099"," Cahaya Jaya Services "," 37 Jalan Pemimpin #07-07 MAPEX Building 
+ Singapore 577177 ","NULL","6564814106","NULL","DKI","IDR","H30","etap@cbn.net.id"," Software 
+","Mr.Moh.Hudri","","","","","","2024-02-13 14:03:02.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1108,"VN00100"," PT Piranti Sarana Technologi "," Jl Hybrida raya PF 23/7-8, RW.3, Pegangsaan Dua, Kelapa Gading, Jakarta 14250 ","NULL","02145865667","NULL","DKI","IDR","H30","stef.siswanto@gmail.com"," Software 
+","Mr.Siswanto","","","","","","2024-02-13 14:04:48.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1109,"VN00101"," PT Multi Kharisma "," Rukan Daan Mogot Baru, Jl. Tampak Siring Blok KJG No. 18 ","NULL","082211017555","NULL","DKI","IDR","H30","kevin@multi-kharisma.com"," Printer, PC, Network 
+","Mr.Kevin","","","","","","2024-02-13 14:07:05.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1110,"VN00102"," PT Lippo Insurance Tbk "," Lippo Kuningan Building Lantai 27 Unit A&F, Jl. H.R. Rasuna Said Kav. B-12 Jakarya Selatan ","NULL","08170760300","NULL","DKI","IDR","H30","marketing01.gatsu@lippoinsurance.com"," Asuransi Gedung 
+","Yuli Saputro","","","","","","2024-02-13 14:08:38.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1111,"VN00103"," PT. Mitralab Buana "," Jl. Agung Raya II No. 14 Lenteng Agung Jakarta Selatan  ","NULL","082172276415","NULL","DKI","IDR","H30","info@mitralabbuana.co.id"," Uji Kualitas Lingkungan 
+","Syahrul Amri","","","","","","2024-02-13 14:10:18.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1112,"VN00104"," PT. Arya Sentra Solusindo "," Jl. Abdul Majid Raya No. 33 Cipete Selatan –, Jakarta Selatan ","NULL","082246460645","NULL","DKI","IDR","H30","aryasentraconsulting@gmail.com"," Jasa konsultasi dan training 
+","Angga","","","","","","2024-02-13 14:25:24.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1113,"VN00105"," PT. Praba Sinergi Utama "," The Vida 7th Floor, Jalan Raya Perjuangan No.8 Kebon Jeruk Jakarta Barat 11530 Indonesia ","NULL","087887547599","NULL","DKI","IDR","H30","nico.putra02@gmail.com"," Jasa konsultasi dan training 
+","Nico","","","","","","2024-02-13 14:26:55.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1114,"VN00106"," Anril Film "," Jalan Dr Ide Anak Agung Gde Agung Lot 8,9/A9 LABTEK II BUILDING, 2ND FLOOR, JLN. GANESA 10 BANDUNG 40132Gedung Kantor Taman A9 Unit C5 Lantai 3, Kuningan Timur Setiabudi, Jakarta Selatan ","NULL","0816600130","NULL","DKI","IDR","H30","kaufik@anril.com"," Jasa Foto Aerial & Video Udara serta company profile 
+","Kaufik Anril","","","","","","2024-02-13 14:28:54.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1115,"VN00107"," Beat Studio "," Mangkuluhur City Office 18th Floor, Jl. Gatot Subroto No.Kav 2-3, RT.1/RW.4, Karet Semanggi, Setiabudi, Jakarta 
+","NULL","02127883335","NULL","DKI","IDR","H30","txxj@thebeat.co"," Jasa pemasaran perdagangan digital dan platrom pertukaran iklan 
+","Julius Tio","","","","","","2024-02-13 14:42:29.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1116,"VN00108"," PT. Prismaco "," Jl. Siliwangi No. 56, Sepanjang Jaya, Bekasi  
+","NULL","02182427670","NULL","DKI","IDR","H30","ahmad.haekal@prismaco.co.id"," Jasa penjualan dan sewa mesin fotocopy beserta layanan purna jualnya 
+","Haekal","","","","","","2024-02-13 14:46:37.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1117,"VN00109"," PT. Kelola Buana Lestari "," Jl. Durian B.3 No. 1 Angkasa Puri Jati Asih, Bekasi 
+","NULL","082211777203","NULL","DKI","IDR","H30","kelola.buana@gmail.com"," Pengelolaan Limbah Bahan Berbahaya dan Beracun (B3) 
+","Okky","","","","","","2024-02-13 14:48:47.000","130090",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1118,"VN00110","Intact Official Store","Tokopedia","NULL","12345678","NULL","DKI","IDR","H30","tokopedia@gmail.com","Seller Brand Vgen & Orico","","","","","","","2024-03-26 14:30:08.000","053573",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1119,"VN00111","Tokopedia","Toko Online","NULL","12345678","NULL","DKI","IDR","H30","tokopedia@gmail.com","Toko Online","","","","","","","2024-09-24 09:38:14.000","053573",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1120,"VN00112","TITIS","jakarta","NULL","12345678","NULL","DKI","IDR","H30","titis@gmail.com","Vendor Project Iwan Kurniawan","","","","","","","2024-09-24 11:01:31.000","053573",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1121,"VN00113","Sunio Citra Teknologi","Rukan City Square Blok C No.15, Jln. Peta Selatan Jakarta 11840","NULL","02154338150","NULL","DKI","IDR","H30","tommy@suniocitra.com","www.suniocitra.com","","","","","","","2025-02-11 14:15:51.000","053573",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1122,"VN00114","Sarana Solusindo Prima","Jl.Bungur Besar No.46X
+Jakarta Pusat 10610","NULL","02142876596","NULL","DKI","IDR","H30","sales@saranasolusindoprima.com","Ph. (021)4287-6596,4287-6602","","","","","","","2025-02-11 14:18:39.000","053573",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1123,"VN00115","PT.Cipta Tekno Solusindo","Tangerang","NULL","02179181180","NULL","DKI","IDR","H30","marketing@solusindo.com","Vendor IT","Windy","089608366897","","","","","2026-05-19 16:32:19.000","225164",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1124,"VN00116","PT United Teknologi Integrasi","Blok 21 Building,Jl. Siantar No. 18 Cideng, Jakarta Pusat 10150","NULL","081806994548","NULL","DKI","IDR","H30","sales@uti.co.id","Vendor IT","Misar Sulaeman","081806994548","","","","","2026-08-31 09:56:27.000","225164",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"
+1125,"VN00117","PT.SPARTA COMPUTINDO TEKNOLOGI","Jl.Raya Lenteng Agung Barat No.8 Serengseng Sawah Jagakarsa","NULL","087780149485","NULL","DKI","IDR","H30","sparta_computindo@yahoo.co.id","Vendor Server","IMAN","087780149485","","","","","2026-09-18 17:28:22.000","225164",0,"NULL","NULL","NULL","NULL","NULL","NULL","NULL"

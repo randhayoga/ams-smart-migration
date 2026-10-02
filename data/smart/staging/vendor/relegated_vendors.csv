@@ -1,0 +1,8 @@
+ams_id,ams_code,ams_vendor_name,target_ams_id,target_smart_id,target_smart_code,target_smart_name,issue_type,action_taken,notes
+13,VN00005,CIPTA SATRIA INFORMATIKA,1101.0,87,VN00093,PT Cipta Satria Informatika,legacy_bare_record,"Consolidated into PT Cipta Satria Informatika (Smart ID: 87, Code: VN00093)",Merged into authoritative master profile
+14,VN00006,CODEWARE,1098.0,84,VN00090,"Codeware, Inc.",legacy_bare_record,"Consolidated into Codeware, Inc. (Smart ID: 84, Code: VN00090)",Merged into authoritative master profile
+15,VN00007,DANAN WINGUS,1087.0,73,VN00080,PT Danan Wingus Sakti,legacy_bare_record,"Consolidated into PT Danan Wingus Sakti (Smart ID: 73, Code: VN00080)",Merged into authoritative master profile
+22,VN00014,MULTI KHARISMA,1109.0,95,VN00101,PT Multi Kharisma,legacy_bare_record,"Consolidated into PT Multi Kharisma (Smart ID: 95, Code: VN00101)",Merged into authoritative master profile
+26,VN00018,PIRANTI SARANA,1108.0,94,VN00100,PT Piranti Sarana Technologi,legacy_bare_record,"Consolidated into PT Piranti Sarana Technologi (Smart ID: 94, Code: VN00100)",Merged into authoritative master profile
+28,VN00020,SARANA SOLUSINDO,1092.0,78,VN00085,PT Sarana Solusindo Informatika,legacy_bare_record,"Consolidated into PT Sarana Solusindo Informatika (Smart ID: 78, Code: VN00085)",Merged into authoritative master profile
+67,VN00059,PT. Roda Nurmala,57.0,43,VN00049,PT Roda Nurmala,duplicate_vendor,"Consolidated into PT Roda Nurmala (Smart ID: 43, Code: VN00049)",Merged into authoritative master profile

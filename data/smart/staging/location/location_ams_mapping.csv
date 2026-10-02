@@ -1,0 +1,174 @@
+ams_id,ams_code,ams_location_name,smart_location_id,smart_name,level,notes
+36,100000.0,Graha RE 1,36.0,Graha RE 1,1.0,Primary master record
+37,110000.0,Graha RE 2,37.0,Graha RE 2,1.0,Primary master record
+38,101000.0,Lantai Mezzanine,38.0,Lantai Mezzanine,2.0,Primary master record
+39,102000.0,Lantai 1,39.0,Lantai 1,2.0,Primary master record
+41,103000.0,Lantai 2,41.0,Lantai 2,2.0,Primary master record
+42,104000.0,Lantai 3,42.0,Lantai 3,2.0,Primary master record
+44,111000.0,Basement,44.0,Basement,2.0,Primary master record
+45,112000.0,Mezzanine,45.0,Mezzanine,2.0,Primary master record
+46,113000.0,Lantai 1,46.0,Lantai 1,2.0,Primary master record
+47,114000.0,Lantai 2,47.0,Lantai 2,2.0,Primary master record
+77,120000.0,NODATA,77.0,NODATA,1.0,Primary master record
+80,105000.0,Lantai 4,80.0,Lantai 4,2.0,Primary master record
+81,101001.0,Halaman Selatan,81.0,Halaman Selatan,3.0,Primary master record
+82,101002.0,Halaman timur,82.0,Halaman Timur,3.0,Primary master record
+83,101003.0,Halaman Barat,83.0,Halaman Barat,3.0,Primary master record
+84,101004.0,Halaman Utara,84.0,Halaman Utara,3.0,Primary master record
+85,101005.0,Koperasi,85.0,Koperasi,3.0,Primary master record
+86,101006.0,Gudang Recon,86.0,Gudang Recon,3.0,Primary master record
+87,101007.0,Gardu PLN,87.0,Gardu PLN,3.0,Primary master record
+88,101008.0,Smooking Room,88.0,Smoking Room,3.0,Primary master record
+89,101009.0,Kantin,89.0,Kantin,3.0,Primary master record
+90,101010.0,Driver Room,90.0,Driver Room,3.0,Primary master record
+91,101011.0,SOS Room,91.0,SOS Room,3.0,Primary master record
+92,101012.0,Area STP,92.0,Area STP,3.0,Primary master record
+93,101013.0,Pump Room,93.0,Pump Room,3.0,Primary master record
+94,101014.0,Pos security,94.0,Pos Security,3.0,Primary master record
+95,101015.0,Lobby Utama,95.0,Lobby Utama,3.0,Primary master record
+96,101016.0,Koridor Selatan,96.0,Koridor Selatan,3.0,Primary master record
+98,101017.0,Koridor Utara,98.0,Koridor Utara,3.0,Primary master record
+99,101018.0,Koridor Barat,99.0,Koridor Barat,3.0,Primary master record
+100,101019.0,Toilet Wanita,100.0,Toilet Wanita,3.0,Primary master record
+101,101020.0,Toilet Pria,101.0,Toilet Pria,3.0,Primary master record
+102,101021.0,Panel Listrik Barat,102.0,Panel Listrik Barat,3.0,Primary master record
+103,101022.0,Panel Listrik Utara,103.0,Panel Listrik Utara,3.0,Primary master record
+104,101023.0,Ruang Panel,104.0,Ruang Panel,3.0,Primary master record
+105,101024.0,Panel IT Utara,105.0,Panel IT Utara,3.0,Primary master record
+106,101025.0,Panel AC AHU,106.0,Panel AC AHU,3.0,Primary master record
+107,101026.0,Area tangga darurat,107.0,Area Tangga Darurat,3.0,Primary master record
+108,101027.0,Area tangga utama,108.0,Area Tangga Utama,3.0,Primary master record
+109,101028.0,Pantry,109.0,Pantry,3.0,Primary master record
+110,101029.0,Dokter & Laktasi,110.0,Dokter & Laktasi,3.0,Primary master record
+111,111006.0,Ruang Meeting Sidoasih,111.0,Ruang Meeting Sidoasih,3.0,Primary master record
+112,101031.0,Ruang Meeting Truntum,112.0,Ruang Meeting Truntum,3.0,Primary master record
+113,101032.0,Ex Document Room,113.0,Ex Document Room,3.0,Primary master record
+114,101033.0,ICT Department,114.0,ICT Department,3.0,Primary master record
+115,101034.0,HRM Department,115.0,HRM Department,3.0,Primary master record
+116,101035.0,CFS Department,116.0,CFS Department,3.0,Primary master record
+117,101036.0,PPC Department,117.0,PPC Department,3.0,Primary master record
+118,101037.0,Area Kerja Umum,118.0,Area Kerja Umum,3.0,Primary master record
+119,101038.0,ICT Training Room,119.0,ICT Training Room,3.0,Primary master record
+120,101039.0,3DD Department Barat,120.0,3DD Department Barat,3.0,Primary master record
+121,101040.0,3DD Department Timur,121.0,3DD Department Timur,3.0,Primary master record
+122,101041.0,Lift ,122.0,Lift,3.0,Primary master record
+123,102001.0,Koridor Utara,123.0,Koridor Utara,3.0,Primary master record
+124,102002.0,Koridor Selatan,124.0,Koridor Selatan,3.0,Primary master record
+125,102003.0,Koridor Barat,125.0,Koridor Barat,3.0,Primary master record
+127,102005.0,Toilet Pria,127.0,Toilet Pria,3.0,Primary master record
+128,102006.0,Toilet Wanita,128.0,Toilet Wanita,3.0,Primary master record
+129,102007.0,Musholla Pria,129.0,Musholla Pria,3.0,Primary master record
+130,102008.0,Musholla Wanita,130.0,Musholla Wanita,3.0,Primary master record
+131,102009.0,Panel AC AHU,131.0,Panel AC AHU,3.0,Primary master record
+132,102010.0,Ruang Meeting Rasamala,132.0,Ruang Meeting Rasamala,3.0,Primary master record
+133,101042.0,Ruang Meeting Sidomukti,133.0,Ruang Meeting Sidomukti,3.0,Primary master record
+134,102012.0,Area Kerja Umum Selatan,134.0,Area Kerja Umum Selatan,3.0,Primary master record
+135,102013.0,Area Kerja Umum Utara,135.0,Area Kerja Umum Utara,3.0,Primary master record
+136,102014.0,General Manager Room,136.0,General Manager Room,3.0,Primary master record
+137,102015.0,Project Manager Room,137.0,Project Manager Room,3.0,Primary master record
+138,102016.0,Marketing Department,138.0,Marketing Department,3.0,Primary master record
+139,102017.0,Piping & Mechanical Department Barat,139.0,Piping & Mechanical Department Barat,3.0,Primary master record
+140,102018.0,Piping & Mechanical Department Timur,140.0,Piping & Mechanical Department Timur,3.0,Primary master record
+141,102019.0,Area tangga darurat ,141.0,Area Tangga Darurat,3.0,Primary master record
+142,102020.0,Koridor Tangga Luar ,142.0,Koridor Tangga Luar,3.0,Primary master record
+143,103001.0,Koridor Utara,143.0,Koridor Utara,3.0,Primary master record
+144,103002.0,Koridor Barat,144.0,Koridor Barat,3.0,Primary master record
+145,103003.0,Toilet Pria,145.0,Toilet Pria,3.0,Primary master record
+146,103004.0,Toilet Wanita,146.0,Toilet Wanita,3.0,Primary master record
+147,103005.0,Toilet VIP,147.0,Toilet VIP,3.0,Primary master record
+148,103006.0,Pantry,148.0,Pantry,3.0,Primary master record
+149,103007.0,Area Sekertaris,149.0,Area Sekretaris,3.0,Primary master record
+150,103008.0,Area tangga darurat,150.0,Area Tangga Darurat,3.0,Primary master record
+151,103009.0,Ruang Meeting Parangkusumo,151.0,Ruang Meeting Parangkusumo,3.0,Primary master record
+153,103010.0,Finance Department Timur,153.0,Finance Department Timur,3.0,Primary master record
+154,103011.0,Finance Department Barat,154.0,Finance Department Barat,3.0,Primary master record
+155,103012.0,Ruang Direktur Utama,155.0,Ruang Direktur Utama,3.0,Primary master record
+156,103013.0,Ruang Direktur Operasional,156.0,Ruang Direktur Operasional,3.0,Primary master record
+157,103014.0,Ruang Direktur Keuangan dan Infrastruktur,157.0,Ruang Direktur Keuangan dan Infrastruktur,3.0,Primary master record
+158,104001.0,Koridor Utara,158.0,Koridor Utara,3.0,Primary master record
+159,104002.0,Koridor Barat,159.0,Koridor Barat,3.0,Primary master record
+160,104003.0,Toilet Pria,160.0,Toilet Pria,3.0,Primary master record
+161,104004.0,Toilet Wanita,161.0,Toilet Wanita,3.0,Primary master record
+162,104005.0,Pantry,162.0,Pantry,3.0,Primary master record
+163,104006.0,Ruang Fotokopi,163.0,Ruang Fotokopi,3.0,Primary master record
+164,104007.0,Ruang Meeting Megamendung,164.0,Ruang Meeting Megamendung,3.0,Primary master record
+165,104008.0,Civil Department Timur,165.0,Civil Department Timur,3.0,Primary master record
+166,104009.0,Civil Department Barat,166.0,Civil Department Barat,3.0,Primary master record
+167,104010.0,Tangga Darurat,167.0,Tangga Darurat,3.0,Primary master record
+168,105001.0,Koridor Utara,168.0,Koridor Utara,3.0,Primary master record
+169,105002.0,Area tangga darurat,169.0,Area Tangga Darurat,3.0,Primary master record
+170,105003.0,Ruang AC AHU,170.0,Ruang AC AHU,3.0,Primary master record
+171,105004.0,Toilet Pria,171.0,Toilet Pria,3.0,Primary master record
+172,105005.0,Toilet Wanita,172.0,Toilet Wanita,3.0,Primary master record
+173,105006.0,Pantry,173.0,Pantry,3.0,Primary master record
+174,105007.0,Ruang Meeting Sekarjagat,174.0,Ruang Meeting Sekarjagat,3.0,Primary master record
+175,105008.0,Instrument Department ,175.0,Instrument Department,3.0,Primary master record
+176,105009.0,Process Department,176.0,Process Department,3.0,Primary master record
+177,105010.0,Rumah Lift,177.0,Rumah Lift,3.0,Primary master record
+178,105011.0,Kooridor Luar,178.0,Koridor Luar,3.0,Primary master record
+179,115000.0,Top Floor,179.0,Top Floor,2.0,Primary master record
+180,111001.0,Area Tangga,180.0,Area Tangga,3.0,Primary master record
+181,111002.0,Gudang,181.0,Gudang,3.0,Primary master record
+182,111003.0,Kooridor Luar,182.0,Koridor Luar,3.0,Primary master record
+183,111004.0,Ruang Meeting Tiga Negeri,183.0,Ruang Meeting Tiga Negeri,3.0,Primary master record
+184,112001.0,Halaman Utara,184.0,Halaman Utara,3.0,Primary master record
+185,112002.0,Lobby Utama,185.0,Lobby Utama,3.0,Primary master record
+186,112003.0,Toilet Pria,186.0,Toilet Pria,3.0,Primary master record
+187,112004.0,Toilet Wanita,187.0,Toilet Wanita,3.0,Primary master record
+188,112005.0,Toilet 2,188.0,Toilet 2,3.0,Primary master record
+189,112006.0,Pantry,189.0,Pantry,3.0,Primary master record
+190,112007.0,Musholla ,190.0,Musholla,3.0,Primary master record
+191,112008.0,Server & Panel Room,191.0,Server & Panel Room,3.0,Primary master record
+192,112009.0,Ruang Electrical,192.0,Ruang Electrical,3.0,Primary master record
+193,112010.0,Tangga Menuju Lt1,193.0,Tangga Menuju Lt1,3.0,Primary master record
+194,113001.0,Menuju Lt2,194.0,Menuju Lt2,3.0,Primary master record
+195,113002.0,Ruang Meeting Pisan Bali,195.0,Ruang Meeting Pisan Bali,3.0,Primary master record
+196,113003.0,Ruang Meeting Recare,196.0,Ruang Meeting Recare,3.0,Primary master record
+197,113004.0,Ruang Recare,197.0,Ruang Recare,3.0,Primary master record
+198,113005.0,Toilet ,198.0,Toilet,3.0,Primary master record
+199,114001.0,Tangga Menuju Top Floor,199.0,Tangga Menuju Top Floor,3.0,Primary master record
+200,114002.0,Toilet ,200.0,Toilet,3.0,Primary master record
+201,114003.0,Ruang Direktur Utama Recon,201.0,Ruang Direktur Utama Recon,3.0,Primary master record
+202,114004.0,Ruang Direktur Operasional,202.0,Ruang Direktur Operasional,3.0,Primary master record
+203,114005.0,Ruang Keuangan,203.0,Ruang Keuangan,3.0,Primary master record
+204,114006.0,Area Kerja Timur,204.0,Area Kerja Timur,3.0,Primary master record
+205,114007.0,Area Kerja Barat,205.0,Area Kerja Barat,3.0,Primary master record
+206,115001.0,Ruang Meeting Kembang Kantil,206.0,Ruang Meeting Kembang Kantil,3.0,Primary master record
+207,115002.0,Ruang Meeting Ratu Ratih,207.0,Ruang Meeting Ratu Ratih,3.0,Primary master record
+208,115003.0,Toilet Pria,208.0,Toilet Pria,3.0,Primary master record
+209,115004.0,Toilet Wanita,209.0,Toilet Wanita,3.0,Primary master record
+210,115005.0,Kooridor Dalam,210.0,Koridor Dalam,3.0,Primary master record
+211,115006.0,Ruang Janitor,211.0,Ruang Janitor,3.0,Primary master record
+213,990000.0,Others Building,213.0,Others Building,1.0,Primary master record
+214,991000.0,Others Floor,214.0,Others Floor,2.0,Primary master record
+215,991001.0,Others Room,215.0,Others Room,3.0,Primary master record
+217,115002.0,Ruang Meeting Ratu Ratih,207.0,Ruang Meeting Ratu Ratih,3.0,Merged duplicate of ID 207
+218,105012.0,Ruang Meeting Kawung,218.0,Ruang Meeting Kawung,3.0,Primary master record
+219,,,,,,Empty unmapped record
+220,101043.0,Ruang SDQA,220.0,Ruang SDQA,3.0,Primary master record
+221,104011.0,Ruang Electrical,221.0,Ruang Electrical,3.0,Primary master record
+222,101044.0,Ruang HSE,222.0,Ruang HSE,3.0,Primary master record
+223,101045.0,Ruang IFS,223.0,Ruang IFS,3.0,Primary master record
+224,101046.0,Ruang SDD,224.0,Ruang SDD,3.0,Primary master record
+225,101047.0,Ruang CSS,225.0,Ruang CSS,3.0,Primary master record
+226,102021.0,GM Marketing,226.0,GM Marketing,3.0,Primary master record
+227,102022.0,Ruang DM,227.0,Ruang DM,3.0,Primary master record
+228,102023.0,Recon,228.0,Recon,3.0,Primary master record
+229,102024.0,Legal,229.0,Legal,3.0,Primary master record
+230,102025.0,Audit,230.0,Audit,3.0,Primary master record
+231,102027.0,Departemen Proccess,231.0,Departemen Process,3.0,Primary master record
+232,104012.0,Departemen Civil,232.0,Departemen Civil,3.0,Primary master record
+233,105013.0,Ruang Proyek,233.0,Ruang Proyek,3.0,Primary master record
+234,112011.0,Ruang Recare,234.0,Ruang Recare,3.0,Primary master record
+235,115003.0,Ruang Kelas Recare,235.0,Ruang Kelas Recare,3.0,Primary master record
+236,105014.0,Mega Mendung Space,236.0,Mega Mendung Space,3.0,Primary master record
+237,101048.0,Ruang Server RETO,237.0,Ruang Server RETO,3.0,Primary master record
+238,101049.0,Ruang General Manager,238.0,Ruang General Manager,3.0,Primary master record
+239,101050.0,Ruang Proyek,239.0,Ruang Proyek,3.0,Primary master record
+240,102028.0,Pantry,240.0,Pantry,3.0,Primary master record
+241,102029.0,Ruang Proyek,241.0,Ruang Proyek,3.0,Primary master record
+242,102030.0,Departemen Instrument,242.0,Departemen Instrument,3.0,Primary master record
+243,101051.0,Ruang Project Freeport,243.0,Ruang Project Freeport,3.0,Primary master record
+244,101052.0,Ruang Project PHR,244.0,Ruang Project PHR,3.0,Primary master record
+245,102031.0,"Ruang Instument, Mechanical, Proccess",245.0,"Ruang Instrument, Mechanical, Process",3.0,Primary master record
+246,111005.0,Ruang Meeting Rasamala,246.0,Ruang Meeting Rasamala,3.0,Primary master record

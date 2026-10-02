@@ -1,0 +1,3 @@
+ams_id,ams_code,ams_location_name,reason,created_at
+217,115002.0,Ruang Meeting Ratu Ratih,Duplicate room of primary ID 207,2019-11-18 09:11:15
+219,,,Empty record with NaN location name and cap,2019-11-18 09:38:30.377

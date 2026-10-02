@@ -1,0 +1,15 @@
+id,code,name,ams_codes,ams_ids,subcat_count,is_incomplete,created_at,updated_at,notes
+1,FUR,Furniture,[100000],[51],8,False,2018-04-05 19:22:48,2018-04-05 19:22:48,"Perabotan kantor (kursi, meja, lemari, dll.)"
+2,ACC,Aksesoris,[110000],[52],41,False,2016-12-08 14:32:30,2016-12-08 14:32:30,"Aksesoris kantor, peralatan umum, dan fixture"
+3,COMP,Computer,[120000],[58],4,False,2016-12-16 10:11:55,2016-12-16 10:11:55,"Komputer desktop, notebook, server, workstation"
+4,MON,Monitor,[130000],[59],2,False,2016-12-16 10:12:31,2016-12-16 10:12:31,Monitor tabung dan LCD
+5,PERP,Peripheral,[140000],[60],14,False,2016-12-16 10:13:22,2016-12-16 10:13:22,"Perangkat pendukung IT, networking, multimedia, storage"
+6,PRNT,Printer,[150000],[61],6,False,2016-12-16 10:14:53,2016-12-16 10:14:53,"Printer inkjet, laserjet, plotter, ID card printer"
+7,SOFT,Software,[160000],[62],2,False,2016-12-16 10:15:22,2016-12-16 10:15:22,Perangkat lunak engineering dan general
+8,PROP,Properti & Gedung,"[170000, 220000]","[112, 1142]",1,False,2022-07-01 13:28:04,2022-07-01 13:28:04,Konsolidasi kategori properti dan gedung
+9,MES,Mesin,[180000],[113],4,False,2017-01-05 17:29:43,2017-01-05 17:29:43,"Mesin dan utilitas gedung (genset, panel, pompa, lift)"
+10,KEND,Kendaraan,"[200000, 250000]","[115, 1145]",2,False,2023-06-13 14:02:32,2023-06-13 14:02:32,Konsolidasi kategori kendaraan operasional dan otomotif
+11,ELEK,Elektronik,[240000],[1144],19,False,2023-06-13 14:01:35,2023-06-13 14:01:35,"Peralatan elektronik umum, keamanan, dan multimedia (CCTV, TV)"
+12,PDGR,Pendingin Ruangan,[260000],[1203],5,False,2025-02-05 13:38:52,2025-02-05 13:38:52,"Sistem tata udara dan pendingin ruangan (AC Split, AHU, dll.)"
+13,TLKM,Telekomunikasi,[],[],4,False,2025-02-06 10:47:01.000,2025-02-06 10:47:01.000,"Perangkat telekomunikasi kantor dan operasional (Telepon, Smartphone, HT, Fax)"
+14,PUR,Purnama,[210000],[1133],0,True,2018-04-05 19:13:10,2018-04-05 19:13:10,Kategori legacy tanpa subkategori terdaftar; ditandai untuk review

@@ -1,0 +1,119 @@
+ams_id,ams_code,ams_vendor_name,smart_vendor_id,smart_code,smart_vendor_name,is_consolidated,notes
+9,VN00001,Koperasi RE,1,VN00001,Koperasi RE,False,Primary master record
+10,VN00002,Alfa Solusi,2,VN00002,Alfa Solusi,False,Primary master record
+11,VN00003,Cahaya Sukses,3,VN00003,Cahaya Sukses,False,Primary master record
+12,VN00004,CASCASIA,4,VN00004,Cascasia,False,Primary master record
+13,VN00005,CIPTA SATRIA INFORMATIKA,87,VN00093,PT Cipta Satria Informatika,True,Consolidated into AMS ID 1101.0
+14,VN00006,CODEWARE,84,VN00090,"Codeware, Inc.",True,Consolidated into AMS ID 1098.0
+15,VN00007,DANAN WINGUS,73,VN00080,PT Danan Wingus Sakti,True,Consolidated into AMS ID 1087.0
+16,VN00008,Daniel,5,VN00008,Daniel,False,Primary master record
+17,VN00009,EDPMEDIA,6,VN00009,EDPMEDIA,False,Primary master record
+18,VN00010,EVEREST TECHNOLOGY,7,VN00010,Everest Technology,False,Primary master record
+19,VN00011,Glodok,8,VN00011,Glodok,False,Primary master record
+20,VN00012,GRAMEDIA,9,VN00012,Gramedia,False,Primary master record
+21,VN00013,INDOSYSTEM,10,VN00013,Indosystem,False,Primary master record
+22,VN00014,MULTI KHARISMA,95,VN00101,PT Multi Kharisma,True,Consolidated into AMS ID 1109.0
+23,VN00015,Multimedia Sejahtera Servitama,11,VN00015,Multimedia Sejahtera Servitama,False,Primary master record
+24,VN00016,OPTIMA SOLUSINDO INFORMATIKA,12,VN00016,Optima Solusindo Informatika,False,Primary master record
+25,VN00017,PANCA PUTRA,13,VN00017,Panca Putra,False,Primary master record
+26,VN00018,PIRANTI SARANA,94,VN00100,PT Piranti Sarana Technologi,True,Consolidated into AMS ID 1108.0
+27,VN00019,SARANA AIRCON UTAMA,14,VN00019,Sarana Aircon Utama,False,Primary master record
+28,VN00020,SARANA SOLUSINDO,78,VN00085,PT Sarana Solusindo Informatika,True,Consolidated into AMS ID 1092.0
+29,VN00021,SENTRA GRAFIKA KOMPUMEDIA,15,VN00021,Sentra Grafika Kompumedia,False,Primary master record
+30,VN00022,SIEMENS,16,VN00022,Siemens,False,Primary master record
+31,VN00023,Sinergi,17,VN00023,Sinergi,False,Primary master record
+32,VN00024,SURABAYA,18,VN00024,Surabaya,False,Primary master record
+33,VN00025,Wilerdtindo,19,VN00025,Wilerdtindo,False,Primary master record
+34,VN00026,PT PARADISE PERKASA,20,VN00026,PT Paradise Perkasa,False,Primary master record
+35,VN00027,PT LOKA MANGGALA,21,VN00027,PT Loka Manggala,False,Primary master record
+36,VN00028,PT GOLDEN PRATAMA ENGINEERING,22,VN00028,PT Golden Pratama Engineering,False,Primary master record
+37,VN00029,PT CRANE INDONESIA,23,VN00029,PT Crane Indonesia,False,Primary master record
+38,VN00030,PT MITRA GALPERTI,24,VN00030,PT Mitra Galperti,False,Primary master record
+39,VN00031,PT FAJAR BENUA INDOPACK,25,VN00031,PT Fajar Benua Indopack,False,Primary master record
+40,VN00032,PT NICHIAS SUNIJAYA,26,VN00032,PT Nichias Sunijaya,False,Primary master record
+41,VN00033,PT GAMAKO EKAKARSA,27,VN00033,PT Gamako Ekakarsa,False,Primary master record
+42,VN00034,PT BINDER INDONESIA,28,VN00034,PT Binder Indonesia,False,Primary master record
+43,VN00035,PT KRANINDO PRIMA,29,VN00035,PT Kranindo Prima,False,Primary master record
+44,VN00036,PT KARYA PRIMA SUPLINDO,30,VN00036,PT Karya Prima Suplindo,False,Primary master record
+45,VN00037,PT KPM OIL & GAS,31,VN00037,PT KPM Oil & Gas,False,Primary master record
+46,VN00038,PT VALVINDO MEGAH,32,VN00038,PT Valvindo Megah,False,Primary master record
+47,VN00039,PT. FORS FORTID INDONESIA                        (Steel Door Bostinco)),33,VN00039,PT Fors Fortid Indonesia,False,Primary master record
+48,VN00040,PT. BLUESCOPE LYSAGHT INDONESIA      (Roofing),34,VN00040,PT Bluescope Lysaght Indonesia,False,Primary master record
+49,VN00041,PT. UNION METAL                                       (Floordeck),35,VN00041,PT Union Metal,False,Primary master record
+50,VN00042,INDONESIAN EPOXY FLOOR,36,VN00042,Indonesian Epoxy Floor,False,Primary master record
+51,VN00043,PT. KARLITA EMAS                                       ( Steel Grating),37,VN00043,PT Karlita Emas,False,Primary master record
+52,VN00044,ADIMIX PCI INDONESIA                            (Spun Pile),38,VN00044,Adimix PCI Indonesia,False,Primary master record
+53,VN00045,PT KSB Indonesia & PT KSB Sales Indonesia,39,VN00045,PT KSB Indonesia & PT KSB Sales Indonesia,False,Primary master record
+54,VN00046,PT. Petrotec Guna Perkasa,40,VN00046,PT Petrotec Guna Perkasa,False,Primary master record
+55,VN00047,PT. Ashcrofindo Manunggal,41,VN00047,PT Ashcrofindo Manunggal,False,Primary master record
+56,VN00048,PT. Bumi Cahaya Unggul,42,VN00048,PT Bumi Cahaya Unggul,False,Primary master record
+57,VN00049,PT. Roda Nurmala,43,VN00049,PT Roda Nurmala,False,Primary master record
+58,VN00050,PT.Duraquipt Cemerlang,44,VN00050,PT Duraquipt Cemerlang,False,Primary master record
+59,VN00051,PT. Enerflex Indonesia,45,VN00051,PT Enerflex Indonesia,False,Primary master record
+60,VN00052,PT SAS International,46,VN00052,PT SAS International,False,Primary master record
+61,VN00053,PT. Fajar Mas Murni,47,VN00053,PT Fajar Mas Murni,False,Primary master record
+62,VN00054,PT. Pacific Process Engineering,48,VN00054,PT Pacific Process Engineering,False,Primary master record
+63,VN00055,PT. Dinar Inti Duba,49,VN00055,PT Dinar Inti Duba,False,Primary master record
+64,VN00056,PT. Indobara,50,VN00056,PT Indobara,False,Primary master record
+65,VN00057,PT. Rantai Laut,51,VN00057,PT Rantai Laut,False,Primary master record
+66,VN00058,PT. Sabrindo,52,VN00058,PT Sabrindo,False,Primary master record
+67,VN00059,PT. Roda Nurmala,43,VN00049,PT Roda Nurmala,True,Consolidated into AMS ID 57.0
+68,VN00060,PT. Kalimutu Mitra Perkasa,53,VN00060,PT Kalimutu Mitra Perkasa,False,Primary master record
+69,VN00061,PT. Rejeki Utama,54,VN00061,PT Rejeki Utama,False,Primary master record
+70,VN00062,Trafindo,55,VN00062,Trafindo,False,Primary master record
+71,VN00063,Perpro,56,VN00063,Perpro,False,Primary master record
+72,VN00064,Philips,57,VN00064,Philips,False,Primary master record
+73,VN00065,Kotaminyak,58,VN00065,Kotaminyak,False,Primary master record
+74,VN00066,Erico,59,VN00066,Erico,False,Primary master record
+75,VN00067,Schneider Electric,60,VN00067,Schneider Electric,False,Primary master record
+76,VN00068,Socomec,61,VN00068,Socomec,False,Primary master record
+77,VN00069,Trakindo,62,VN00069,Trakindo,False,Primary master record
+78,VN00070,Berkah Cipta Persada,63,VN00070,Berkah Cipta Persada,False,Primary master record
+79,VN00071,Sucaco,64,VN00071,Sucaco,False,Primary master record
+80,VN00072,Koperasi Reka Teknika Utama,65,VN00072,Koperasi Reka Teknika Utama,False,Primary master record
+1080,VN00073,Kontraktor Rifai,66,VN00073,Kontraktor Rifai,False,Primary master record
+1081,VN00074,PT. INTISARI KOMPUTINDO,67,VN00074,PT Intisari Komputindo,False,Primary master record
+1082,VN00075,YOLORI,68,VN00075,Yolori,False,Primary master record
+1083,VN00076,Protech Computer,69,VN00076,Protech Computer,False,Primary master record
+1084,VN00077,Trinity Official Store,70,VN00077,Trinity Official Store,False,Primary master record
+1085,VN00078,Agres ID,71,VN00078,Agres ID,False,Primary master record
+1086,VN00079,Trans survey,72,VN00079,Trans Survey,False,Primary master record
+1087,VN00080,PT Danan Wingus Sakti,73,VN00080,PT Danan Wingus Sakti,False,Primary master record
+1088,VN00081,PT Multi Prima Mandiri Sukses,74,VN00081,PT Multi Prima Mandiri Sukses,False,Primary master record
+1089,VN00082,PT Putraduta Buanasentosa   (Indoarsip),75,VN00082,PT Putraduta Buanasentosa (Indoarsip),False,Primary master record
+1090,VN00083,PD Duta Copy Service,76,VN00083,PD Duta Copy Service,False,Primary master record
+1091,VN00084,Koperasi Reka Sejahtera,77,VN00084,Koperasi Reka Sejahtera,False,Primary master record
+1092,VN00085,PT Sarana Solusindo Informatika,78,VN00085,PT Sarana Solusindo Informatika,False,Primary master record
+1093,VN00086,PT ABADI JAYA MAKMUR,79,VN00086,PT Abadi Jaya Makmur,False,Primary master record
+1094,VN00087,PT Onna Prima Utama,80,VN00087,PT Onna Prima Utama,False,Primary master record
+1095,VN00080,PT. Berkat Niaga Dunia,81,VN00118,PT Berkat Niaga Dunia,False,Reassigned code from VN00080 to VN00118 to resolve duplicate collision
+1096,VN00088,PT Berca Carrier Indonesia,82,VN00088,PT Berca Carrier Indonesia,False,Primary master record
+1097,VN00089,PT Mitsubishi Jaya Elevator & Escalator,83,VN00089,PT Mitsubishi Jaya Elevator & Escalator,False,Primary master record
+1098,VN00090,"Codeware, Inc",84,VN00090,"Codeware, Inc.",False,Primary master record
+1099,VN00091,Bentley Systems International Ltd.,85,VN00091,Bentley Systems International Ltd.,False,Primary master record
+1100,VN00092,PT Lima Pilar Cakrawala,86,VN00092,PT Lima Pilar Cakrawala,False,Primary master record
+1101,VN00093,PT Cipta Satria Informatika,87,VN00093,PT Cipta Satria Informatika,False,Primary master record
+1102,VN00094,PT Medatama (Mega Persada Utama),88,VN00094,PT Medatama (Mega Persada Utama),False,Primary master record
+1103,VN00095,PT Recare,89,VN00095,PT Recare,False,Primary master record
+1104,VN00096,Trimble Solutions SEA Pte.Ltd,90,VN00096,Trimble Solutions SEA Pte. Ltd.,False,Primary master record
+1105,VN00097,PT Parsaoran Global Datatrans,91,VN00097,PT Parsaoran Global Datatrans,False,Primary master record
+1106,VN00098,Kayreach System,92,VN00098,Kayreach System,False,Primary master record
+1107,VN00099,Cahaya Jaya Services,93,VN00099,Cahaya Jaya Services,False,Primary master record
+1108,VN00100,PT Piranti Sarana Technologi,94,VN00100,PT Piranti Sarana Technologi,False,Primary master record
+1109,VN00101,PT Multi Kharisma,95,VN00101,PT Multi Kharisma,False,Primary master record
+1110,VN00102,PT Lippo Insurance Tbk,96,VN00102,PT Lippo Insurance Tbk,False,Primary master record
+1111,VN00103,PT. Mitralab Buana,97,VN00103,PT Mitralab Buana,False,Primary master record
+1112,VN00104,PT. Arya Sentra Solusindo,98,VN00104,PT Arya Sentra Solusindo,False,Primary master record
+1113,VN00105,PT. Praba Sinergi Utama,99,VN00105,PT Praba Sinergi Utama,False,Primary master record
+1114,VN00106,Anril Film,100,VN00106,Anril Film,False,Primary master record
+1115,VN00107,Beat Studio,101,VN00107,Beat Studio,False,Primary master record
+1116,VN00108,PT. Prismaco,102,VN00108,PT Prismaco,False,Primary master record
+1117,VN00109,PT. Kelola Buana Lestari,103,VN00109,PT Kelola Buana Lestari,False,Primary master record
+1118,VN00110,Intact Official Store,104,VN00110,Intact Official Store,False,Primary master record
+1119,VN00111,Tokopedia,105,VN00111,Tokopedia,False,Primary master record
+1120,VN00112,TITIS,106,VN00112,Titis,False,Primary master record
+1121,VN00113,Sunio Citra Teknologi,107,VN00113,Sunio Citra Teknologi,False,Primary master record
+1122,VN00114,Sarana Solusindo Prima,108,VN00114,Sarana Solusindo Prima,False,Primary master record
+1123,VN00115,PT.Cipta Tekno Solusindo,109,VN00115,PT Cipta Tekno Solusindo,False,Primary master record
+1124,VN00116,PT United Teknologi Integrasi,110,VN00116,PT United Teknologi Integrasi,False,Primary master record
+1125,VN00117,PT.SPARTA COMPUTINDO TEKNOLOGI,111,VN00117,PT Sparta Computindo Teknologi,False,Primary master record

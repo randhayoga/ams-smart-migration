@@ -1,0 +1,16 @@
+ams_code,ams_id,category_id,new_code,new_name
+100000,51,1,FUR,Furniture
+110000,52,2,ACC,Aksesoris
+120000,58,3,COMP,Computer
+130000,59,4,MON,Monitor
+140000,60,5,PERP,Peripheral
+150000,61,6,PRNT,Printer
+160000,62,7,SOFT,Software
+170000,112,8,PROP,Properti & Gedung
+220000,1142,8,PROP,Properti & Gedung
+180000,113,9,MES,Mesin
+200000,115,10,KEND,Kendaraan
+250000,1145,10,KEND,Kendaraan
+240000,1144,11,ELEK,Elektronik
+260000,1203,12,PDGR,Pendingin Ruangan
+210000,1133,14,PUR,Purnama

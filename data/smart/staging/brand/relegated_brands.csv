@@ -1,0 +1,17 @@
+ams_id,ams_brand_name,ams_description,target_ams_id,target_brand_name,issue_type,action_taken,discussion_recommendation
+67,ACROBAT PRO,,38.0,Adobe,product_relegation,Relegated under parent brand Adobe (Smart ID: 38),Confirm whether this item should be tracked as a product model or separate subcategory rather than brand.
+3174,PAJERO,Mobil,3161.0,Mitsubishi,product_relegation,Relegated under parent brand Mitsubishi (Smart ID: 160),Confirm whether this item should be tracked as a product model or separate subcategory rather than brand.
+23,PANABOARD,,28.0,Panasonic,product_relegation,Relegated under parent brand Panasonic (Smart ID: 28),Confirm whether this item should be tracked as a product model or separate subcategory rather than brand.
+37,CAESAR,,64.0,Intergraph,product_relegation,Relegated under parent brand Intergraph (Smart ID: 64),Confirm whether this item should be tracked as a product model or separate subcategory rather than brand.
+18,FINGERPRINT M100,,3140.0,Solution,product_relegation,Relegated under parent brand Solution (Smart ID: 141),Confirm whether this item should be tracked as a product model or separate subcategory rather than brand.
+3118,FULTURA,Meja Lipat 200 x 80,2088.0,Futura,duplicate_typo,Consolidated into Futura (Smart ID: 87),Permanent merge into target brand.
+3136,SAKEN,,3104.0,Sanken,duplicate_typo,Consolidated into Sanken (Smart ID: 109),Permanent merge into target brand.
+3111,TOA CORPORATION,SPEAKER GEDUNG,59.0,TOA,duplicate_typo,Consolidated into TOA (Smart ID: 59),Permanent merge into target brand.
+3156,3,208.100.0.117,3.0,3,duplicate_typo,Consolidated into 3 (Smart ID: 3),Permanent merge into target brand.
+3099,CUSTOM,Rakitan dan Pembuatan Manual,6.0,Rakitan,consolidation,Consolidated into Rakitan (Smart ID: 6),Permanent merge into target brand.
+3107,ONLINE,"shofee, tokopedia, buka lapak dll",3129.0,No Brand,consolidation,Consolidated into No Brand (Smart ID: 131),Permanent merge into target brand.
+3159,LCEX S03,,3157.0,Pepperl+Fuchs,consolidation,Consolidated into Pepperl+Fuchs (Smart ID: 157),Permanent merge into target brand.
+3,3,208.100.0.117,,,non_actual_brand,Flagged not_actual_brand = True (Dummy data / IP address (208.100.0.117)),"Discuss with asset team to reclassify into category, subcategory, or remove if dummy data."
+78,TEST,TESTA,,,non_actual_brand,Flagged not_actual_brand = True (Dummy test record (TEST / TESTA)),"Discuss with asset team to reclassify into category, subcategory, or remove if dummy data."
+3088,Building,Gedung,,,non_actual_brand,Flagged not_actual_brand = True (Asset category (Building / Gedung)),"Discuss with asset team to reclassify into category, subcategory, or remove if dummy data."
+3098,DRY CONTAINER,Tempat Kerja RTU,,,non_actual_brand,Flagged not_actual_brand = True (Asset category (DRY CONTAINER / Tempat Kerja RTU)),"Discuss with asset team to reclassify into category, subcategory, or remove if dummy data."

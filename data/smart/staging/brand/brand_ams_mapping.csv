@@ -1,0 +1,189 @@
+ams_id,ams_brand_name,smart_brand_id,smart_brand_name,is_relegated,not_actual_brand,mapping_type,notes
+1,COMPAQ,1,Compaq,False,False,exact,Valid brand
+2,INFOKUS,2,InFocus,False,False,exact,Valid brand
+3,3,3,3,False,True,non_actual_brand,Dummy data / IP address (208.100.0.117)
+4,YAMAHA,4,Yamaha,False,False,exact,Valid brand
+5,DLINK,5,D-Link,False,False,exact,Valid brand
+6,Rakitan,6,Rakitan,False,False,exact,Valid brand
+7,DELL,7,Dell,False,False,exact,Valid brand
+8,TOSHIBA,8,Toshiba,False,False,exact,Valid brand
+9,FUJITSU,9,Fujitsu,False,False,exact,Valid brand
+10,HP,10,HP,False,False,exact,Valid brand
+11,NEO,11,Neo,False,False,exact,Valid brand
+12,EPSON,12,Epson,False,False,exact,Valid brand
+13,3COM,13,3Com,False,False,exact,Valid brand
+14,Philips,14,Philips,False,False,exact,Valid brand
+15,BOSE,15,Bose,False,False,exact,Valid brand
+16,SONY,16,Sony,False,False,exact,Valid brand
+17,XEROX,17,Xerox,False,False,exact,Valid brand
+18,FINGERPRINT M100,141,Solution,True,True,product_relegation,Biometric hardware model (FINGERPRINT M100 relegated to Solution)
+19,CANON,19,Canon,False,False,exact,Valid brand
+20,ALTEC LANSING,20,Altec Lansing,False,False,exact,Valid brand
+21,NEC,21,NEC,False,False,exact,Valid brand
+22,AVERMEDIA,22,Avermedia,False,False,exact,Valid brand
+23,PANABOARD,28,Panasonic,True,True,product_relegation,Electronic whiteboard model (PANABOARD relegated to Panasonic)
+24,PLEXTOR,24,Plextor,False,False,exact,Valid brand
+25,MICROSOFT,25,Microsoft,False,False,exact,Valid brand
+26,AUTODESK,26,Autodesk,False,False,exact,Valid brand
+27,THECUS,27,Thecus,False,False,exact,Valid brand
+28,PANASONIC,28,Panasonic,False,False,exact,Valid brand
+29,INTISAR,29,Intisar,False,False,exact,Valid brand
+30,ACER,30,Acer,False,False,exact,Valid brand
+31,TEKLA,31,Tekla,False,False,exact,Valid brand
+32,Samsung,32,Samsung,False,False,exact,Valid brand
+33,LG,33,LG,False,False,exact,Valid brand
+34,MSI,34,MSI,False,False,exact,Valid brand
+35,ETAP,35,ETAP,False,False,exact,Valid brand
+36,BENTLEY,36,Bentley,False,False,exact,Valid brand
+37,CAESAR,64,Intergraph,True,True,product_relegation,Engineering software (CAESAR relegated to Intergraph)
+38,ADOBE,38,Adobe,False,False,exact,Valid brand
+39,KASPERSKY,39,Kaspersky,False,False,exact,Valid brand
+40,AVEVA,40,AVEVA,False,False,exact,Valid brand
+41,PRIMAVERA,41,Primavera,False,False,exact,Valid brand
+42,PROLINK,42,Prolink,False,False,exact,Valid brand
+43,GTC,43,GTC,False,False,exact,Valid brand
+44,VOXDE,44,Voxde,False,False,exact,Valid brand
+45,TARGUS,45,Targus,False,False,exact,Valid brand
+46,AFES,46,AFES,False,False,exact,Valid brand
+47,BUFALLO,47,Buffalo,False,False,exact,Valid brand
+48,NVIDIA,48,Nvidia,False,False,exact,Valid brand
+49,SUNIX,49,SUNIX,False,False,exact,Valid brand
+50,LENOVO,50,Lenovo,False,False,exact,Valid brand
+51,MIKROTIK,51,MikroTik,False,False,exact,Valid brand
+52,LINKSYS,52,Linksys,False,False,exact,Valid brand
+53,ASUS,53,ASUS,False,False,exact,Valid brand
+54,Datacard,54,Datacard,False,False,exact,Valid brand
+55,Apple,55,Apple,False,False,exact,Valid brand
+56,CHINA,56,China,False,False,exact,Valid brand
+57,Cisco,57,Cisco,False,False,exact,Valid brand
+58,BOSCH,58,Bosch,False,False,exact,Valid brand
+59,TOA,59,TOA,False,False,exact,Valid brand
+60,KREZT,60,Krezt,False,False,exact,Valid brand
+61,Hitachi,61,Hitachi,False,False,exact,Valid brand
+62,SIEMENS,62,Siemens,False,False,exact,Valid brand
+63,CARRIER,63,Carrier,False,False,exact,Valid brand
+64,INTERGRAPH,64,Intergraph,False,False,exact,Valid brand
+65,CODEWARE,65,Codeware,False,False,exact,Valid brand
+66,GULP,66,Gulp,False,False,exact,Valid brand
+67,ACROBAT PRO,38,Adobe,True,True,product_relegation,Software product (ACROBAT PRO relegated to Adobe)
+68,BENQ,68,BenQ,False,False,exact,Valid brand
+69,Krisbow,69,Krisbow,False,False,exact,Valid brand
+70,IBM,70,IBM,False,False,exact,Valid brand
+71,FORTUNE,71,Fortune,False,False,exact,Valid brand
+72,Leadtek,72,Leadtek,False,False,exact,Valid brand
+73,Google,73,Google,False,False,exact,Valid brand
+74,Lumion,74,Lumion,False,False,exact,Valid brand
+75,QNAP,75,QNAP,False,False,exact,Valid brand
+78,TEST,76,Test,False,True,non_actual_brand,Dummy test record (TEST / TESTA)
+1078,LOGITECH,77,Logitech,False,False,exact,Valid brand
+1079,POLYCOM,78,Polycom,False,False,exact,Valid brand
+1080,UBIQUITI,79,Ubiquiti,False,False,exact,Valid brand
+1081,TPLINK,80,TP-Link,False,False,exact,Valid brand
+2082,HIKVISION,81,Hikvision,False,False,exact,Valid brand
+2083,UNO,82,Uno,False,False,exact,Valid brand
+2084,SAVELLO,83,Savello,False,False,exact,Valid brand
+2085,RIVERA,84,Rivera,False,False,exact,Valid brand
+2086,PONGS HOME,85,Pongs Home,False,False,exact,Valid brand
+2087,SEIKO,86,Seiko,False,False,exact,Valid brand
+2088,FUTURA,87,Futura,False,False,exact,Valid brand
+2089,MODERA,88,Modera,False,False,exact,Valid brand
+2090,DAIKIN,89,Daikin,False,False,exact,Valid brand
+3083,SEAGATE,90,Seagate,False,False,exact,Valid brand
+3084,Western Digital,91,Western Digital,False,False,exact,Valid brand
+3085,APC,92,APC,False,False,exact,Valid brand
+3086,Aux,93,AUX,False,False,exact,Valid brand
+3087,SHARP,94,Sharp,False,False,exact,Valid brand
+3088,Building,95,Building,False,True,non_actual_brand,Asset category (Building / Gedung)
+3090,MCQUAY,96,McQuay,False,False,exact,Valid brand
+3091,DJI,97,DJI,False,False,exact,Valid brand
+3092,Go Pro,98,GoPro,False,False,exact,Valid brand
+3093,AKASO,99,AKASO,False,False,exact,Valid brand
+3094,Neotez,100,Neotez,False,False,exact,Valid brand
+3095,XIAOMI,101,Xiaomi,False,False,exact,Valid brand
+3096,TOPCON,102,Topcon,False,False,exact,Valid brand
+3097,Viewsonic,103,ViewSonic,False,False,exact,Valid brand
+3098,DRY CONTAINER,104,Dry Container,False,True,non_actual_brand,Asset category (DRY CONTAINER / Tempat Kerja RTU)
+3099,CUSTOM,6,Rakitan,True,False,consolidation_merge,Valid brand
+3100,RENDEZ,105,Rendez,False,False,exact,Valid brand
+3101,EPY Industri,106,EPY Industri,False,False,exact,Valid brand
+3102,CUMINS,107,Cummins,False,False,exact,Valid brand
+3103,JAP ENERGIA,108,JAP Energia,False,False,exact,Valid brand
+3104,SANKEN,109,Sanken,False,False,exact,Valid brand
+3105,DENPOO,110,Denpoo,False,False,exact,Valid brand
+3106,CLINTON,111,Clinton,False,False,exact,Valid brand
+3107,ONLINE,131,No Brand,True,False,consolidation_merge,Valid brand
+3108,Ferrarti Ferro,112,Ferratti Ferro,False,False,exact,Valid brand
+3109,HILLSTONE,113,Hillstone,False,False,exact,Valid brand
+3110,Fortigate,114,Fortinet,False,False,exact,Valid brand
+3111,TOA CORPORATION,59,TOA,True,False,typo_merge,Valid brand
+3112,HONG CHANG,115,Hong Chang,False,False,exact,Valid brand
+3113,APPRON,116,Appron,False,False,exact,Valid brand
+3114,FIREX,117,Firex,False,False,exact,Valid brand
+3115,VGEN,118,V-Gen,False,False,exact,Valid brand
+3116,ASENWARE,119,Asenware,False,False,exact,Valid brand
+3117,Daya Kurnia,120,Daya Kurnia,False,False,exact,Valid brand
+3118,FULTURA,87,Futura,True,False,typo_merge,Valid brand
+3119,MAXIMA,121,Maxima,False,False,exact,Valid brand
+3120,JBL,122,JBL,False,False,exact,Valid brand
+3121,SAMSON,123,Samson,False,False,exact,Valid brand
+3122,ROLAND,124,Roland,False,False,exact,Valid brand
+3123,BOSS,125,Boss,False,False,exact,Valid brand
+3124,MAXIMUM,126,Maximum,False,False,exact,Valid brand
+3125,ARCHIGRAMMA,127,Archigramma,False,False,exact,Valid brand
+3126,GLADE,128,Glade,False,False,exact,Valid brand
+3127,Onemed,129,OneMed,False,False,exact,Valid brand
+3128,DIY,130,DIY,False,False,exact,Valid brand
+3129,NOBRAND,131,No Brand,False,False,exact,Valid brand
+3130,NITGEN,132,Nitgen,False,False,exact,Valid brand
+3131,Lion Star,133,Lion Star,False,False,exact,Valid brand
+3132,SOLIS,134,Solis,False,False,exact,Valid brand
+3133,STELLA,135,Stella,False,False,exact,Valid brand
+3134,BROTHER,136,Brother,False,False,exact,Valid brand
+3135,KRIS,137,Kris,False,False,exact,Valid brand
+3136,SAKEN,109,Sanken,True,False,typo_merge,Valid brand
+3137,Syly Art,138,Syly Art,False,False,exact,Valid brand
+3138,Chairman,139,Chairman,False,False,exact,Valid brand
+3139,Agram,140,Agram,False,False,exact,Valid brand
+3140,Solution,141,Solution,False,False,exact,Valid brand
+3141,SEKAI,142,Sekai,False,False,exact,Valid brand
+3142,MORELLI,143,Morelli,False,False,exact,Valid brand
+3143,Trendy,144,Trendy,False,False,exact,Valid brand
+3144,MIYAKO,145,Miyako,False,False,exact,Valid brand
+3145,MASPION,146,Maspion,False,False,exact,Valid brand
+3146,ARISTON,147,Ariston,False,False,exact,Valid brand
+3147,HONEYWELL,148,Honeywell,False,False,exact,Valid brand
+3148,NASIONAL,149,Nasional,False,False,exact,Valid brand
+3149,SHINPO,150,Shinpo,False,False,exact,Valid brand
+3150,SONIC,151,Sonic,False,False,exact,Valid brand
+3151,WEIERWEI,152,Weierwei,False,False,exact,Valid brand
+3152,LANEY,153,Laney,False,False,exact,Valid brand
+3153,BEHRINGER,154,Behringer,False,False,exact,Valid brand
+3154,Sandisk,155,SanDisk,False,False,exact,Valid brand
+3155,COSMOS,156,Cosmos,False,False,exact,Valid brand
+3156,3,3,3,True,True,typo_merge,Dummy data / IP address (208.100.0.117)
+3157,SMART EX03,157,Pepperl+Fuchs,False,False,exact,Valid brand
+3158,INCO,158,Inco,False,False,exact,Valid brand
+3159,LCEX S03,157,Pepperl+Fuchs,True,False,typo_merge,Valid brand
+3160,TAFFGUARD,159,TaffGUARD,False,False,exact,Valid brand
+3161,MITSUBISHI,160,Mitsubishi,False,False,exact,Valid brand
+3162,SECURE,161,Secure,False,False,exact,Valid brand
+3163,MODERN,162,Modern,False,False,exact,Valid brand
+3164,MAKTEC,163,Maktec,False,False,exact,Valid brand
+3165,KYUHO,164,Kyuho,False,False,exact,Valid brand
+3166,KYORITSU,165,Kyoritsu,False,False,exact,Valid brand
+3167,AOKI,166,Aoki,False,False,exact,Valid brand
+3168,IRONHOOF,167,Ironhoof,False,False,exact,Valid brand
+3169,NORTHBAYOU,168,North Bayou,False,False,exact,Valid brand
+3170,COOCAA,169,Coocaa,False,False,exact,Valid brand
+3171,STORA,170,Stora,False,False,exact,Valid brand
+3172,CONDOTTI,171,Condotti,False,False,exact,Valid brand
+3173,GM,172,GM,False,False,exact,Valid brand
+3174,PAJERO,160,Mitsubishi,True,True,product_relegation,Vehicle model (PAJERO relegated to Mitsubishi)
+3175,PARGO,174,Pargo,False,False,exact,Valid brand
+3176,INDACHI,175,Indachi,False,False,exact,Valid brand
+3177,BJI,176,BJI,False,False,exact,Valid brand
+3178,ORICO,177,Orico,False,False,exact,Valid brand
+3179,NIKON,178,Nikon,False,False,exact,Valid brand
+3180,OMRON,179,Omron,False,False,exact,Valid brand
+3181,JS,180,JS,False,False,exact,Valid brand
+3182,ASV,181,ASV,False,False,exact,Valid brand
