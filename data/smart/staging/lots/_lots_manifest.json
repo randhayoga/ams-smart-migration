@@ -18,11 +18,11 @@
     },
     "ACC-BT": {
       "file": "ACC-BT.csv",
-      "row_count": 5
+      "row_count": 3
     },
     "ACC-CM": {
       "file": "ACC-CM.csv",
-      "row_count": 2
+      "row_count": 1
     },
     "ACC-DG": {
       "file": "ACC-DG.csv",
@@ -30,7 +30,7 @@
     },
     "ACC-DP": {
       "file": "ACC-DP.csv",
-      "row_count": 3
+      "row_count": 2
     },
     "ACC-FC": {
       "file": "ACC-FC.csv",
@@ -46,7 +46,7 @@
     },
     "ACC-GL": {
       "file": "ACC-GL.csv",
-      "row_count": 12
+      "row_count": 7
     },
     "ACC-GPS": {
       "file": "ACC-GPS.csv",
@@ -82,7 +82,7 @@
     },
     "ACC-P3K": {
       "file": "ACC-P3K.csv",
-      "row_count": 5
+      "row_count": 4
     },
     "ACC-PC": {
       "file": "ACC-PC.csv",
@@ -94,7 +94,7 @@
     },
     "ACC-PH": {
       "file": "ACC-PH.csv",
-      "row_count": 10
+      "row_count": 6
     },
     "ACC-PK": {
       "file": "ACC-PK.csv",
@@ -102,11 +102,11 @@
     },
     "ACC-PM": {
       "file": "ACC-PM.csv",
-      "row_count": 5
+      "row_count": 2
     },
     "ACC-POT": {
       "file": "ACC-POT.csv",
-      "row_count": 5
+      "row_count": 4
     },
     "ACC-PS": {
       "file": "ACC-PS.csv",
@@ -154,11 +154,11 @@
     },
     "ACC-TS": {
       "file": "ACC-TS.csv",
-      "row_count": 25
+      "row_count": 17
     },
     "ACC-WB": {
       "file": "ACC-WB.csv",
-      "row_count": 3
+      "row_count": 2
     },
     "COMP-DESK": {
       "file": "COMP-DESK.csv",
@@ -441,5 +441,5 @@
       "row_count": 6
     }
   },
-  "total_lots": 1470
+  "total_lots": 1443
 }

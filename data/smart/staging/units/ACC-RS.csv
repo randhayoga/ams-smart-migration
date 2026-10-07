@@ -1,4 +1,4 @@
 id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
-502,8639,04475-ACC-RS-CFS-PTRE-24,04475-ACC-RS-CFS-PTRE-24,100,ACC-RS,107,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1715167318WhatsApp_Image_2024-05-08_at_18_10_16.jpeg,inventory/ams/assets/uploads/assetsre/ap/1715167318WhatsApp_Image_2024-05-08_at_18_10_16.jpeg,LT,Inventaris,Corporate,,1,2025-05-19 10:28:52.000,2025-05-19 10:28:52.000
-503,10556,04609-ACC-RS-CFS-PTRE-24,04609-ACC-RS-CFS-PTRE-24,101,ACC-RS,129,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-13 10:36:09.000,2025-02-13 10:36:09.000
-504,10557,04610-ACC-RS-CFS-PTRE-24,04610-ACC-RS-CFS-PTRE-24,101,ACC-RS,130,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-13 10:37:18.000,2025-02-13 10:37:18.000
+502,8639,04475-ACC-RS-CFS-PTRE-24,04475-ACC-RS-CFS-PTRE-24,82,ACC-RS,107,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1715167318WhatsApp_Image_2024-05-08_at_18_10_16.jpeg,inventory/ams/assets/uploads/assetsre/ap/1715167318WhatsApp_Image_2024-05-08_at_18_10_16.jpeg,LT,Inventaris,Corporate,,1,2025-05-19 10:28:52.000,2025-05-19 10:28:52.000
+503,10556,04609-ACC-RS-CFS-PTRE-24,04609-ACC-RS-CFS-PTRE-24,83,ACC-RS,129,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-13 10:36:09.000,2025-02-13 10:36:09.000
+504,10557,04610-ACC-RS-CFS-PTRE-24,04610-ACC-RS-CFS-PTRE-24,83,ACC-RS,130,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-13 10:37:18.000,2025-02-13 10:37:18.000

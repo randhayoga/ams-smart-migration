@@ -1,2 +1,2 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-108,LOT-0001-26-ACC-TB-0001,108,1,,,,,,,2026-10-07 07:43:10.000,,inventory/ams/inventoryPhoto/1726799180TROLI_BESAR.jpeg,,,2026-10-07 07:43:10.000,2026-10-07 07:43:10.000
+90,LOT-0001-26-ACC-TB-0001,90,1,,,,,,,2026-10-07 07:43:10.000,,inventory/ams/inventoryPhoto/1726799180TROLI_BESAR.jpeg,,,2026-10-07 07:43:10.000,2026-10-07 07:43:10.000

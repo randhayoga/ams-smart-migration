@@ -1,2 +1,2 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-618,ELEK-CP-0001,100,123,1,Camera Pocket,,,,,2026-06-29 09:34:50.000,2026-06-29 09:34:50.000
+591,ELEK-CP-0001,100,123,1,Camera Pocket,,,,,2026-06-29 09:34:50.000,2026-06-29 09:34:50.000

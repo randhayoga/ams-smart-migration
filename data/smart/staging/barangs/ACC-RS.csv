@@ -1,3 +1,3 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-100,ACC-RS-0001,27,122,1,Rak Sepatu,Rak 4 susun,,inventory/ams/inventoryPhoto/1715167318WhatsApp_Image_2024-05-08_at_18_10_16.jpeg,,2025-05-19 10:28:52.000,2025-05-19 10:28:52.000
-101,ACC-RS-0002,27,123,1,Rak Sepatu,,,,,2025-02-13 10:36:09.000,2025-02-13 10:37:18.000
+82,ACC-RS-0001,27,122,1,Rak Sepatu,Rak 4 susun,,inventory/ams/inventoryPhoto/1715167318WhatsApp_Image_2024-05-08_at_18_10_16.jpeg,,2025-05-19 10:28:52.000,2025-05-19 10:28:52.000
+83,ACC-RS-0002,27,123,1,Rak Sepatu,,,,,2025-02-13 10:36:09.000,2025-02-13 10:37:18.000

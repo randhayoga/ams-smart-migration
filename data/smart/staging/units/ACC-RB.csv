@@ -1,2 +1,2 @@
 id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
-496,11765,04779-ACC-RB-CFS-PTRE-25,04779-ACC-RB-CFS-PTRE-25,98,ACC-RB,107,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-07-10 13:47:31.000,2025-07-10 13:47:31.000
+496,11765,04779-ACC-RB-CFS-PTRE-25,04779-ACC-RB-CFS-PTRE-25,80,ACC-RB,107,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-07-10 13:47:31.000,2025-07-10 13:47:31.000

@@ -1,7 +1,7 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-619,ELEK-CS-0001,85,55,1,Celling Speaker,Pengeras Suara Model ZS-645 R Daya Nominal 5 W,,inventory/ams/inventoryPhoto/1710919062WhatsApp_Image_2024-03-20_at_14_05_42.jpeg,,2025-02-06 11:40:57.000,2026-06-07 20:54:51.000
-620,ELEK-CS-0002,85,55,1,Ceiling Speaker,Pengeras Suara Model ZS-645 R Daya Nominal 5 W,,inventory/ams/inventoryPhoto/1710919731WhatsApp_Image_2024-03-20_at_14_05_42.jpeg,,2024-03-20 14:49:43.000,2025-02-05 11:07:51.000
-621,ELEK-CS-0003,85,55,1,Celling Speaker,Pengeras Suara Model ZS-645 R Daya Nominal 5 W Rusak pada tanggal 25 juli 2026,,inventory/ams/inventoryPhoto/1710924842WhatsApp_Image_2024-03-20_at_14_05_42.jpeg,,2026-07-28 08:44:30.000,2026-07-28 08:44:30.000
-622,ELEK-CS-0004,85,55,1,Celling Speaker,,,inventory/ams/inventoryPhoto/1726541238Celling_Speaker.jpeg,,2025-02-12 13:52:28.000,2026-07-14 09:11:10.000
-623,ELEK-CS-0005,85,55,1,Celling Speaker,rusak pada tanggal 25 juli 2026,,inventory/ams/inventoryPhoto/1726541144Celling_Speaker.jpeg,,2026-07-28 08:42:53.000,2026-07-28 08:42:53.000
-624,ELEK-CS-0006,85,55,1,Celling Speaker koridor lt 2,Model ZS-658R,,,,2026-07-28 08:52:28.000,2026-07-28 08:52:40.000
+592,ELEK-CS-0001,85,55,1,Celling Speaker,Pengeras Suara Model ZS-645 R Daya Nominal 5 W,,inventory/ams/inventoryPhoto/1710919062WhatsApp_Image_2024-03-20_at_14_05_42.jpeg,,2025-02-06 11:40:57.000,2026-06-07 20:54:51.000
+593,ELEK-CS-0002,85,55,1,Ceiling Speaker,Pengeras Suara Model ZS-645 R Daya Nominal 5 W,,inventory/ams/inventoryPhoto/1710919731WhatsApp_Image_2024-03-20_at_14_05_42.jpeg,,2024-03-20 14:49:43.000,2025-02-05 11:07:51.000
+594,ELEK-CS-0003,85,55,1,Celling Speaker,Pengeras Suara Model ZS-645 R Daya Nominal 5 W Rusak pada tanggal 25 juli 2026,,inventory/ams/inventoryPhoto/1710924842WhatsApp_Image_2024-03-20_at_14_05_42.jpeg,,2026-07-28 08:44:30.000,2026-07-28 08:44:30.000
+595,ELEK-CS-0004,85,55,1,Celling Speaker,,,inventory/ams/inventoryPhoto/1726541238Celling_Speaker.jpeg,,2025-02-12 13:52:28.000,2026-07-14 09:11:10.000
+596,ELEK-CS-0005,85,55,1,Celling Speaker,rusak pada tanggal 25 juli 2026,,inventory/ams/inventoryPhoto/1726541144Celling_Speaker.jpeg,,2026-07-28 08:42:53.000,2026-07-28 08:42:53.000
+597,ELEK-CS-0006,85,55,1,Celling Speaker koridor lt 2,Model ZS-658R,,,,2026-07-28 08:52:28.000,2026-07-28 08:52:40.000

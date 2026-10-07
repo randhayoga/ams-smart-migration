@@ -1,6 +1,6 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-1189,PDGR-ACN-0001,106,25,1,AC Casete,2 PK,,inventory/ams/inventoryPhoto/1603694309AC_casette.jpg,,2024-08-01 10:30:12.000,2024-08-01 10:30:21.000
-1190,PDGR-ACN-0002,106,25,1,Ac Casete,Ac Casete setral,,,,2024-08-01 10:30:31.000,2024-08-01 10:30:31.000
-1191,PDGR-ACN-0003,106,25,1,Ac Casete,Ac Setral Casete,,,,2024-08-01 10:30:40.000,2024-08-01 10:30:40.000
-1192,PDGR-ACN-0004,106,25,1,Ac Casete,Ac Casete Kolidor,,,,2024-08-01 09:00:43.000,2024-08-01 09:00:43.000
-1193,PDGR-ACN-0005,106,89,1,Ac Sentral,Ac Ahu 20 PK,,inventory/ams/inventoryPhoto/1688717945WhatsApp_Image_2023-07-07_at_15_12_33.jpeg,,2025-02-05 11:17:58.000,2026-04-14 10:22:59.000
+1162,PDGR-ACN-0001,106,25,1,AC Casete,2 PK,,inventory/ams/inventoryPhoto/1603694309AC_casette.jpg,,2024-08-01 10:30:12.000,2024-08-01 10:30:21.000
+1163,PDGR-ACN-0002,106,25,1,Ac Casete,Ac Casete setral,,,,2024-08-01 10:30:31.000,2024-08-01 10:30:31.000
+1164,PDGR-ACN-0003,106,25,1,Ac Casete,Ac Setral Casete,,,,2024-08-01 10:30:40.000,2024-08-01 10:30:40.000
+1165,PDGR-ACN-0004,106,25,1,Ac Casete,Ac Casete Kolidor,,,,2024-08-01 09:00:43.000,2024-08-01 09:00:43.000
+1166,PDGR-ACN-0005,106,89,1,Ac Sentral,Ac Ahu 20 PK,,inventory/ams/inventoryPhoto/1688717945WhatsApp_Image_2023-07-07_at_15_12_33.jpeg,,2025-02-05 11:17:58.000,2026-04-14 10:22:59.000

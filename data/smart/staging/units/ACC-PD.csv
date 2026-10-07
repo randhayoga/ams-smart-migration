@@ -1,2 +1,2 @@
 id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
-405,11941,01623-ACC-PD-CFS-PTRE-18,01623-ACC-PD-CFS-PTRE-18,75,ACC-PD,183,Tidak Aktif,Bagus,0.0,,,LT,Inventaris,Corporate,10780,1,2026-07-17 08:49:24.000,2026-07-17 08:49:24.000
+405,11941,01623-ACC-PD-CFS-PTRE-18,01623-ACC-PD-CFS-PTRE-18,65,ACC-PD,183,Tidak Aktif,Bagus,0.0,,,LT,Inventaris,Corporate,10780,1,2026-07-17 08:49:24.000,2026-07-17 08:49:24.000

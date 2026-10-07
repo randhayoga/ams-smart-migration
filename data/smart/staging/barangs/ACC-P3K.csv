@@ -1,6 +1,5 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-69,ACC-P3K-0001,19,64,1,Kotak P3K,Stenlist,,inventory/ams/inventoryPhoto/1714634213WhatsApp_Image_2024-05-02_at_14_11_04.jpeg,,2025-03-05 15:28:55.000,2025-03-05 15:28:55.000
-70,ACC-P3K-0002,19,138,1,Kotak P3K,,,inventory/ams/inventoryPhoto/1726715911KOTAK_P3K.jpeg,,2024-09-19 10:18:02.000,2024-09-19 10:18:31.000
-71,ACC-P3K-0003,19,64,1,Kotak P3K,Tinggi 45 x Lebar 30 Tebal 12 cm,,inventory/ams/inventoryPhoto/1715162082WhatsApp_Image_2024-05-08_at_16_29_03.jpeg,,2025-05-19 10:30:13.000,2025-05-19 10:30:13.000
-72,ACC-P3K-0004,19,64,1,Kotak P3K,,,inventory/ams/inventoryPhoto/1726715906KOTAK_P3K.jpeg,,2024-09-19 10:18:26.000,2024-09-19 10:18:26.000
-73,ACC-P3K-0005,19,138,1,Kotoak P3K,,,,,2025-11-24 13:58:34.000,2025-11-24 13:58:34.000
+60,ACC-P3K-0001,19,64,1,Kotak P3K,Stainless,,inventory/ams/inventoryPhoto/1714634213WhatsApp_Image_2024-05-02_at_14_11_04.jpeg,,2025-03-05 15:28:55.000,2025-03-05 15:28:55.000
+61,ACC-P3K-0002,19,138,1,Kotak P3K,,,inventory/ams/inventoryPhoto/1726715911KOTAK_P3K.jpeg,,2024-09-19 10:18:02.000,2025-11-24 13:58:34.000
+62,ACC-P3K-0003,19,64,1,Kotak P3K,Tinggi 45 x Lebar 30 Tebal 12 cm,,inventory/ams/inventoryPhoto/1715162082WhatsApp_Image_2024-05-08_at_16_29_03.jpeg,,2025-05-19 10:30:13.000,2025-05-19 10:30:13.000
+63,ACC-P3K-0004,19,64,1,Kotak P3K,,,inventory/ams/inventoryPhoto/1726715906KOTAK_P3K.jpeg,,2024-09-19 10:18:26.000,2024-09-19 10:18:26.000
