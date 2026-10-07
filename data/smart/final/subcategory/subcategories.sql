@@ -116,6 +116,8 @@ INSERT INTO [subcategories] ([id], [code], [name], [description], [is_consumable
 INSERT INTO [subcategories] ([id], [code], [name], [description], [is_consumable], [category_id], [created_at], [updated_at]) VALUES (108, 'TLKM-FAX', N'Fax', NULL, 0, 13, '2026-04-08 08:33:09.000', '2026-04-08 08:33:09.000');
 INSERT INTO [subcategories] ([id], [code], [name], [description], [is_consumable], [category_id], [created_at], [updated_at]) VALUES (109, 'TLKM-HT', N'HT', NULL, 0, 13, '2025-02-06 10:47:01.000', '2025-02-06 10:47:01.000');
 INSERT INTO [subcategories] ([id], [code], [name], [description], [is_consumable], [category_id], [created_at], [updated_at]) VALUES (110, 'TLKM-SP', N'Smartphone', NULL, 0, 13, '2025-03-19 09:59:17.000', '2025-03-19 09:59:17.000');
+INSERT INTO [subcategories] ([id], [code], [name], [description], [is_consumable], [category_id], [created_at], [updated_at]) VALUES (111, 'ELEK-EXH', N'Exhaust', NULL, 0, 11, '2026-10-07 09:00:00.000', '2026-10-07 09:00:00.000');
+
 
 GO
 SET IDENTITY_INSERT [subcategories] OFF;

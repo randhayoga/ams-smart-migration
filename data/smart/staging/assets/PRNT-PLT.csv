@@ -1,0 +1,3 @@
+id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
+2966,NULL,00373-PRNT-A0-ICT-PTRE-03,"A0, MONO",ICT,XEROX,"XEROX 8830, PLOTTER  A0, MONO",0,121001,0,0,NULL,150004,NULL,LT,1,0,NULL,NULL,NULL,53573,2018-03-15 16:23:06.777,0,NULL,NULL,2003-10-29,NULL,NULL,NULL,0,0,
+3562,,00969-PRNT-A0-ICT-PTRE-12,Xerox,ICT,Xerox,Xerox A0,0,121001,0,0,NULL,150006,9,LT,0,0,NULL,NULL,NULL,053573,2023-03-24 11:33:22.000,0,NULL,NULL,2012-11-05,NULL,NULL,NULL,0,0,

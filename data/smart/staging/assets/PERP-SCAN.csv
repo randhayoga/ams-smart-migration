@@ -1,0 +1,64 @@
+id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
+2624,NULL,00031-PERP-SCAN-ICT-PTRE-02,"A3, MONO",ICT,FUJITSU,"SCANNER A3, MONO",0,121001,0,0,NULL,140013,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2002-04-17,NULL,NULL,NULL,0,0,
+2639,NULL,00046-PERP-SCAN-ICT-PTRE-03,"HP SCANNER A4, COLOR",ICT,HP,"SCANNER A4, COLOR",0,121001,0,0,NULL,140013,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2003-01-01,NULL,NULL,NULL,0,0,
+2640,NULL,00047-PERP-SCAN-ICT-PTRE-03,"HP SCANNER A4, COLOR",ICT,HP,"SCANNER A4, COLOR",0,121001,0,0,NULL,140013,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2003-01-01,NULL,NULL,NULL,0,0,
+3004,NULL,00411-PERP-SCAN-ICT-PTRE-05,"A4,COLOR",ICT,CANON,"SCANNER A4, COLOR",0,121001,0,0,NULL,140013,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2005-03-05,NULL,NULL,NULL,0,0,
+3068,NULL,00475-PERP-SCAN-ICT-PTRE-08,CANOLITE,ICT,CANON,"SCANNER A4, COLOR",0,121001,0,0,NULL,140013,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2008-05-02,NULL,NULL,NULL,0,0,
+3430,,00837-PERP-SCAN-ICT-PTRE-12,CANON DR6030,ICT,CANON,"SCANNER A3, COLOR DUPLEX",0,121001,0,0,NULL,140013,9,LT,0,0,NULL,NULL,NULL,053573,2023-03-30 12:52:58.000,0,NULL,NULL,2012-02-07,NULL,NULL,NULL,0,0,
+3781,NULL,01187-PERP-SCAN-ICT-PTRE-13,Cano Lite 110,ICT,HP,Scanner A4 Color,0,121001,0,0,NULL,140013,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2013-11-27,NULL,NULL,NULL,0,0,
+8087,,2275-PERP-SCAN-ICT-PTRE-23,Fujitsu Image Scanner Fi7480,ICT,FUJITSU,"• Scanner Type: ADF (Automatic Document Feeder) / Manual Feed, Duplex
+• Scanning Speed (A4 Landscape) (Color/ Grayscale/ Monochrome):
+• Simplex: 80 ppm (200/300 dpi)
+• Duplex: 160 ipm (200/300 dpi)
+• Scanning Speed (A4 Portrait) (Color /Grayscale/ Monochrome)
+• Simplex: 65 ppm (200/300 dpi)
+• Duplex: 130 ipm (200/300 dpi)
+• Image Sensor Type: Color CCD x 2 (front x 1, back x 1)
+• Light Source: White LED Array x 4 (front x 2, back x 2)
+• Optical Resolution: 600 dpi
+• Output Resolution (Color / Grayscale / Monochrome)
+• 50 to 600 dpi (adjustable by 1 dpi increments), 1,200 dpi (driver) (5)
+• Output Format Color: 24-bit, Grayscale: 8-bit, Monochrome: 1-bit
+• Background Colors: White / Black (selectable)
+• Document Size
+• Maximum : 304.8 x 431.8 mm (12 x 17 in.)
+• Minimum : 50.8 x 69 mm (2 x 2.7 in.) (Portrait)
+• Long Page Scanning : 5,588 mm (220 in.)
+• Paper Weight (Thickness)
+• Paper: 27 to 413 g/m2 (7.2 to 110 lb)
+• A8 size: 127 to 209 g/m2 (34 to 56 lb)
+• Plastic Card: Up to 1.4 mm (7)
+• ADF Capacity : 100 sheets (A4 80 g/m2 or Letter 20 lb)
+• Expected Daily Volume: 18,000 sheets
+• Dimensions (W x D x H): 380 x 209 x 168 mm (15.0 x 8.2 x 6.6 in.)
+• Weight: 7.6 kg (16 lb)
+• Included Items: ADF paper chute, AC cable, AC adapter, USB cable, Setup DVD-ROM
+• Warranty: 3 Years",65000000,991001,0,1,23-1321032,140013,1082,LT,0,1,134408,240124050631,2023-09-21,053573,2023-10-27 14:41:48.000,0,NULL,NULL,2023-09-21,NULL,NULL,NULL,0,0,
+8100,,2288-PERP-SCAN-ICT-PTRE-23,Fujitsu Image Scanner Fi7480,ICT,FUJITSU,"• Scanner Type: ADF (Automatic Document Feeder) / Manual Feed, Duplex
+• Scanning Speed (A4 Landscape) (Color/ Grayscale/ Monochrome):
+• Simplex: 80 ppm (200/300 dpi)
+• Duplex: 160 ipm (200/300 dpi)
+• Scanning Speed (A4 Portrait) (Color /Grayscale/ Monochrome)
+• Simplex: 65 ppm (200/300 dpi)
+• Duplex: 130 ipm (200/300 dpi)
+• Image Sensor Type: Color CCD x 2 (front x 1, back x 1)
+• Light Source: White LED Array x 4 (front x 2, back x 2)
+• Optical Resolution: 600 dpi
+• Output Resolution (Color / Grayscale / Monochrome)
+• 50 to 600 dpi (adjustable by 1 dpi increments), 1,200 dpi (driver) (5)
+• Output Format Color: 24-bit, Grayscale: 8-bit, Monochrome: 1-bit
+• Background Colors: White / Black (selectable)
+• Document Size
+• Maximum : 304.8 x 431.8 mm (12 x 17 in.)
+• Minimum : 50.8 x 69 mm (2 x 2.7 in.) (Portrait)
+• Long Page Scanning : 5,588 mm (220 in.)
+• Paper Weight (Thickness)
+• Paper: 27 to 413 g/m2 (7.2 to 110 lb)
+• A8 size: 127 to 209 g/m2 (34 to 56 lb)
+• Plastic Card: Up to 1.4 mm (7)
+• ADF Capacity : 100 sheets (A4 80 g/m2 or Letter 20 lb)
+• Expected Daily Volume: 18,000 sheets
+• Dimensions (W x D x H): 380 x 209 x 168 mm (15.0 x 8.2 x 6.6 in.)
+• Weight: 7.6 kg (16 lb)
+• Included Items: ADF paper chute, AC cable, AC adapter, USB cable, Setup DVD-ROM
+• Warranty: 3 Years",65000000,991001,0,1,23-1321032,140013,1082,LT,0,1,134408,231031104508,2023-09-29,053573,2023-10-31 10:44:48.000,0,NULL,NULL,2023-09-26,NULL,NULL,NULL,0,0,

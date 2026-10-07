@@ -1,0 +1,3 @@
+id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
+1331,,04127-ELK-AHU-CFS-PTRE-12,AC AHU SENTRAL,CFS,MCQUAY,20 PK,0,103002,0,0,NULL,260002,9,LT,0,0,NULL,NULL,NULL,140133,2025-02-14 09:11:40.000,0,NULL,NULL,2018-03-15,NULL,NULL,NULL,0,0,
+8033,,02715-ACC-AHU-CFS-PTRE-11,Ac Sentral,CFS,MCQUAY,AC AHU 15 PK,0,101003,0,0,NULL,260002,9,LT,0,NULL,NULL,NULL,NULL,140133,2025-02-05 11:18:51.000,0,NULL,NULL,2023-06-16,NULL,NULL,NULL,0,0,

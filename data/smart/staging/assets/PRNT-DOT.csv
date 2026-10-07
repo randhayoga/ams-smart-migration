@@ -1,0 +1,4 @@
+id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
+2649,NULL,00056-PRNT-A4-ICT-PTRE-03,"A4, MONO",ICT,EPSON,"LX 300, DOT MATRIX A4",0,121001,0,0,NULL,150005,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2003-01-28,NULL,NULL,NULL,0,0,
+3011,NULL,00418-PRNT-A4-ICT-PTRE-05,"A4, MONO",ICT,EPSON,"LQ 300, DOT MATRIX A4",0,121001,0,0,NULL,150005,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2005-12-01,NULL,NULL,NULL,0,0,
+3477,NULL,00884-PERP-PRT-ICT-PTRE-1,EPSON LQ300,ICT,EPSON,DOTMATRIK A4,0,121001,0,0,NULL,150005,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2012-03-21,NULL,NULL,NULL,0,0,

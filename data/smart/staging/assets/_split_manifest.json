@@ -1,0 +1,452 @@
+{
+  "total_assets_cleaned": 6962,
+  "total_partitioned_assets": 6944,
+  "total_permanently_deleted_assets": 18,
+  "total_subcategories": 111,
+  "subcategories": {
+    "ACC-AM": {
+      "file": "ACC-AM.csv",
+      "row_count": 2
+    },
+    "ACC-AP": {
+      "file": "ACC-AP.csv",
+      "row_count": 53
+    },
+    "ACC-BL": {
+      "file": "ACC-BL.csv",
+      "row_count": 2
+    },
+    "ACC-BRS": {
+      "file": "ACC-BRS.csv",
+      "row_count": 1
+    },
+    "ACC-BT": {
+      "file": "ACC-BT.csv",
+      "row_count": 7
+    },
+    "ACC-CM": {
+      "file": "ACC-CM.csv",
+      "row_count": 7
+    },
+    "ACC-DG": {
+      "file": "ACC-DG.csv",
+      "row_count": 1
+    },
+    "ACC-DP": {
+      "file": "ACC-DP.csv",
+      "row_count": 9
+    },
+    "ACC-FC": {
+      "file": "ACC-FC.csv",
+      "row_count": 4
+    },
+    "ACC-FT": {
+      "file": "ACC-FT.csv",
+      "row_count": 2
+    },
+    "ACC-GE": {
+      "file": "ACC-GE.csv",
+      "row_count": 5
+    },
+    "ACC-GL": {
+      "file": "ACC-GL.csv",
+      "row_count": 54
+    },
+    "ACC-GPS": {
+      "file": "ACC-GPS.csv",
+      "row_count": 1
+    },
+    "ACC-GR": {
+      "file": "ACC-GR.csv",
+      "row_count": 1
+    },
+    "ACC-JAM": {
+      "file": "ACC-JAM.csv",
+      "row_count": 51
+    },
+    "ACC-KA": {
+      "file": "ACC-KA.csv",
+      "row_count": 4
+    },
+    "ACC-KL": {
+      "file": "ACC-KL.csv",
+      "row_count": 11
+    },
+    "ACC-KR": {
+      "file": "ACC-KR.csv",
+      "row_count": 1
+    },
+    "ACC-LAY": {
+      "file": "ACC-LAY.csv",
+      "row_count": 1
+    },
+    "ACC-LS": {
+      "file": "ACC-LS.csv",
+      "row_count": 179
+    },
+    "ACC-P3K": {
+      "file": "ACC-P3K.csv",
+      "row_count": 8
+    },
+    "ACC-PC": {
+      "file": "ACC-PC.csv",
+      "row_count": 1
+    },
+    "ACC-PD": {
+      "file": "ACC-PD.csv",
+      "row_count": 1
+    },
+    "ACC-PH": {
+      "file": "ACC-PH.csv",
+      "row_count": 44
+    },
+    "ACC-PK": {
+      "file": "ACC-PK.csv",
+      "row_count": 3
+    },
+    "ACC-PM": {
+      "file": "ACC-PM.csv",
+      "row_count": 5
+    },
+    "ACC-POT": {
+      "file": "ACC-POT.csv",
+      "row_count": 37
+    },
+    "ACC-PS": {
+      "file": "ACC-PS.csv",
+      "row_count": 1
+    },
+    "ACC-RB": {
+      "file": "ACC-RB.csv",
+      "row_count": 1
+    },
+    "ACC-RP": {
+      "file": "ACC-RP.csv",
+      "row_count": 5
+    },
+    "ACC-RS": {
+      "file": "ACC-RS.csv",
+      "row_count": 3
+    },
+    "ACC-STB": {
+      "file": "ACC-STB.csv",
+      "row_count": 2
+    },
+    "ACC-TAP": {
+      "file": "ACC-TAP.csv",
+      "row_count": 5
+    },
+    "ACC-TB": {
+      "file": "ACC-TB.csv",
+      "row_count": 2
+    },
+    "ACC-TI": {
+      "file": "ACC-TI.csv",
+      "row_count": 13
+    },
+    "ACC-TK": {
+      "file": "ACC-TK.csv",
+      "row_count": 5
+    },
+    "ACC-TM": {
+      "file": "ACC-TM.csv",
+      "row_count": 1
+    },
+    "ACC-TO": {
+      "file": "ACC-TO.csv",
+      "row_count": 1
+    },
+    "ACC-TS": {
+      "file": "ACC-TS.csv",
+      "row_count": 173
+    },
+    "ACC-WB": {
+      "file": "ACC-WB.csv",
+      "row_count": 5
+    },
+    "COMP-DESK": {
+      "file": "COMP-DESK.csv",
+      "row_count": 782
+    },
+    "COMP-NB": {
+      "file": "COMP-NB.csv",
+      "row_count": 607
+    },
+    "COMP-SVR": {
+      "file": "COMP-SVR.csv",
+      "row_count": 17
+    },
+    "COMP-WORK": {
+      "file": "COMP-WORK.csv",
+      "row_count": 46
+    },
+    "ELEK-ATS": {
+      "file": "ELEK-ATS.csv",
+      "row_count": 1
+    },
+    "ELEK-CCT": {
+      "file": "ELEK-CCT.csv",
+      "row_count": 36
+    },
+    "ELEK-CP": {
+      "file": "ELEK-CP.csv",
+      "row_count": 1
+    },
+    "ELEK-CS": {
+      "file": "ELEK-CS.csv",
+      "row_count": 81
+    },
+    "ELEK-EXH": {
+      "file": "ELEK-EXH.csv",
+      "row_count": 1
+    },
+    "ELEK-FCT": {
+      "file": "ELEK-FCT.csv",
+      "row_count": 1
+    },
+    "ELEK-FR": {
+      "file": "ELEK-FR.csv",
+      "row_count": 4
+    },
+    "ELEK-FVC": {
+      "file": "ELEK-FVC.csv",
+      "row_count": 1
+    },
+    "ELEK-HD": {
+      "file": "ELEK-HD.csv",
+      "row_count": 157
+    },
+    "ELEK-KUL": {
+      "file": "ELEK-KUL.csv",
+      "row_count": 8
+    },
+    "ELEK-MD": {
+      "file": "ELEK-MD.csv",
+      "row_count": 3
+    },
+    "ELEK-MIC": {
+      "file": "ELEK-MIC.csv",
+      "row_count": 7
+    },
+    "ELEK-MK": {
+      "file": "ELEK-MK.csv",
+      "row_count": 1
+    },
+    "ELEK-MPK": {
+      "file": "ELEK-MPK.csv",
+      "row_count": 1
+    },
+    "ELEK-SD": {
+      "file": "ELEK-SD.csv",
+      "row_count": 77
+    },
+    "ELEK-SPE": {
+      "file": "ELEK-SPE.csv",
+      "row_count": 17
+    },
+    "ELEK-SPR": {
+      "file": "ELEK-SPR.csv",
+      "row_count": 151
+    },
+    "ELEK-TG": {
+      "file": "ELEK-TG.csv",
+      "row_count": 11
+    },
+    "ELEK-TV": {
+      "file": "ELEK-TV.csv",
+      "row_count": 27
+    },
+    "FUR-KK": {
+      "file": "FUR-KK.csv",
+      "row_count": 1159
+    },
+    "FUR-KP": {
+      "file": "FUR-KP.csv",
+      "row_count": 10
+    },
+    "FUR-KT": {
+      "file": "FUR-KT.csv",
+      "row_count": 47
+    },
+    "FUR-LC": {
+      "file": "FUR-LC.csv",
+      "row_count": 583
+    },
+    "FUR-LM": {
+      "file": "FUR-LM.csv",
+      "row_count": 132
+    },
+    "FUR-MB": {
+      "file": "FUR-MB.csv",
+      "row_count": 6
+    },
+    "FUR-MK": {
+      "file": "FUR-MK.csv",
+      "row_count": 853
+    },
+    "FUR-MT": {
+      "file": "FUR-MT.csv",
+      "row_count": 6
+    },
+    "KEND-MO": {
+      "file": "KEND-MO.csv",
+      "row_count": 2
+    },
+    "MES-GEN": {
+      "file": "MES-GEN.csv",
+      "row_count": 1
+    },
+    "MES-LIF": {
+      "file": "MES-LIF.csv",
+      "row_count": 1
+    },
+    "MES-PAN": {
+      "file": "MES-PAN.csv",
+      "row_count": 25
+    },
+    "MES-RP": {
+      "file": "MES-RP.csv",
+      "row_count": 0
+    },
+    "MES-WTH": {
+      "file": "MES-WTH.csv",
+      "row_count": 1
+    },
+    "MON-CRT": {
+      "file": "MON-CRT.csv",
+      "row_count": 176
+    },
+    "MON-LCD": {
+      "file": "MON-LCD.csv",
+      "row_count": 582
+    },
+    "PDGR-ACN": {
+      "file": "PDGR-ACN.csv",
+      "row_count": 8
+    },
+    "PDGR-ACP": {
+      "file": "PDGR-ACP.csv",
+      "row_count": 4
+    },
+    "PDGR-ACS": {
+      "file": "PDGR-ACS.csv",
+      "row_count": 4
+    },
+    "PDGR-ACSP": {
+      "file": "PDGR-ACSP.csv",
+      "row_count": 142
+    },
+    "PDGR-AHU": {
+      "file": "PDGR-AHU.csv",
+      "row_count": 2
+    },
+    "PERP-ACCN": {
+      "file": "PERP-ACCN.csv",
+      "row_count": 6
+    },
+    "PERP-ACCS": {
+      "file": "PERP-ACCS.csv",
+      "row_count": 3
+    },
+    "PERP-CAM": {
+      "file": "PERP-CAM.csv",
+      "row_count": 10
+    },
+    "PERP-COMM": {
+      "file": "PERP-COMM.csv",
+      "row_count": 16
+    },
+    "PERP-MEXT": {
+      "file": "PERP-MEXT.csv",
+      "row_count": 24
+    },
+    "PERP-MMD": {
+      "file": "PERP-MMD.csv",
+      "row_count": 6
+    },
+    "PERP-NETW": {
+      "file": "PERP-NETW.csv",
+      "row_count": 86
+    },
+    "PERP-PROJ": {
+      "file": "PERP-PROJ.csv",
+      "row_count": 16
+    },
+    "PERP-RAKS": {
+      "file": "PERP-RAKS.csv",
+      "row_count": 6
+    },
+    "PERP-SCAN": {
+      "file": "PERP-SCAN.csv",
+      "row_count": 9
+    },
+    "PERP-SCRN": {
+      "file": "PERP-SCRN.csv",
+      "row_count": 1
+    },
+    "PERP-STRG": {
+      "file": "PERP-STRG.csv",
+      "row_count": 19
+    },
+    "PERP-UPS": {
+      "file": "PERP-UPS.csv",
+      "row_count": 6
+    },
+    "PERP-VGA": {
+      "file": "PERP-VGA.csv",
+      "row_count": 3
+    },
+    "PRNT-DOT": {
+      "file": "PRNT-DOT.csv",
+      "row_count": 3
+    },
+    "PRNT-IDC": {
+      "file": "PRNT-IDC.csv",
+      "row_count": 1
+    },
+    "PRNT-INK": {
+      "file": "PRNT-INK.csv",
+      "row_count": 8
+    },
+    "PRNT-LJT": {
+      "file": "PRNT-LJT.csv",
+      "row_count": 19
+    },
+    "PRNT-MLT": {
+      "file": "PRNT-MLT.csv",
+      "row_count": 9
+    },
+    "PRNT-PLT": {
+      "file": "PRNT-PLT.csv",
+      "row_count": 2
+    },
+    "PROP-PRO": {
+      "file": "PROP-PRO.csv",
+      "row_count": 8
+    },
+    "SOFT-ENG": {
+      "file": "SOFT-ENG.csv",
+      "row_count": 31
+    },
+    "SOFT-GEN": {
+      "file": "SOFT-GEN.csv",
+      "row_count": 25
+    },
+    "TLKM-FAX": {
+      "file": "TLKM-FAX.csv",
+      "row_count": 2
+    },
+    "TLKM-HT": {
+      "file": "TLKM-HT.csv",
+      "row_count": 15
+    },
+    "TLKM-SP": {
+      "file": "TLKM-SP.csv",
+      "row_count": 1
+    },
+    "TLKM-TL": {
+      "file": "TLKM-TL.csv",
+      "row_count": 115
+    }
+  }
+}

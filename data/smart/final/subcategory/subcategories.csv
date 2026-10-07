@@ -109,3 +109,4 @@ id,code,name,description,is_consumable,category_id,created_at,updated_at
 108,TLKM-FAX,Fax,,False,13,2026-04-08 08:33:09.000,2026-04-08 08:33:09.000
 109,TLKM-HT,HT,,False,13,2025-02-06 10:47:01.000,2025-02-06 10:47:01.000
 110,TLKM-SP,Smartphone,,False,13,2025-03-19 09:59:17.000,2025-03-19 09:59:17.000
+111,ELEK-EXH,Exhaust,,False,11,2026-10-07 09:00:00.000,2026-10-07 09:00:00.000
