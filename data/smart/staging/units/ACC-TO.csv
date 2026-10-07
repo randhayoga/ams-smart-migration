@@ -1,0 +1,2 @@
+id,ams_asset_id,number,legacy_number,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,created_at,updated_at
+533,10559,04682-ACC-TO-CFS-PTRE-25,04682-ACC-TO-CFS-PTRE-25,ACC-TO,215,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1728545334tabung_oksigen.jpeg,inventory/ams/assets/uploads/assetsre/ap/1728545334tabung_oksigen.jpeg,LT,Aset,Corporate,10780,2026-04-09 15:06:16.000,2026-04-09 15:06:16.000

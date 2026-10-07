@@ -1,0 +1,9 @@
+id,ams_asset_id,number,legacy_number,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,created_at,updated_at
+6334,1431,01431-PDGR-ACN-CFS-PTRE-14,01431-SIN-AC-CFS-PTRE-14,PDGR-ACN,151,Tersedia,Bagus,0.0,inventory/ams/inventoryPhoto/1603694309AC_casette.jpg,inventory/ams/assets/uploads/assetsre/ap/1603694309AC_casette.jpg,LT,Aset,Corporate,,2024-08-01 10:30:12.000,2024-08-01 10:30:12.000
+6335,1432,01432-PDGR-ACN-CFS-PTRE-14,01432-SIN-AC-CFS-PTRE-14,PDGR-ACN,151,Tersedia,Bagus,0.0,inventory/ams/inventoryPhoto/1603694320AC_casette.jpg,inventory/ams/assets/uploads/assetsre/ap/1603694320AC_casette.jpg,LT,Aset,Corporate,,2024-08-01 10:30:21.000,2024-08-01 10:30:21.000
+6336,7984,02666-PDGR-ACN-CFS-PTRE-12,02666-ACC-AC-CFS-PTRE-12,PDGR-ACN,151,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,2024-08-01 10:30:31.000,2024-08-01 10:30:31.000
+6337,7985,02667-PDGR-ACN-CFS-PTRE-12,02667-ACC-AC-CFS-PTRE-12,PDGR-ACN,151,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,2024-08-01 10:30:40.000,2024-08-01 10:30:40.000
+6338,7986,02668-PDGR-ACN-CFS-PTRE-19,02668-ACC-AC-CFS-PTRE-19,PDGR-ACN,143,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,2024-08-01 09:00:43.000,2024-08-01 09:00:43.000
+6339,8034,02716-PDGR-ACN-CFS-PTRE-11,02716-ACC-AHU-CFS-PTRE-11,PDGR-ACN,125,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,2025-02-05 11:18:19.000,2025-02-05 11:18:19.000
+6340,8035,04575-PDGR-ACN-CFS-PTRE-11,04575-ELK-ACC-CFS-PTRE-11,PDGR-ACN,159,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,2025-02-05 11:17:58.000,2025-02-05 11:17:58.000
+6341,8036,04126-PDGR-ACN-CFS-PTRE-11,04126-ELK-ACC-CFS-PTRE-11,PDGR-ACN,170,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1688717945WhatsApp_Image_2023-07-07_at_15_12_33.jpeg,inventory/ams/assets/uploads/assetsre/ap/1688717945WhatsApp_Image_2023-07-07_at_15_12_33.jpeg,LT,Aset,Corporate,,2026-04-14 10:22:59.000,2026-04-14 10:22:59.000

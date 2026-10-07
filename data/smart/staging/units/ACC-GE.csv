@@ -1,0 +1,6 @@
+id,ams_asset_id,number,legacy_number,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,created_at,updated_at
+89,10495,04907-ACC-GE-CFS-PTRE-24,04907-ACC-GE-CFS-PTRE-24,ACC-GE,89,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,2024-08-22 09:28:20.000,2024-08-22 09:29:58.000
+90,10496,04908-ACC-GE-CFS-PTRE-24,04908-ACC-GE-CFS-PTRE-24,ACC-GE,89,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,2024-08-22 09:28:20.000,2024-08-22 09:30:17.000
+91,10497,04572-ACC-GE-CFS-PTRE-24,04572-ACC-GE-CFS-PTRE-24,ACC-GE,89,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1727663431gerobak_etalase.jpeg,inventory/ams/assets/uploads/assetsre/ap/1727663431gerobak_etalase.jpeg,LT,Aset,Corporate,10780,2025-11-18 09:00:39.000,2025-11-18 09:00:39.000
+92,10498,04573-ACC-GE-CFS-PTRE-24,04573-ACC-GE-CFS-PTRE-24,ACC-GE,89,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1727663427gerobak_etalase.jpeg,inventory/ams/assets/uploads/assetsre/ap/1727663427gerobak_etalase.jpeg,LT,Aset,Corporate,10780,2025-11-18 09:00:24.000,2025-11-18 09:00:24.000
+93,10499,04574-ACC-GE-CFS-PTRE-24,04574-ACC-GE-CFS-PTRE-24,ACC-GE,89,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1727663415gerobak_etalase.jpeg,inventory/ams/assets/uploads/assetsre/ap/1727663415gerobak_etalase.jpeg,LT,Aset,Corporate,10780,2025-11-18 09:00:02.000,2025-11-18 09:00:02.000
