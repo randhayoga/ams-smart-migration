@@ -1,0 +1,4 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+52,ACC-KA-0001,26,148,1,Kipas Angin,Kipas Angin Dinding,,inventory/ams/inventoryPhoto/1727685729KIPAS_ANGIN.jpeg,,2025-02-07 14:39:06.000,2025-02-12 10:57:45.000
+53,ACC-KA-0002,26,134,1,Kipas Angin,,,inventory/ams/inventoryPhoto/1726796030KIPAS_ANGIN_SEKAI.jpeg,,2025-02-07 10:47:57.000,2025-02-07 10:47:57.000
+54,ACC-KA-0003,26,148,1,Kipas Angin,,,,,2025-02-12 11:05:12.000,2025-02-12 11:05:12.000

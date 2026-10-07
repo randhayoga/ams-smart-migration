@@ -1,0 +1,4 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+627,ELEK-FR-0001,96,124,1,FINGERPRINT,,,inventory/ams/inventoryPhoto/1726628007FINGER_PRINT.jpeg,,2025-02-12 13:54:47.000,2025-02-14 14:30:11.000
+628,ELEK-FR-0002,96,133,1,FINGERPRINT,,,inventory/ams/inventoryPhoto/1726628029FINGER_PRINT.jpeg,,2025-05-26 18:25:21.000,2025-11-12 14:36:54.000
+629,ELEK-FR-0003,96,124,1,Finger Print Reader,,,,,2025-11-24 13:30:28.000,2025-11-24 13:30:28.000

@@ -1,0 +1,2 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+108,ACC-TB-0001,28,123,1,Troli Besar,,,inventory/ams/inventoryPhoto/1726799180TROLI_BESAR.jpeg,,2025-02-07 10:02:31.000,2026-07-15 11:41:11.000

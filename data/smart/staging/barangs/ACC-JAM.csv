@@ -1,0 +1,5 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+48,ACC-JAM-0001,13,80,1,Jam Dinding,Warna Putih,,inventory/ams/inventoryPhoto/1726209284Jam_Dinding_Seiko.jpeg,,2024-07-29 11:39:29.000,2025-03-18 14:12:09.000
+49,ACC-JAM-0002,13,80,1,Jam Dinding,,,inventory/ams/inventoryPhoto/1714100828WhatsApp_Image_2024-03-09_at_09_25_13.jpeg,,2017-02-27 00:00:00.000,2026-06-07 21:19:47.000
+50,ACC-JAM-0003,13,80,1,Jam Dinding,Warna Silver,,inventory/ams/inventoryPhoto/1726209273Jam_Dinding_Seiko.jpeg,,2024-09-13 13:34:33.000,2024-09-13 13:34:33.000
+51,ACC-JAM-0004,13,80,1,Jam Dinding,Jam besar dinding,,inventory/ams/inventoryPhoto/1726209185Jam_Dinding_Seiko.jpeg,,2024-09-13 13:33:05.000,2024-09-13 13:33:05.000

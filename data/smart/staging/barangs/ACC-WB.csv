@@ -1,0 +1,4 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+140,ACC-WB-0001,10,123,1,White Board,,,inventory/ams/inventoryPhoto/1726558100WHITEBOARD.jpeg,,2024-09-17 14:28:17.000,2026-05-12 09:13:39.000
+141,ACC-WB-0002,10,25,1,Panaboard,,,inventory/ams/inventoryPhoto/1726558324PANABOARD.jpeg,,2024-09-17 14:32:04.000,2024-09-17 14:32:04.000
+142,ACC-WB-0003,10,123,1,Whiteboard,,,inventory/ams/inventoryPhoto/1726558086WHITEBOARD.jpeg,,2026-06-07 21:08:24.000,2026-06-07 21:08:24.000

@@ -1,0 +1,3 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+15,ACC-BL-0001,39,154,1,Bor Listrik,,,inventory/ams/inventoryPhoto/1752121816WhatsApp_Image_2025-07-10_at_11_19_07.jpeg,,2025-07-10 11:34:44.000,2025-07-10 11:34:44.000
+16,ACC-BL-0002,39,155,1,Bor Listrik,,,inventory/ams/inventoryPhoto/1752121910WhatsApp_Image_2025-07-10_at_11_22_16.jpeg,,2025-07-10 11:34:36.000,2025-07-10 11:34:36.000

@@ -1,0 +1,2 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+25,ACC-DG-0001,48,170,1,Tensimeter Digital,,,inventory/ams/inventoryPhoto/1784792876WhatsApp_Image_2026-07-23_at_14_47_02.jpeg,,2026-07-23 14:48:39.000,2026-07-23 14:48:39.000

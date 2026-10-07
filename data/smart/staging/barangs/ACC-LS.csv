@@ -1,0 +1,12 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+58,ACC-LS-0001,17,123,1,Lukisan,Batik,,inventory/ams/inventoryPhoto/1726803283LUKISAN.jpeg,,2024-02-28 10:32:46.000,2024-09-20 10:34:43.000
+59,ACC-LS-0002,17,123,1,Lukisan,Project,,inventory/ams/inventoryPhoto/1726803253LUKISAN.jpeg,,2024-02-28 10:33:07.000,2025-04-25 10:19:23.000
+60,ACC-LS-0003,17,123,1,Lukisan,Bingkai,,inventory/ams/inventoryPhoto/1726803238LUKISAN.jpeg,,2024-02-28 10:32:35.000,2024-09-20 10:33:58.000
+61,ACC-LS-0004,17,123,1,Lukisan,Dept,,inventory/ams/inventoryPhoto/1726803202LUKISAN.jpeg,,2024-02-28 10:05:21.000,2026-01-26 14:21:06.000
+62,ACC-LS-0005,17,123,1,Lukisan,Motivasi,,inventory/ams/inventoryPhoto/1726803222LUKISAN.jpeg,,2024-02-16 16:40:22.000,2026-01-26 14:20:42.000
+63,ACC-LS-0006,17,123,1,Lukisan,Sprint,,inventory/ams/inventoryPhoto/1726803190LUKISAN.jpeg,,2024-02-16 16:40:34.000,2024-09-20 10:33:10.000
+64,ACC-LS-0007,17,76,1,Lukisan,Sprint,,,,2024-07-29 10:32:18.000,2024-07-29 10:32:18.000
+65,ACC-LS-0008,17,76,1,Lukisan,Dept,,,,2024-07-29 10:32:09.000,2024-07-29 10:32:09.000
+66,ACC-LS-0009,17,76,1,Lukisan,Motivasi,,,,2024-07-29 10:31:47.000,2024-07-29 10:31:54.000
+67,ACC-LS-0010,17,123,1,Lukisan Sekar jagad,Batik Sekar Jagad,,inventory/ams/inventoryPhoto/1726802959LUKISAN1.jpeg,,2024-09-20 10:29:19.000,2024-09-20 10:29:19.000
+68,ACC-LS-0011,17,123,1,Lukisan,,,inventory/ams/inventoryPhoto/1726802363LUKISAN.jpeg,,2024-07-26 10:35:13.000,2025-04-25 10:18:27.000

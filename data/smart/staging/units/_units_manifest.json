@@ -1,27 +1,4 @@
 {
-  "generated_at": "2026-10-07 06:31:03Z",
-  "total_units": 6943,
-  "total_subcategories": 111,
-  "status_distribution": {
-    "Tersedia": 3120,
-    "Tidak Aktif": 2541,
-    "Borrowed": 1282
-  },
-  "condition_distribution": {
-    "Bagus": 5041,
-    "Rusak": 1472,
-    "QC Passed": 357,
-    "Lelang/Hibah": 69,
-    "Hilang": 4
-  },
-  "burden_distribution": {
-    "Corporate": 6851,
-    "Project": 92
-  },
-  "classification_distribution": {
-    "Aset": 6011,
-    "Inventaris": 932
-  },
   "subcategories": {
     "ACC-AM": {
       "file": "ACC-AM.csv",
@@ -323,10 +300,6 @@
       "file": "MES-PAN.csv",
       "row_count": 25
     },
-    "MES-RP": {
-      "file": "MES-RP.csv",
-      "row_count": 0
-    },
     "MES-WTH": {
       "file": "MES-WTH.csv",
       "row_count": 1
@@ -467,5 +440,6 @@
       "file": "TLKM-TL.csv",
       "row_count": 115
     }
-  }
+  },
+  "total_units": 6943
 }

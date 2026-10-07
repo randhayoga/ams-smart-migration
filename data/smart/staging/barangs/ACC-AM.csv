@@ -1,0 +1,3 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+1,ACC-AM-0001,45,3,1,Piano,YAMAHA PSR 650,,,,2026-03-31 15:22:17.000,2026-03-31 15:22:17.000
+2,ACC-AM-0002,45,3,1,Gitar Akustik,,,,,2026-04-21 07:46:21.000,2026-04-21 07:46:21.000

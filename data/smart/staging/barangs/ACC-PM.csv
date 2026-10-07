@@ -1,0 +1,6 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+87,ACC-PM-0001,49,171,1,Helm Motor OP,Helm motor JS half face,,inventory/ams/inventoryPhoto/1785308607WhatsApp_Image_2026-07-29_at_14_01_28.jpeg,,2026-07-29 15:32:01.000,2026-07-29 15:32:01.000
+88,ACC-PM-0002,49,172,1,Jas Hujan motor op,,,inventory/ams/inventoryPhoto/1785314239WhatsApp_Image_2026-07-29_at_15_36_31.jpeg,,2026-07-29 15:37:19.000,2026-07-29 15:37:19.000
+89,ACC-PM-0003,49,171,1,Helm Motor OP,,,inventory/ams/inventoryPhoto/1785314321WhatsApp_Image_2026-07-29_at_15_36_28.jpeg,,2026-07-31 14:00:13.000,2026-07-31 14:00:13.000
+90,ACC-PM-0004,49,172,1,Jas Hujan motor op (Tisna),,,inventory/ams/inventoryPhoto/1785482840WhatsApp_Image_2026-07-29_at_14_01_28.jpeg,,2026-07-31 14:31:45.000,2026-07-31 14:31:45.000
+91,ACC-PM-0005,49,171,1,Helm Motor OP (Ariyono),,,,,2026-07-31 14:32:01.000,2026-07-31 14:32:01.000

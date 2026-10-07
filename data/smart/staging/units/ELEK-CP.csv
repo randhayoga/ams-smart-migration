@@ -1,2 +1,2 @@
-id,ams_asset_id,number,legacy_number,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,created_at,updated_at
-2201,11862,04858-ELEK-CP-CFS-PTRE-25,04858-ELK-CP-CFS-PTRE-25,ELEK-CP,215,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,2026-06-29 09:34:50.000,2026-06-29 09:34:50.000
+id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
+2201,11862,04858-ELEK-CP-CFS-PTRE-25,04858-ELK-CP-CFS-PTRE-25,618,ELEK-CP,215,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,1,2026-06-29 09:34:50.000,2026-06-29 09:34:50.000

@@ -1,0 +1,4 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+822,ELEK-SPR-0001,95,107,1,Sprinkler,Tipe Dry Pipe,,inventory/ams/inventoryPhoto/1712046268WhatsApp_Image_2024-04-01_at_1_37_13_PM.jpeg,,2025-02-07 15:17:45.000,2025-11-19 11:06:50.000
+823,ELEK-SPR-0002,95,107,1,Sprinkler,Tipe dri Pipe,,inventory/ams/inventoryPhoto/1711954623WhatsApp_Image_2024-04-01_at_1_37_13_PM.jpeg,,2025-11-19 11:05:23.000,2025-11-19 11:05:23.000
+824,ELEK-SPR-0003,95,107,1,Sprinkler,,,inventory/ams/inventoryPhoto/1711954679WhatsApp_Image_2024-04-01_at_1_37_13_PM.jpeg,,2024-04-01 14:17:10.000,2026-06-07 20:55:22.000

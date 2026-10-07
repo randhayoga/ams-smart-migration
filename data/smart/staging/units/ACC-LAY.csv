@@ -1,2 +1,2 @@
-id,ams_asset_id,number,legacy_number,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,created_at,updated_at
-217,9334,04467-ACC-LAY-CFS-PTRE-24,04467-ACC-LAY-CFS-PTRE-24,ACC-LAY,151,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1726628397LAYAR_INFOCUS.jpeg,inventory/ams/assets/uploads/assetsre/ap/1726628397LAYAR_INFOCUS.jpeg,LT,Aset,Corporate,10780,2025-02-07 09:56:49.000,2025-02-07 09:56:49.000
+id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
+217,9334,04467-ACC-LAY-CFS-PTRE-24,04467-ACC-LAY-CFS-PTRE-24,57,ACC-LAY,151,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1726628397LAYAR_INFOCUS.jpeg,inventory/ams/assets/uploads/assetsre/ap/1726628397LAYAR_INFOCUS.jpeg,LT,Aset,Corporate,10780,1,2025-02-07 09:56:49.000,2025-02-07 09:56:49.000

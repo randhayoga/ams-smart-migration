@@ -1,0 +1,3 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+749,ELEK-MIC-0001,99,64,1,Microwave,,,inventory/ams/inventoryPhoto/1714637827WhatsApp_Image_2024-05-02_at_15_11_34.jpeg,,2025-11-18 16:18:50.000,2025-11-18 16:18:50.000
+750,ELEK-MIC-0002,99,88,1,Microwave,,,inventory/ams/inventoryPhoto/1714637916WhatsApp_Image_2024-05-02_at_15_12_57.jpeg,,2024-09-17 13:59:47.000,2025-11-18 16:18:38.000

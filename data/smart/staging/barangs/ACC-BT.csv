@@ -1,0 +1,6 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+18,ACC-BT-0001,22,25,1,Braket TV Standing,Braket Besi,,inventory/ams/inventoryPhoto/1709958133WhatsApp_Image_2024-02-28_at_15_11_46_(1).jpeg,,2026-05-18 08:58:27.000,2026-05-18 08:58:27.000
+19,ACC-BT-0002,22,123,1,Braket TV Standing,,,inventory/ams/inventoryPhoto/1726627783BRAKET_TV_LG.jpeg,,2025-11-18 11:27:51.000,2025-11-18 11:27:51.000
+20,ACC-BT-0003,22,25,1,Braket TV Standing,,,inventory/ams/inventoryPhoto/1739346908BRAKET_TV_LG.jpeg,,2025-11-18 11:27:38.000,2025-11-18 11:27:38.000
+21,ACC-BT-0004,22,160,1,Braket TV Standing,,,inventory/ams/inventoryPhoto/1760425696BRAKET_TV.jpeg,,2025-11-18 11:27:21.000,2025-11-24 14:50:28.000
+22,ACC-BT-0005,22,160,1,Braket Standing TV,,,,,2025-11-24 14:49:06.000,2025-11-24 14:49:06.000

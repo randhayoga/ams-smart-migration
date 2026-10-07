@@ -1,0 +1,13 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+34,ACC-GL-0001,14,130,1,Glasboard,Ukuran 90 x 80,,inventory/ams/inventoryPhoto/1726562050GLASSBOARD.jpeg,,2024-09-17 15:34:08.000,2025-02-13 09:06:02.000
+35,ACC-GL-0002,14,130,1,Glasboard,,,inventory/ams/inventoryPhoto/1726562053GLASSBOARD.jpeg,,2018-03-15 16:23:06.777,2026-06-07 20:54:21.000
+36,ACC-GL-0003,14,130,1,GLASBOARD,KACA,,inventory/ams/inventoryPhoto/1739347311GLASSBOARD.jpeg,,2025-03-18 14:10:06.000,2025-03-18 14:10:06.000
+37,ACC-GL-0004,14,130,1,Glasboard,pindah ke lantai 1,,,,2024-02-16 16:37:40.000,2024-02-16 16:37:40.000
+38,ACC-GL-0005,14,130,1,Glasboard,Ukuran 90 X 120,,inventory/ams/inventoryPhoto/1714105758WhatsApp_Image_2024-04-26_at_10_22_48.jpeg,,2024-04-26 11:29:18.000,2024-04-26 11:29:18.000
+39,ACC-GL-0006,14,112,1,Glasboard,ukuran 90 x 120,,inventory/ams/inventoryPhoto/1712285593WhatsApp_Image_2024-04-05_at_9_26_48_AM.jpeg,,2024-04-05 09:53:13.000,2024-04-05 09:53:13.000
+40,ACC-GL-0007,14,112,1,Glasboard,Ukuran 90 x 120 cm ( ruang pak fajar ),,inventory/ams/inventoryPhoto/1712288607WhatsApp_Image_2024-04-05_at_9_25_36_AM.jpeg,,2024-04-05 10:43:27.000,2024-04-05 10:43:27.000
+41,ACC-GL-0008,14,112,1,Glasboard,Lokasi Meja meeting civil 90 x 140 cm,,inventory/ams/inventoryPhoto/1712288743WhatsApp_Image_2024-04-05_at_9_26_48_AM.jpeg,,2024-04-05 10:45:43.000,2024-04-05 10:45:43.000
+42,ACC-GL-0009,14,112,1,Glasboard,Ukuran 90 x90,,inventory/ams/inventoryPhoto/1713518700WhatsApp_Image_2024-04-19_at_14_25_04.jpeg,,2024-04-19 16:25:00.000,2024-04-19 16:25:00.000
+43,ACC-GL-0010,14,130,1,GLASSBOARD,PAPAN TULIS PUTIH,,inventory/ams/inventoryPhoto/1726561959GLASSBOARD.jpeg,,2024-09-17 15:32:39.000,2024-09-17 15:32:39.000
+44,ACC-GL-0011,14,123,1,GLASSBOARD,,,inventory/ams/inventoryPhoto/1726561957GLASSBOARD.jpeg,,2024-09-17 15:32:37.000,2024-09-17 15:32:37.000
+45,ACC-GL-0012,14,130,1,Glassboard,,,inventory/ams/inventoryPhoto/1739414705GLASSBOARD.jpeg,,2025-02-13 09:45:39.000,2025-02-14 15:31:55.000

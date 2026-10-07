@@ -1,2 +1,2 @@
-id,ams_asset_id,number,legacy_number,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,created_at,updated_at
-6708,3563,00970-PRNT-IDC-ICT-PTRE-12,00970-PRNT-A8-ICT-PTRE-12,PRNT-IDC,77,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,2020-05-31 09:43:57.000,2020-05-31 09:43:57.000
+id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
+6708,3563,00970-PRNT-IDC-ICT-PTRE-12,00970-PRNT-A8-ICT-PTRE-12,1378,PRNT-IDC,77,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,1,2020-05-31 09:43:57.000,2020-05-31 09:43:57.000

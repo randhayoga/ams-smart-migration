@@ -1,3 +1,3 @@
-id,ams_asset_id,number,legacy_number,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,created_at,updated_at
-6745,2966,00373-PRNT-PLT-ICT-PTRE-03,00373-PRNT-A0-ICT-PTRE-03,PRNT-PLT,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,2018-03-15 16:23:06.777,2018-03-15 16:23:06.777
-6746,3562,00969-PRNT-PLT-ICT-PTRE-12,00969-PRNT-A0-ICT-PTRE-12,PRNT-PLT,77,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,2023-03-24 11:33:22.000,2023-03-24 11:33:22.000
+id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
+6745,2966,00373-PRNT-PLT-ICT-PTRE-03,00373-PRNT-A0-ICT-PTRE-03,1401,PRNT-PLT,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2018-03-15 16:23:06.777,2018-03-15 16:23:06.777
+6746,3562,00969-PRNT-PLT-ICT-PTRE-12,00969-PRNT-A0-ICT-PTRE-12,1402,PRNT-PLT,77,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,1,2023-03-24 11:33:22.000,2023-03-24 11:33:22.000

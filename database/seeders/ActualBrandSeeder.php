@@ -9,7 +9,7 @@ class ActualBrandSeeder extends Seeder
 {
     /**
      * Run the master Brand database seeds.
-     * Total records: 172
+     * Total records: 176
      */
     public function run(): void
     {
@@ -1217,6 +1217,34 @@ class ActualBrandSeeder extends Seeder
                 'description' => 'Jas hujan',
                 'created_at' => '2026-07-29 15:27:50',
                 'updated_at' => '2026-07-29 15:27:50',
+            ],
+            [
+                'id' => 173,
+                'name' => 'Chitose',
+                'description' => null,
+                'created_at' => '2026-10-07 14:00:00',
+                'updated_at' => '2026-10-07 14:00:00',
+            ],
+            [
+                'id' => 174,
+                'name' => 'ICA',
+                'description' => null,
+                'created_at' => '2026-10-07 14:00:00',
+                'updated_at' => '2026-10-07 14:00:00',
+            ],
+            [
+                'id' => 175,
+                'name' => 'Stella',
+                'description' => null,
+                'created_at' => '2026-10-07 14:00:00',
+                'updated_at' => '2026-10-07 14:00:00',
+            ],
+            [
+                'id' => 176,
+                'name' => 'Morelly',
+                'description' => null,
+                'created_at' => '2026-10-07 14:00:00',
+                'updated_at' => '2026-10-07 14:00:00',
             ],
         ];
 

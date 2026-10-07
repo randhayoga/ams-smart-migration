@@ -1,4 +1,4 @@
-id,ams_asset_id,number,legacy_number,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,created_at,updated_at
-6705,2649,00056-PRNT-DOT-ICT-PTRE-03,00056-PRNT-A4-ICT-PTRE-03,PRNT-DOT,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000
-6706,3011,00418-PRNT-DOT-ICT-PTRE-05,00418-PRNT-A4-ICT-PTRE-05,PRNT-DOT,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000
-6707,3477,00884-PRNT-DOT-ICT-PTRE-12,00884-PERP-PRT-ICT-PTRE-1,PRNT-DOT,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000
+id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
+6705,2649,00056-PRNT-DOT-ICT-PTRE-03,00056-PRNT-A4-ICT-PTRE-03,1375,PRNT-DOT,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000
+6706,3011,00418-PRNT-DOT-ICT-PTRE-05,00418-PRNT-A4-ICT-PTRE-05,1376,PRNT-DOT,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000
+6707,3477,00884-PRNT-DOT-ICT-PTRE-12,00884-PERP-PRT-ICT-PTRE-1,1377,PRNT-DOT,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000

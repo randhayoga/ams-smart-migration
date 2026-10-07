@@ -180,5 +180,10 @@ INSERT INTO [brands] ([id], [name], [description], [created_at], [updated_at]) V
 INSERT INTO [brands] ([id], [name], [description], [created_at], [updated_at]) VALUES (172, N'ASV', N'Jas hujan', '2026-07-29 15:27:50', '2026-07-29 15:27:50');
 
 GO
+INSERT INTO [brands] ([id], [name], [description], [created_at], [updated_at]) VALUES (173, N'Chitose', NULL, '2026-10-07 14:00:00', '2026-10-07 14:00:00');
+INSERT INTO [brands] ([id], [name], [description], [created_at], [updated_at]) VALUES (174, N'ICA', NULL, '2026-10-07 14:00:00', '2026-10-07 14:00:00');
+INSERT INTO [brands] ([id], [name], [description], [created_at], [updated_at]) VALUES (175, N'Stella', NULL, '2026-10-07 14:00:00', '2026-10-07 14:00:00');
+INSERT INTO [brands] ([id], [name], [description], [created_at], [updated_at]) VALUES (176, N'Morelly', NULL, '2026-10-07 14:00:00', '2026-10-07 14:00:00');
+
 SET IDENTITY_INSERT [brands] OFF;
 GO

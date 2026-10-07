@@ -1,0 +1,5 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+104,ACC-TAP-0001,31,64,1,Termos Stenlis,5 Liter,,,,2025-02-07 14:49:21.000,2025-02-07 14:49:21.000
+105,ACC-TAP-0002,31,64,1,Termos Air Panas,,,inventory/ams/inventoryPhoto/1726563628TERMOS_AIR_PANAS.jpeg,,2025-10-28 13:52:15.000,2025-11-18 16:36:06.000
+106,ACC-TAP-0003,31,102,1,Termos Air Panas,,,inventory/ams/inventoryPhoto/1726563759TERMOS_AIR_PANAS_DENPO.jpeg,,2025-11-18 11:49:03.000,2025-11-18 11:49:03.000
+107,ACC-TAP-0004,31,129,1,Termos Air Panas,,,inventory/ams/inventoryPhoto/1761634904TERMOS_AIR_PANAS.jpeg,,2025-10-28 14:01:44.000,2025-10-28 14:01:44.000

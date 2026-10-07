@@ -1,0 +1,2 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+47,ACC-GR-0001,40,156,1,Gerinda,,,inventory/ams/inventoryPhoto/1752122057WhatsApp_Image_2025-07-10_at_11_23_32.jpeg,,2025-07-10 11:34:17.000,2025-07-10 11:34:17.000

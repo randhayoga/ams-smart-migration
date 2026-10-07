@@ -1,0 +1,4 @@
+id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
+744,ELEK-KUL-0001,91,7,1,KULKAS,,,inventory/ams/inventoryPhoto/1726562481KULKAS.jpeg,,2024-09-17 15:41:21.000,2025-11-18 11:34:32.000
+745,ELEK-KUL-0002,91,88,1,KULKAS,,,,,2024-08-01 14:00:24.000,2024-08-19 13:53:41.000
+746,ELEK-KUL-0003,91,141,1,KULKAS,,,,,2024-08-19 13:13:54.000,2024-08-19 13:13:54.000
