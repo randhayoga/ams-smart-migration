@@ -9,7 +9,7 @@ class ActualSubcategorySeeder extends Seeder
 {
     /**
      * Run the master Subcategory database seeds.
-     * Total records: 110
+     * Total records: 111
      */
     public function run(): void
     {
@@ -1113,6 +1113,16 @@ class ActualSubcategorySeeder extends Seeder
                 'category_id' => 13,
                 'created_at' => '2025-03-19 09:59:17',
                 'updated_at' => '2025-03-19 09:59:17',
+            ],
+            [
+                'id' => 111,
+                'code' => 'ELEK-EXH',
+                'name' => 'Exhaust',
+                'description' => null,
+                'is_consumable' => false,
+                'category_id' => 11,
+                'created_at' => '2026-10-07 09:00:00',
+                'updated_at' => '2026-10-07 09:00:00',
             ],
         ];
 
