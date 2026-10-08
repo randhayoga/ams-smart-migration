@@ -1,22 +1,22 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-596,FUR-LC-0001,3,76,1,Laci Kerja,WARNA CREAM,,inventory/ams/inventoryPhoto/1726199937Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-04-21 10:03:35.000
-597,FUR-LC-0002,3,82,1,Laci Kerja,Warna Abu-abu,,inventory/ams/inventoryPhoto/1726199831Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-06-07 20:57:28.000
-598,FUR-LC-0003,3,76,1,Laci Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1726199910Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-05-29 15:29:58.000
-599,FUR-LC-0004,3,76,1,Laci Kerja,Warna Abu-abu,,inventory/ams/inventoryPhoto/1726199923Laci_Kerja.jpeg,,2024-07-30 15:22:42.000,2025-02-13 09:03:24.000
-600,FUR-LC-0005,3,76,1,Laci Kerja,Laci Dorong,,,,2017-02-27 00:00:00.000,2024-08-20 13:28:07.000
-601,FUR-LC-0006,3,77,1,Laci Kerja,Warna HITAM,,inventory/ams/inventoryPhoto/1601863596Kursi_Kerja_Hitam.jpg,,2024-08-01 11:43:12.000,2024-08-01 11:43:12.000
-602,FUR-LC-0007,3,77,1,Laci Kerja,,,inventory/ams/inventoryPhoto/1726199879Laci_Kerja.jpeg,,2024-09-13 10:57:59.000,2024-09-13 10:57:59.000
-603,FUR-LC-0008,3,82,1,Laci Kerja,Warna Cream,,,,2017-02-27 00:00:00.000,2024-08-08 13:46:02.000
-604,FUR-LC-0009,3,76,1,LACI,WARNA CREAM,,inventory/ams/inventoryPhoto/1602746852LACI_KERJA.jpg,,2024-02-28 10:56:07.000,2026-06-07 17:52:11.000
-605,FUR-LC-0010,3,76,1,Laci Kerja,MEJA KERJA,,inventory/ams/inventoryPhoto/1726199217Laci_Kerja.jpeg,,2025-03-18 14:10:00.000,2025-03-18 14:10:52.000
-606,FUR-LC-0011,3,76,1,Laci Kerja,Kursi Cokelat,,inventory/ams/inventoryPhoto/1602749475laci-meja-kantor-uno-ump-2165-600x600.jpg,,2024-07-31 14:38:09.000,2024-07-31 14:38:09.000
-607,FUR-LC-0012,3,76,1,Laci Kerja,kursi kerja,,inventory/ams/inventoryPhoto/1726199064Laci_Kerja.jpeg,,2026-07-27 16:15:00.000,2026-07-27 16:15:00.000
-608,FUR-LC-0013,3,76,1,LACI,WARNA COKLAT,,inventory/ams/inventoryPhoto/1601631514laci-meja-kantor-uno-ump-2165-600x600.jpg,,2024-02-28 11:43:14.000,2024-02-28 11:43:14.000
-609,FUR-LC-0014,3,76,1,LACI,Warna Cokelat,,inventory/ams/inventoryPhoto/1601883043LACI_KERJA.jpg,,2024-02-28 11:39:02.000,2024-02-28 11:43:05.000
-610,FUR-LC-0015,3,76,1,Laci Kerja,,,inventory/ams/inventoryPhoto/1726198965Laci_Kerja.jpeg,,2024-09-13 10:17:38.000,2026-09-03 10:24:25.000
-611,FUR-LC-0016,3,82,1,Laci Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1726198833Laci_Kerja.jpeg,,2024-02-16 16:41:47.000,2024-09-13 10:40:33.000
-612,FUR-LC-0017,3,82,1,Laci Kerja,Memo no : 020/MEM/IFS-PTRE/V/2022,,,,2024-06-06 09:01:29.000,2024-06-06 09:05:32.000
-613,FUR-LC-0018,3,76,1,Laci Kerja,Warna abu2,,inventory/ams/inventoryPhoto/1712282750WhatsApp_Image_2024-04-05_at_8_53_48_AM.jpeg,,2024-04-05 09:05:50.000,2024-04-05 09:05:50.000
-614,FUR-LC-0019,3,76,1,Laci Kerja,Custom HPL,,inventory/ams/inventoryPhoto/1726198757Laci_Kerja.jpeg,,2026-06-07 20:53:53.000,2026-06-07 20:53:53.000
-615,FUR-LC-0020,3,82,1,Laci Kerja,,,inventory/ams/inventoryPhoto/1726197690Laci_Kerja.jpeg,,2026-06-07 20:53:40.000,2026-06-07 20:53:40.000
-616,FUR-LC-0021,3,82,1,Laci Kerja,modera abu-abu,,inventory/ams/inventoryPhoto/1737545553Laci_Kerja.jpeg,,2026-04-21 18:20:50.000,2026-04-21 18:20:50.000
+393,FUR-LC-0001,3,76,1,Laci Kerja,WARNA CREAM,,inventory/ams/inventoryPhoto/1726199937Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-04-21 10:03:35.000
+394,FUR-LC-0002,3,82,1,Laci Kerja,Warna Abu-abu,,inventory/ams/inventoryPhoto/1726199831Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-06-07 20:57:28.000
+395,FUR-LC-0003,3,76,1,Laci Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1726199910Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-05-29 15:29:58.000
+396,FUR-LC-0004,3,76,1,Laci Kerja,Warna Abu-abu,,inventory/ams/inventoryPhoto/1726199923Laci_Kerja.jpeg,,2024-07-30 15:22:42.000,2025-02-13 09:03:24.000
+397,FUR-LC-0005,3,76,1,Laci Kerja,Laci Dorong,,,,2017-02-27 00:00:00.000,2024-08-20 13:28:07.000
+398,FUR-LC-0006,3,77,1,Laci Kerja,Warna HITAM,,inventory/ams/inventoryPhoto/1601863596Kursi_Kerja_Hitam.jpg,,2024-08-01 11:43:12.000,2024-08-01 11:43:12.000
+399,FUR-LC-0007,3,77,1,Laci Kerja,,,inventory/ams/inventoryPhoto/1726199879Laci_Kerja.jpeg,,2024-09-13 10:57:59.000,2024-09-13 10:57:59.000
+400,FUR-LC-0008,3,82,1,Laci Kerja,Warna Cream,,,,2017-02-27 00:00:00.000,2024-08-08 13:46:02.000
+401,FUR-LC-0009,3,76,1,LACI,WARNA CREAM,,inventory/ams/inventoryPhoto/1602746852LACI_KERJA.jpg,,2024-02-28 10:56:07.000,2026-06-07 17:52:11.000
+402,FUR-LC-0010,3,76,1,Laci Kerja,MEJA KERJA,,inventory/ams/inventoryPhoto/1726199217Laci_Kerja.jpeg,,2025-03-18 14:10:00.000,2025-03-18 14:10:52.000
+403,FUR-LC-0011,3,76,1,Laci Kerja,Kursi Cokelat,,inventory/ams/inventoryPhoto/1602749475laci-meja-kantor-uno-ump-2165-600x600.jpg,,2024-07-31 14:38:09.000,2024-07-31 14:38:09.000
+404,FUR-LC-0012,3,76,1,Laci Kerja,kursi kerja,,inventory/ams/inventoryPhoto/1726199064Laci_Kerja.jpeg,,2026-07-27 16:15:00.000,2026-07-27 16:15:00.000
+405,FUR-LC-0013,3,76,1,LACI,WARNA COKLAT,,inventory/ams/inventoryPhoto/1601631514laci-meja-kantor-uno-ump-2165-600x600.jpg,,2024-02-28 11:43:14.000,2024-02-28 11:43:14.000
+406,FUR-LC-0014,3,76,1,LACI,Warna Cokelat,,inventory/ams/inventoryPhoto/1601883043LACI_KERJA.jpg,,2024-02-28 11:39:02.000,2024-02-28 11:43:05.000
+407,FUR-LC-0015,3,76,1,Laci Kerja,,,inventory/ams/inventoryPhoto/1726198965Laci_Kerja.jpeg,,2024-09-13 10:17:38.000,2026-09-03 10:24:25.000
+408,FUR-LC-0016,3,82,1,Laci Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1726198833Laci_Kerja.jpeg,,2024-02-16 16:41:47.000,2024-09-13 10:40:33.000
+409,FUR-LC-0017,3,82,1,Laci Kerja,Memo no : 020/MEM/IFS-PTRE/V/2022,,,,2024-06-06 09:01:29.000,2024-06-06 09:05:32.000
+410,FUR-LC-0018,3,76,1,Laci Kerja,Warna abu2,,inventory/ams/inventoryPhoto/1712282750WhatsApp_Image_2024-04-05_at_8_53_48_AM.jpeg,,2024-04-05 09:05:50.000,2024-04-05 09:05:50.000
+411,FUR-LC-0019,3,76,1,Laci Kerja,Custom HPL,,inventory/ams/inventoryPhoto/1726198757Laci_Kerja.jpeg,,2026-06-07 20:53:53.000,2026-06-07 20:53:53.000
+412,FUR-LC-0020,3,82,1,Laci Kerja,,,inventory/ams/inventoryPhoto/1726197690Laci_Kerja.jpeg,,2026-06-07 20:53:40.000,2026-06-07 20:53:40.000
+413,FUR-LC-0021,3,82,1,Laci Kerja,modera abu-abu,,inventory/ams/inventoryPhoto/1737545553Laci_Kerja.jpeg,,2026-04-21 18:20:50.000,2026-04-21 18:20:50.000

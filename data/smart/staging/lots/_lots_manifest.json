@@ -182,7 +182,7 @@
     },
     "ELEK-CCT": {
       "file": "ELEK-CCT.csv",
-      "row_count": 36
+      "row_count": 6
     },
     "ELEK-CP": {
       "file": "ELEK-CP.csv",
@@ -190,27 +190,19 @@
     },
     "ELEK-CS": {
       "file": "ELEK-CS.csv",
-      "row_count": 6
+      "row_count": 2
     },
     "ELEK-EXH": {
       "file": "ELEK-EXH.csv",
       "row_count": 1
     },
-    "ELEK-FCT": {
-      "file": "ELEK-FCT.csv",
-      "row_count": 1
-    },
     "ELEK-FR": {
       "file": "ELEK-FR.csv",
-      "row_count": 3
-    },
-    "ELEK-FVC": {
-      "file": "ELEK-FVC.csv",
-      "row_count": 1
+      "row_count": 2
     },
     "ELEK-HD": {
       "file": "ELEK-HD.csv",
-      "row_count": 113
+      "row_count": 2
     },
     "ELEK-KUL": {
       "file": "ELEK-KUL.csv",
@@ -218,7 +210,7 @@
     },
     "ELEK-MD": {
       "file": "ELEK-MD.csv",
-      "row_count": 2
+      "row_count": 1
     },
     "ELEK-MIC": {
       "file": "ELEK-MIC.csv",
@@ -232,25 +224,33 @@
       "file": "ELEK-MPK.csv",
       "row_count": 1
     },
+    "ELEK-PCT": {
+      "file": "ELEK-PCT.csv",
+      "row_count": 1
+    },
+    "ELEK-PVC": {
+      "file": "ELEK-PVC.csv",
+      "row_count": 1
+    },
     "ELEK-SD": {
       "file": "ELEK-SD.csv",
-      "row_count": 54
+      "row_count": 5
     },
     "ELEK-SPE": {
       "file": "ELEK-SPE.csv",
-      "row_count": 15
+      "row_count": 12
     },
     "ELEK-SPR": {
       "file": "ELEK-SPR.csv",
-      "row_count": 3
+      "row_count": 2
     },
     "ELEK-TG": {
       "file": "ELEK-TG.csv",
-      "row_count": 11
+      "row_count": 10
     },
     "ELEK-TV": {
       "file": "ELEK-TV.csv",
-      "row_count": 16
+      "row_count": 14
     },
     "FUR-KK": {
       "file": "FUR-KK.csv",
@@ -441,5 +441,5 @@
       "row_count": 6
     }
   },
-  "total_lots": 1091
+  "total_lots": 888
 }

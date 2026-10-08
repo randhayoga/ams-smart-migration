@@ -1,2 +1,2 @@
 id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at,specification
-5548,8140,02733-MES-GEN-CFS-PTRE-13,02733-SIN-MSN-CFS-PTRE-13,726,MES-GEN,184,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,10780,1,2025-02-11 09:54:09.000,2025-02-11 09:54:09.000,
+5546,8140,02733-MES-GEN-CFS-PTRE-13,02733-SIN-MSN-CFS-PTRE-13,523,MES-GEN,184,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,10780,1,2025-02-11 09:54:09.000,2025-02-11 09:54:09.000,

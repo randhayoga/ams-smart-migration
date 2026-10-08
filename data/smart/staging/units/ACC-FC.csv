@@ -1,5 +1,5 @@
 id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at,specification
-83,9054,04809-ACC-FC-CFS-PTRE-22,04809-ACC-FC-CFS-PTRE-22,25,ACC-FC,229,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1726558093WHITEBOARD.jpeg,inventory/ams/assets/uploads/assetsre/ap/1726558093WHITEBOARD.jpeg,LT,Inventaris,Corporate,,1,2026-07-22 10:38:08.000,2026-07-22 10:38:08.000,
-84,11850,04856-ACC-FC-CFS-PTRE-25,04856-ACC-FC-CFS-PTRE-25,26,ACC-FC,215,Tidak Aktif,Bagus,0.0,,,LT,Inventaris,Corporate,,1,2026-07-22 10:38:00.000,2026-07-22 10:38:00.000,
-85,11851,04857-ACC-FC-CFS-PTRE-25,04857-ACC-FC-CFS-PTRE-25,26,ACC-FC,215,Tidak Aktif,Bagus,0.0,,,LT,Inventaris,Corporate,,1,2026-07-22 10:37:54.000,2026-07-22 10:37:54.000,
+83,9054,04809-ACC-FC-CFS-PTRE-22,04809-ACC-FC-CFS-PTRE-22,25,ACC-FC,229,Tersedia,Bagus,0.0,inventory/ams/inventoryPhoto/1726558093WHITEBOARD.jpeg,inventory/ams/assets/uploads/assetsre/ap/1726558093WHITEBOARD.jpeg,LT,Inventaris,Corporate,,1,2026-07-22 10:38:08.000,2026-07-22 10:38:08.000,
+84,11850,04856-ACC-FC-CFS-PTRE-25,04856-ACC-FC-CFS-PTRE-25,26,ACC-FC,215,Tersedia,Bagus,0.0,,,LT,Inventaris,Corporate,,1,2026-07-22 10:38:00.000,2026-07-22 10:38:00.000,
+85,11851,04857-ACC-FC-CFS-PTRE-25,04857-ACC-FC-CFS-PTRE-25,26,ACC-FC,215,Tersedia,Bagus,0.0,,,LT,Inventaris,Corporate,,1,2026-07-22 10:37:54.000,2026-07-22 10:37:54.000,
 86,11961,01589-ACC-FC-CFS-PTRE-18,01589-ACC-FC-CFS-PTRE-18,25,ACC-FC,229,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,1,2026-05-29 15:11:08.000,2026-05-29 15:11:40.000,

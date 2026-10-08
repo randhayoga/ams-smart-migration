@@ -92,8 +92,8 @@ ams_code,ams_id,subcategory_id,subcategory_code,subcategory_name,category_id,cat
 240005,1198,89,ELEK-MK,Mesin Kopi,11,ELEK
 240006,1173,90,ELEK-HD,Heat Detector,11,ELEK
 240007,1174,91,ELEK-KUL,Kulkas,11,ELEK
-240008,1204,92,ELEK-FVC,Fogging Volume Control,11,ELEK
-240009,1205,93,ELEK-FCT,Fogging Control Toa,11,ELEK
+240008,1204,92,ELEK-PVC,Paging Volume Control,11,ELEK
+240009,1205,93,ELEK-PCT,Paging Control TOA,11,ELEK
 240010,1178,94,ELEK-CCT,CCTV,11,ELEK
 240011,1179,95,ELEK-SPR,Sprinkler,11,ELEK
 240012,1157,96,ELEK-FR,Fingerprint Reader,11,ELEK

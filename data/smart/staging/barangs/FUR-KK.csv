@@ -1,109 +1,109 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-473,FUR-KK-0001,1,77,1,Kursi Kerja Jaring,,,inventory/ams/inventoryPhoto/1726197313kursi_cokelat_jaring.jpeg,,2024-09-13 09:18:29.000,2026-09-22 17:43:15.000
-474,FUR-KK-0002,1,77,1,Kursi Kerja,Jaring Hitam,,inventory/ams/inventoryPhoto/17140991791.png,,2024-02-28 11:04:30.000,2024-08-02 15:09:11.000
-475,FUR-KK-0003,1,77,1,Kursi Coklat,,,inventory/ams/inventoryPhoto/1726197325kursi_cokelat_jaring.jpeg,,2025-01-22 18:23:23.000,2026-09-22 17:42:51.000
-476,FUR-KK-0004,1,77,1,Kursi Kerja,,,inventory/ams/inventoryPhoto/1726197331kursi_cokelat_jaring.jpeg,,2024-04-05 13:38:31.000,2026-02-06 10:53:36.000
-477,FUR-KK-0005,1,77,1,Kursi Kerja,Warna HITAM,,inventory/ams/inventoryPhoto/1603176200KURSI_JARING_HITAM_SAVELLO.jpg,,2017-02-27 00:00:00.000,2025-02-13 16:08:45.000
-478,FUR-KK-0006,1,78,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1601879871WhatsApp_Image_2020-10-05_at_13_41_12.jpeg,,2020-10-05 13:43:12.000,2026-05-29 10:22:32.000
-479,FUR-KK-0007,1,77,1,Kursi Kerja Jaring,Jaring Hitam,,inventory/ams/inventoryPhoto/1714099628DSC_0011.png,,2024-09-13 09:25:40.000,2026-04-21 10:23:27.000
-480,FUR-KK-0008,1,173,1,Kursi Kerja,Lipat,,,,2017-02-27 00:00:00.000,2024-08-07 08:20:05.000
-481,FUR-KK-0009,1,77,1,Kursi Kerja,WARNA JARING HITAM,,inventory/ams/inventoryPhoto/1602744493Kursi_Kerja_Hitam.jpg,,2020-10-15 10:59:42.000,2025-03-14 09:17:35.000
-482,FUR-KK-0010,1,76,1,Kursi Kerja Jaring,JARING HITAM COKLAT,,inventory/ams/inventoryPhoto/1709283446WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 15:08:08.000,2024-08-23 14:16:55.000
-483,FUR-KK-0011,1,131,1,Kursi Kerja,Kursi Stetlis,,,,2017-02-27 00:00:00.000,2024-07-25 10:31:28.000
-484,FUR-KK-0012,1,76,1,Kursi Kerja,WARNA HITAM,,inventory/ams/inventoryPhoto/1603350691KURSI_JARING_HITAM_SAVELLO.jpg,,2020-10-22 14:09:46.000,2024-07-31 14:44:10.000
-485,FUR-KK-0013,1,131,1,Kursi Kerja,Warna Coklat,,,,2024-02-28 10:29:30.000,2024-07-26 09:39:19.000
-486,FUR-KK-0014,1,132,1,Kursi Kerja,Sofa,,,,2018-03-15 16:23:06.777,2024-07-29 16:37:43.000
-487,FUR-KK-0015,1,77,1,Kursi Coklat,kursi jaring pendek,,inventory/ams/inventoryPhoto/1739506760kursi_cokelat_jaring.jpeg,,2026-04-21 17:47:25.000,2026-06-07 21:26:46.000
-488,FUR-KK-0016,1,77,1,Kursi Kerja,Warna CREAM,,inventory/ams/inventoryPhoto/1601869670KURSI_SOFFA_SAVELLO.jpg,,2024-07-26 09:59:26.000,2025-11-18 09:50:22.000
-489,FUR-KK-0017,1,77,1,Kursi Kerja Jaring,Warna HITAM,,inventory/ams/inventoryPhoto/17140996711.png,,2025-03-18 14:13:38.000,2026-06-08 08:55:06.000
-490,FUR-KK-0018,1,77,1,Kursi Kerja Jaring,KURSI KERJA JARING HITAM,,inventory/ams/inventoryPhoto/1714099708DSC_0011.png,,2026-04-21 10:23:10.000,2026-04-21 10:23:10.000
-491,FUR-KK-0019,1,77,1,Kursi Kerja Jaring,Kursi Besi Coklat,,inventory/ams/inventoryPhoto/1714099850DSC_0007.png,,2026-04-21 10:22:51.000,2026-04-21 10:22:51.000
-492,FUR-KK-0020,1,77,1,Kursi Kerja,Kursi Jaring Hitam,,inventory/ams/inventoryPhoto/1602743026Kursi_Kerja_Hitam.jpg,,2024-07-30 13:35:46.000,2026-07-15 11:38:19.000
-493,FUR-KK-0021,1,80,1,kursi kerja,Warna Putih,,,,2024-02-28 11:20:01.000,2024-02-28 11:20:01.000
-494,FUR-KK-0022,1,77,1,Kursi Kerja,Kerja Hitam,,inventory/ams/inventoryPhoto/1601623911Kursi_Kerja_Hitam.jpg,,2018-03-15 16:23:06.777,2025-02-13 10:48:10.000
-495,FUR-KK-0023,1,176,1,Kursi Kerja,Kerja Hitam,,,,2024-07-29 11:39:17.000,2024-07-29 11:39:17.000
-496,FUR-KK-0024,1,77,1,Kursi Kerja,Kursi Coklat,,inventory/ams/inventoryPhoto/1601630184kursi_coklt_pendek.jpg,,2024-07-30 15:29:21.000,2024-07-30 15:29:21.000
-497,FUR-KK-0025,1,77,1,Kursi Kerja Jaring,Warna Cokelat,,inventory/ams/inventoryPhoto/1739347826Kursi_Savello_Jaring.jpeg,,2026-01-21 09:18:02.000,2026-01-21 09:18:02.000
-498,FUR-KK-0026,1,77,1,Kursi Kerja,KURSI KERJA,,inventory/ams/inventoryPhoto/1726197240kursi_cokelat_jaring.jpeg,,2024-09-13 10:13:23.000,2026-06-07 17:40:06.000
-499,FUR-KK-0027,1,77,1,Kursi Kerja Jaring,Kursi Jaring,,inventory/ams/inventoryPhoto/1738233647Kursi_Savello_Jaring.jpeg,,2025-03-18 14:12:46.000,2026-07-15 11:36:47.000
-500,FUR-KK-0028,1,77,1,Kursi Kerja Jaring,Kursi Cokelat,,inventory/ams/inventoryPhoto/1739347842Kursi_Savello_Jaring.jpeg,,2026-01-21 09:21:09.000,2026-07-15 11:37:00.000
-501,FUR-KK-0029,1,77,1,Kursi Kerja,Kursi Cokelat,,inventory/ams/inventoryPhoto/1726197215kursi_cokelat_jaring.jpeg,,2017-02-27 00:00:00.000,2025-10-31 20:03:29.000
-502,FUR-KK-0030,1,77,1,Kursi Kerja Jaring,Kursi Kerja,,inventory/ams/inventoryPhoto/1726197198kursi_cokelat_jaring.jpeg,,2026-04-10 08:27:05.000,2026-04-10 08:27:56.000
-503,FUR-KK-0031,1,77,1,Kursi Kerja Jaring,Kursi Cokelat Jaring,,inventory/ams/inventoryPhoto/1726197192kursi_cokelat_jaring.jpeg,,2025-02-13 09:01:38.000,2026-04-10 08:27:44.000
-504,FUR-KK-0032,1,82,1,Kursi Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1601630895kursi_coklt_pendek.jpg,,2024-07-30 15:29:28.000,2024-07-30 15:29:28.000
-505,FUR-KK-0033,1,173,1,Kursi Kerja,Warna Biru,,,,2017-02-27 00:00:00.000,2025-02-13 09:00:26.000
-506,FUR-KK-0034,1,77,1,Kursi Kerja,kursi jaring,,inventory/ams/inventoryPhoto/1726197151kursi_cokelat_jaring.jpeg,,2024-09-13 10:12:31.000,2026-02-06 10:53:43.000
-507,FUR-KK-0035,1,77,1,Kursi Kerja,WARNA COKLAT,,inventory/ams/inventoryPhoto/1709105567WhatsApp_Image_2024-02-28_at_14_29_47.jpeg,,2024-02-16 16:35:37.000,2026-02-06 10:58:28.000
-508,FUR-KK-0036,1,77,1,Kursi Coklat,WARNA COKLAT,,inventory/ams/inventoryPhoto/1739506766kursi_cokelat_jaring.jpeg,,2026-02-06 10:51:26.000,2026-06-07 21:27:43.000
-509,FUR-KK-0037,1,77,1,Kursi Kerja,Jaring Coklat,,,,2024-02-28 10:30:43.000,2024-02-28 10:30:43.000
-510,FUR-KK-0038,1,77,1,Kursi Coklat,Warna Cokelat,,inventory/ams/inventoryPhoto/1741914537kursi_Coklat.jpeg,,2026-02-06 11:20:59.000,2026-06-07 21:18:19.000
-511,FUR-KK-0039,1,77,1,Kursi Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1601629864kursi_coklt_pendek.jpg,,2024-07-30 15:21:16.000,2025-02-13 16:08:45.000
-512,FUR-KK-0040,1,76,1,Kursi Kerja Jaring,JARING COKLAT,,inventory/ams/inventoryPhoto/1709283145WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 15:51:23.000,2024-03-01 15:54:47.000
-513,FUR-KK-0041,1,131,1,Kursi Kerja,Chairman,,inventory/ams/inventoryPhoto/1726211264Kursi_Pantry.jpeg,,2018-03-15 16:23:06.777,2024-09-13 14:08:02.000
-514,FUR-KK-0042,1,173,1,Kursi Kerja,Lipat Chitose,,,,2018-03-15 16:23:06.777,2024-07-30 15:28:27.000
-515,FUR-KK-0043,1,77,1,Kursi Coklat,',,inventory/ams/inventoryPhoto/1726196772Kursi_Savello_Jaring.jpeg,,2026-02-06 11:20:43.000,2026-02-06 11:20:43.000
-516,FUR-KK-0044,1,77,1,Kursi Coklat,Kursi Cokelat,,,,2026-05-13 14:20:42.000,2026-06-07 21:27:49.000
-517,FUR-KK-0045,1,77,1,Kursi Kerja Jaring,Rusak pada tanggal 22 Juli 2026,,inventory/ams/inventoryPhoto/1726196493Kursi_Savello_Jaring.jpeg,,2026-07-22 17:22:10.000,2026-07-22 17:22:32.000
-518,FUR-KK-0046,1,77,1,Kursi Kerja Jaring,',,inventory/ams/inventoryPhoto/1726196379Kursi_Savello_Jaring.jpeg,,2026-04-10 09:07:59.000,2026-04-10 09:07:59.000
-519,FUR-KK-0047,1,77,1,Kursi Kerja Jaring,Kerja Hitam,,inventory/ams/inventoryPhoto/1726194910Kursi_Savello_Jaring.jpeg,,2026-04-10 09:00:27.000,2026-07-22 17:17:57.000
-520,FUR-KK-0048,1,77,1,Kursi Kerja,Savello,,inventory/ams/inventoryPhoto/1726194610Kursi_Savello_Jaring.jpeg,,2024-02-28 11:32:35.000,2026-06-07 20:57:45.000
-521,FUR-KK-0049,1,77,1,Kursi Kerja Jaring,Savello,,inventory/ams/inventoryPhoto/1726194601Kursi_Savello_Jaring.jpeg,,2024-05-02 10:01:10.000,2026-05-29 15:23:57.000
-522,FUR-KK-0050,1,77,1,Kursi Kerja Besi,Kursi coklat besi,,inventory/ams/inventoryPhoto/1712299056WhatsApp_Image_2024-02-28_at_14_29_47.jpeg,,2024-07-30 13:36:19.000,2024-07-30 13:37:40.000
-523,FUR-KK-0051,1,77,1,Kursi Kerja Jaring,Kursi Jaring Hitam,,inventory/ams/inventoryPhoto/1712297671WhatsApp_Image_2024-03-09_at_11_11_53.jpeg,,2024-09-13 09:18:34.000,2026-05-29 10:08:40.000
-524,FUR-KK-0052,1,123,1,Kursi Kerja,Sofa,,,,2018-03-15 16:23:06.777,2024-08-22 15:21:08.000
-525,FUR-KK-0053,1,76,1,Kursi Kerja,WARNA CREAM,,inventory/ams/inventoryPhoto/1603352772LACI_KERJA.jpg,,2024-07-31 14:37:09.000,2024-07-31 14:37:09.000
-526,FUR-KK-0054,1,77,1,Kursi Kerja,Chairman,,,,2024-08-01 13:49:47.000,2024-08-01 13:49:47.000
-527,FUR-KK-0055,1,77,1,SOFA,Kerja Hitam,,,,2024-08-19 10:31:46.000,2024-08-23 14:39:38.000
-528,FUR-KK-0056,1,76,1,Kursi Kerja,Kursi Cokelat,,,,2018-03-15 16:23:06.777,2024-08-22 15:21:01.000
-529,FUR-KK-0057,1,76,1,Kursi Kerja Jaring,Kursi Cokelat,,inventory/ams/inventoryPhoto/1726211860kursi_kerja_uno.jpeg,,2026-04-10 09:00:20.000,2026-04-10 09:00:20.000
-530,FUR-KK-0058,1,76,1,Kursi Kerja Jaring,Kersi Coklat Jaring,,inventory/ams/inventoryPhoto/1709279595WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:52:31.000,2024-03-01 14:53:15.000
-531,FUR-KK-0059,1,76,1,Kursi Kerja Jaring,Kersi Jaring Coklat,,inventory/ams/inventoryPhoto/1709279481WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:44:24.000,2024-03-01 14:51:21.000
-532,FUR-KK-0060,1,76,1,Kursi Kerja Jaring,Kersi jaring coklat pendek,,inventory/ams/inventoryPhoto/1709279258WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:47:38.000,2024-03-01 14:47:38.000
-533,FUR-KK-0061,1,76,1,Kursi Kerja Jaring,Kersi kerja Jaring Pendek,,inventory/ams/inventoryPhoto/1709279175WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:46:15.000,2024-03-01 14:46:15.000
-534,FUR-KK-0062,1,76,1,Kursi Kerja Jaring,Kursi Kerja Jaring Pendek,,inventory/ams/inventoryPhoto/1709279015WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:43:35.000,2024-03-01 14:43:35.000
-535,FUR-KK-0063,1,76,1,Kursi Kerja Jaring,Kerja coklat Jaring Pendek,,inventory/ams/inventoryPhoto/1709278892WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:41:32.000,2024-03-01 14:41:32.000
-536,FUR-KK-0064,1,77,1,Kursi Coklat,Kerja Hitam,,inventory/ams/inventoryPhoto/1710260260WhatsApp_Image_2024-03-09_at_11_11_53.jpeg,,2026-01-26 08:48:01.000,2026-01-26 08:48:01.000
-537,FUR-KK-0065,1,76,1,Kursi Kerja Jaring,,,inventory/ams/inventoryPhoto/1726211827kursi_kerja_uno.jpeg,,2026-01-28 18:28:51.000,2026-04-21 08:53:40.000
-538,FUR-KK-0066,1,77,1,Kursi Coklat,Savello,,inventory/ams/inventoryPhoto/1726195475Kursi_Savello_Jaring.jpeg,,2026-02-06 10:55:06.000,2026-06-07 18:07:54.000
-539,FUR-KK-0067,1,77,1,Kursi Coklat,kursi coklat,,inventory/ams/inventoryPhoto/1741914552kursi_Coklat.jpeg,,2024-04-05 09:22:35.000,2026-06-07 17:38:09.000
-540,FUR-KK-0068,1,76,1,Kursi Kerja,Kursi Jaring Pendek,,inventory/ams/inventoryPhoto/1709106288WhatsApp_Image_2024-02-28_at_14_29_47.jpeg,,2024-02-28 14:41:46.000,2024-08-02 09:11:07.000
-541,FUR-KK-0069,1,76,1,Kursi Kerja Jaring,kursi coklat,,inventory/ams/inventoryPhoto/1741914863kursi_Coklat.jpeg,,2026-05-12 08:58:08.000,2026-05-12 08:58:08.000
-542,FUR-KK-0070,1,76,1,Kursi Kerja Jaring,Coklat Jaring,,inventory/ams/inventoryPhoto/1709283980WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 16:04:07.000,2024-03-01 16:06:20.000
-543,FUR-KK-0071,1,76,1,Kursi Kerja Jaring,Jaring Coklat Jaring,,inventory/ams/inventoryPhoto/1709283796WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 16:03:16.000,2024-03-01 16:03:16.000
-544,FUR-KK-0072,1,76,1,Kursi Kerja Jaring,Jaring Coklat Pendek,,inventory/ams/inventoryPhoto/1709283683WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 16:00:31.000,2024-03-01 16:01:23.000
-545,FUR-KK-0073,1,76,1,Kursi Kerja Jaring,Jaring Pendek,,inventory/ams/inventoryPhoto/1709283735WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 16:02:15.000,2024-03-01 16:02:15.000
-546,FUR-KK-0074,1,76,1,Kursi Kerja Jaring,Kerja Hitam,,inventory/ams/inventoryPhoto/1709280904WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 15:15:04.000,2024-03-01 15:15:04.000
-547,FUR-KK-0075,1,82,1,Kursi Kerja,Chairman,,,,2024-02-16 16:50:19.000,2024-02-16 16:50:19.000
-548,FUR-KK-0076,1,82,1,Kursi Kerja,Savello,,,,2024-02-16 16:50:51.000,2024-02-16 16:50:51.000
-549,FUR-KK-0077,1,82,1,Kursi Kerja,Kerja Hitam,,,,2024-02-16 16:47:55.000,2024-02-16 16:50:38.000
-550,FUR-KK-0078,1,77,1,Kursi Kerja,Lipat,,,,2024-07-25 13:56:24.000,2024-07-25 13:56:32.000
-551,FUR-KK-0079,1,77,1,Kursi Coklat,kursi besi,,inventory/ams/inventoryPhoto/1776824512tempat_sampah_rokok.jpeg,,2026-04-22 09:20:32.000,2026-06-07 21:27:26.000
-552,FUR-KK-0080,1,77,1,Kursi Kerja,Memo no : 020/MEM/IFS-PTRE/V/2022,,inventory/ams/inventoryPhoto/1601607051Kursi_Kerja_Hitam.jpg,,2024-06-06 08:36:46.000,2024-06-06 08:47:16.000
-553,FUR-KK-0081,1,76,1,Kursi Kerja,Memo no : 020/MEM/IFS-PTRE/V/2022,,,,2024-06-06 08:35:34.000,2024-06-06 08:36:23.000
-554,FUR-KK-0082,1,76,1,Kursi Tamu,Kursi Kaki Besi,,inventory/ams/inventoryPhoto/1714632368DSC_0007.png,,2024-07-30 14:54:12.000,2024-07-30 14:54:12.000
-555,FUR-KK-0083,1,77,1,Kursi Coklat,Kursi Kaki Besi,,inventory/ams/inventoryPhoto/1714632331DSC_0007.png,,2024-04-18 11:17:41.000,2026-04-21 17:47:13.000
-556,FUR-KK-0084,1,76,1,Kursi Kerja Jaring,Kursi Kaki Besi,,inventory/ams/inventoryPhoto/1726211802kursi_kerja_uno1.jpeg,,2025-02-13 14:02:08.000,2025-02-13 14:02:08.000
-557,FUR-KK-0085,1,77,1,Kursi Coklat,Coklat besi,,inventory/ams/inventoryPhoto/1714632043DSC_0007.png,,2025-02-12 10:22:28.000,2025-02-13 14:01:58.000
-558,FUR-KK-0086,1,131,1,Kursi Kerja,Memo no : 020/MEM/IFS-PTRE/V/2022,,,,2024-06-06 08:30:53.000,2024-06-06 08:35:10.000
-559,FUR-KK-0087,1,77,1,Kursi Kerja,Sofa,,inventory/ams/inventoryPhoto/1726194302Kursi_Savello_Jaring.jpeg,,2024-09-13 09:24:57.000,2024-09-13 09:25:02.000
-560,FUR-KK-0088,1,77,1,Kursi Coklat,Kursi Tamu warna coklat,,inventory/ams/inventoryPhoto/1712283682WhatsApp_Image_2024-02-28_at_14_29_47.jpeg,,2024-04-05 09:21:22.000,2024-04-05 09:21:22.000
-561,FUR-KK-0089,1,76,1,Kursi Kerja Jaring,Kursi Coklat Besi,,inventory/ams/inventoryPhoto/1741914872kursi_Coklat.jpeg,,2026-05-12 08:58:49.000,2026-05-12 08:58:49.000
-562,FUR-KK-0090,1,76,1,Kursi Kerja Jaring,Kursi kerja Jaring,,inventory/ams/inventoryPhoto/1741914881kursi_Coklat.jpeg,,2026-06-07 21:29:42.000,2026-06-07 21:29:42.000
-563,FUR-KK-0091,1,77,1,Kursi Kerja Jaring,Kursi jaring pendek,,inventory/ams/inventoryPhoto/1737539524Kursi_Savello_Jaring.jpeg,,2026-04-09 14:56:47.000,2026-04-09 14:56:47.000
-564,FUR-KK-0092,1,76,1,Kursi Kerja Jaring,menggunakan hidrolic,,inventory/ams/inventoryPhoto/1726211764kursi_kerja_uno.jpeg,,2024-09-13 14:16:04.000,2025-02-13 16:08:18.000
-565,FUR-KK-0093,1,128,1,Kursi,,,inventory/ams/inventoryPhoto/1726211268Kursi_Pantry.jpeg,,2024-09-13 14:07:39.000,2025-02-12 14:29:11.000
-566,FUR-KK-0094,1,135,1,Kursi Kerja Jaring,,,inventory/ams/inventoryPhoto/1738899806KURSI_MORELLI.jpeg,,2026-06-07 20:50:53.000,2026-06-07 20:50:53.000
-567,FUR-KK-0095,1,77,1,Kursi Kerja Kulit,,,inventory/ams/inventoryPhoto/1738899776KURSI_MORELLI.jpeg,,2026-06-07 18:13:48.000,2026-06-07 20:50:17.000
-568,FUR-KK-0096,1,76,1,Kursi Kerja,,,inventory/ams/inventoryPhoto/1726211235Kursi_Pantry.jpeg,,2024-09-13 14:07:15.000,2024-09-13 14:07:15.000
-569,FUR-KK-0097,1,131,1,Kursi Kerja,,,,,2024-08-05 13:21:00.000,2024-08-05 13:21:00.000
-570,FUR-KK-0098,1,77,1,Kursi Coklat,KURSI ABU ABU,,inventory/ams/inventoryPhoto/1739505860kursi_Coklat.jpeg,,2025-02-14 11:04:20.000,2025-02-14 11:04:20.000
-571,FUR-KK-0099,1,103,1,Kursi Cafe Hitam,,,,,2024-08-02 09:39:24.000,2024-08-02 10:51:22.000
-572,FUR-KK-0100,1,77,1,Kursi Kerja,KURSI JARING ABU-ABU,,inventory/ams/inventoryPhoto/1726053089WhatsApp_Image_2024-09-11_at_11_39_29.jpeg,,2024-09-11 16:09:04.000,2024-09-11 18:11:29.000
-573,FUR-KK-0101,1,77,1,Kursi Coklat,Kaki besi,,inventory/ams/inventoryPhoto/1737539794kursi_Coklat.jpeg,,2026-06-07 21:27:14.000,2026-06-07 21:27:35.000
-574,FUR-KK-0102,1,77,1,Kursi Tamu,,,inventory/ams/inventoryPhoto/1739516522kursi_Coklat.jpeg,,2025-02-14 14:03:20.000,2025-03-14 08:12:41.000
-575,FUR-KK-0103,1,150,1,Kursi Kerja Jaring,,,inventory/ams/inventoryPhoto/1744343605Kursi_Inco.jpeg,,2025-04-25 10:13:48.000,2026-06-07 20:37:58.000
-576,FUR-KK-0104,1,166,1,Kursi Kerja Jaring,,,inventory/ams/inventoryPhoto/1784173300WhatsApp_Image_2026-07-16_at_10_31_14.jpeg,,2026-07-15 11:42:36.000,2026-09-22 17:42:25.000
-577,FUR-KK-0105,1,166,1,Kursi Kerja Jaring,Bayu Shafar Nur Rohman (3D),,inventory/ams/inventoryPhoto/1784173361WhatsApp_Image_2026-07-16_at_10_31_56.jpeg,,2026-07-16 10:42:41.000,2026-07-16 10:42:41.000
-578,FUR-KK-0106,1,166,1,Kursi Kerja Jaring,Muchamad Khozin (3d),,inventory/ams/inventoryPhoto/1784173583WhatsApp_Image_2026-07-16_at_10_31_56.jpeg,,2026-07-16 10:46:23.000,2026-07-16 10:46:23.000
-579,FUR-KK-0107,1,166,1,Kursi Kerja Jaring,Ihsan Gani (Civil),,inventory/ams/inventoryPhoto/1784172345Kursi_Indachi_(Ichsan)_.jpeg,,2026-07-16 10:25:45.000,2026-07-16 10:25:45.000
-580,FUR-KK-0108,1,166,1,Kursi Kerja Jaring,Hana Fitria Ramadhani (Electrical),,inventory/ams/inventoryPhoto/1784171979Kursi_Indachi_(Hana).jpeg,,2026-07-16 10:19:39.000,2026-07-16 10:19:39.000
+270,FUR-KK-0001,1,77,1,Kursi Kerja Jaring,,,inventory/ams/inventoryPhoto/1726197313kursi_cokelat_jaring.jpeg,,2024-09-13 09:18:29.000,2026-09-22 17:43:15.000
+271,FUR-KK-0002,1,77,1,Kursi Kerja,Jaring Hitam,,inventory/ams/inventoryPhoto/17140991791.png,,2024-02-28 11:04:30.000,2024-08-02 15:09:11.000
+272,FUR-KK-0003,1,77,1,Kursi Coklat,,,inventory/ams/inventoryPhoto/1726197325kursi_cokelat_jaring.jpeg,,2025-01-22 18:23:23.000,2026-09-22 17:42:51.000
+273,FUR-KK-0004,1,77,1,Kursi Kerja,,,inventory/ams/inventoryPhoto/1726197331kursi_cokelat_jaring.jpeg,,2024-04-05 13:38:31.000,2026-02-06 10:53:36.000
+274,FUR-KK-0005,1,77,1,Kursi Kerja,Warna HITAM,,inventory/ams/inventoryPhoto/1603176200KURSI_JARING_HITAM_SAVELLO.jpg,,2017-02-27 00:00:00.000,2025-02-13 16:08:45.000
+275,FUR-KK-0006,1,78,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1601879871WhatsApp_Image_2020-10-05_at_13_41_12.jpeg,,2020-10-05 13:43:12.000,2026-05-29 10:22:32.000
+276,FUR-KK-0007,1,77,1,Kursi Kerja Jaring,Jaring Hitam,,inventory/ams/inventoryPhoto/1714099628DSC_0011.png,,2024-09-13 09:25:40.000,2026-04-21 10:23:27.000
+277,FUR-KK-0008,1,173,1,Kursi Kerja,Lipat,,,,2017-02-27 00:00:00.000,2024-08-07 08:20:05.000
+278,FUR-KK-0009,1,77,1,Kursi Kerja,WARNA JARING HITAM,,inventory/ams/inventoryPhoto/1602744493Kursi_Kerja_Hitam.jpg,,2020-10-15 10:59:42.000,2025-03-14 09:17:35.000
+279,FUR-KK-0010,1,76,1,Kursi Kerja Jaring,JARING HITAM COKLAT,,inventory/ams/inventoryPhoto/1709283446WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 15:08:08.000,2024-08-23 14:16:55.000
+280,FUR-KK-0011,1,131,1,Kursi Kerja,Kursi Stetlis,,,,2017-02-27 00:00:00.000,2024-07-25 10:31:28.000
+281,FUR-KK-0012,1,76,1,Kursi Kerja,WARNA HITAM,,inventory/ams/inventoryPhoto/1603350691KURSI_JARING_HITAM_SAVELLO.jpg,,2020-10-22 14:09:46.000,2024-07-31 14:44:10.000
+282,FUR-KK-0013,1,131,1,Kursi Kerja,Warna Coklat,,,,2024-02-28 10:29:30.000,2024-07-26 09:39:19.000
+283,FUR-KK-0014,1,132,1,Kursi Kerja,Sofa,,,,2018-03-15 16:23:06.777,2024-07-29 16:37:43.000
+284,FUR-KK-0015,1,77,1,Kursi Coklat,kursi jaring pendek,,inventory/ams/inventoryPhoto/1739506760kursi_cokelat_jaring.jpeg,,2026-04-21 17:47:25.000,2026-06-07 21:26:46.000
+285,FUR-KK-0016,1,77,1,Kursi Kerja,Warna CREAM,,inventory/ams/inventoryPhoto/1601869670KURSI_SOFFA_SAVELLO.jpg,,2024-07-26 09:59:26.000,2025-11-18 09:50:22.000
+286,FUR-KK-0017,1,77,1,Kursi Kerja Jaring,Warna HITAM,,inventory/ams/inventoryPhoto/17140996711.png,,2025-03-18 14:13:38.000,2026-06-08 08:55:06.000
+287,FUR-KK-0018,1,77,1,Kursi Kerja Jaring,KURSI KERJA JARING HITAM,,inventory/ams/inventoryPhoto/1714099708DSC_0011.png,,2026-04-21 10:23:10.000,2026-04-21 10:23:10.000
+288,FUR-KK-0019,1,77,1,Kursi Kerja Jaring,Kursi Besi Coklat,,inventory/ams/inventoryPhoto/1714099850DSC_0007.png,,2026-04-21 10:22:51.000,2026-04-21 10:22:51.000
+289,FUR-KK-0020,1,77,1,Kursi Kerja,Kursi Jaring Hitam,,inventory/ams/inventoryPhoto/1602743026Kursi_Kerja_Hitam.jpg,,2024-07-30 13:35:46.000,2026-07-15 11:38:19.000
+290,FUR-KK-0021,1,80,1,kursi kerja,Warna Putih,,,,2024-02-28 11:20:01.000,2024-02-28 11:20:01.000
+291,FUR-KK-0022,1,77,1,Kursi Kerja,Kerja Hitam,,inventory/ams/inventoryPhoto/1601623911Kursi_Kerja_Hitam.jpg,,2018-03-15 16:23:06.777,2025-02-13 10:48:10.000
+292,FUR-KK-0023,1,176,1,Kursi Kerja,Kerja Hitam,,,,2024-07-29 11:39:17.000,2024-07-29 11:39:17.000
+293,FUR-KK-0024,1,77,1,Kursi Kerja,Kursi Coklat,,inventory/ams/inventoryPhoto/1601630184kursi_coklt_pendek.jpg,,2024-07-30 15:29:21.000,2024-07-30 15:29:21.000
+294,FUR-KK-0025,1,77,1,Kursi Kerja Jaring,Warna Cokelat,,inventory/ams/inventoryPhoto/1739347826Kursi_Savello_Jaring.jpeg,,2026-01-21 09:18:02.000,2026-01-21 09:18:02.000
+295,FUR-KK-0026,1,77,1,Kursi Kerja,KURSI KERJA,,inventory/ams/inventoryPhoto/1726197240kursi_cokelat_jaring.jpeg,,2024-09-13 10:13:23.000,2026-06-07 17:40:06.000
+296,FUR-KK-0027,1,77,1,Kursi Kerja Jaring,Kursi Jaring,,inventory/ams/inventoryPhoto/1738233647Kursi_Savello_Jaring.jpeg,,2025-03-18 14:12:46.000,2026-07-15 11:36:47.000
+297,FUR-KK-0028,1,77,1,Kursi Kerja Jaring,Kursi Cokelat,,inventory/ams/inventoryPhoto/1739347842Kursi_Savello_Jaring.jpeg,,2026-01-21 09:21:09.000,2026-07-15 11:37:00.000
+298,FUR-KK-0029,1,77,1,Kursi Kerja,Kursi Cokelat,,inventory/ams/inventoryPhoto/1726197215kursi_cokelat_jaring.jpeg,,2017-02-27 00:00:00.000,2025-10-31 20:03:29.000
+299,FUR-KK-0030,1,77,1,Kursi Kerja Jaring,Kursi Kerja,,inventory/ams/inventoryPhoto/1726197198kursi_cokelat_jaring.jpeg,,2026-04-10 08:27:05.000,2026-04-10 08:27:56.000
+300,FUR-KK-0031,1,77,1,Kursi Kerja Jaring,Kursi Cokelat Jaring,,inventory/ams/inventoryPhoto/1726197192kursi_cokelat_jaring.jpeg,,2025-02-13 09:01:38.000,2026-04-10 08:27:44.000
+301,FUR-KK-0032,1,82,1,Kursi Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1601630895kursi_coklt_pendek.jpg,,2024-07-30 15:29:28.000,2024-07-30 15:29:28.000
+302,FUR-KK-0033,1,173,1,Kursi Kerja,Warna Biru,,,,2017-02-27 00:00:00.000,2025-02-13 09:00:26.000
+303,FUR-KK-0034,1,77,1,Kursi Kerja,kursi jaring,,inventory/ams/inventoryPhoto/1726197151kursi_cokelat_jaring.jpeg,,2024-09-13 10:12:31.000,2026-02-06 10:53:43.000
+304,FUR-KK-0035,1,77,1,Kursi Kerja,WARNA COKLAT,,inventory/ams/inventoryPhoto/1709105567WhatsApp_Image_2024-02-28_at_14_29_47.jpeg,,2024-02-16 16:35:37.000,2026-02-06 10:58:28.000
+305,FUR-KK-0036,1,77,1,Kursi Coklat,WARNA COKLAT,,inventory/ams/inventoryPhoto/1739506766kursi_cokelat_jaring.jpeg,,2026-02-06 10:51:26.000,2026-06-07 21:27:43.000
+306,FUR-KK-0037,1,77,1,Kursi Kerja,Jaring Coklat,,,,2024-02-28 10:30:43.000,2024-02-28 10:30:43.000
+307,FUR-KK-0038,1,77,1,Kursi Coklat,Warna Cokelat,,inventory/ams/inventoryPhoto/1741914537kursi_Coklat.jpeg,,2026-02-06 11:20:59.000,2026-06-07 21:18:19.000
+308,FUR-KK-0039,1,77,1,Kursi Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1601629864kursi_coklt_pendek.jpg,,2024-07-30 15:21:16.000,2025-02-13 16:08:45.000
+309,FUR-KK-0040,1,76,1,Kursi Kerja Jaring,JARING COKLAT,,inventory/ams/inventoryPhoto/1709283145WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 15:51:23.000,2024-03-01 15:54:47.000
+310,FUR-KK-0041,1,131,1,Kursi Kerja,Chairman,,inventory/ams/inventoryPhoto/1726211264Kursi_Pantry.jpeg,,2018-03-15 16:23:06.777,2024-09-13 14:08:02.000
+311,FUR-KK-0042,1,173,1,Kursi Kerja,Lipat Chitose,,,,2018-03-15 16:23:06.777,2024-07-30 15:28:27.000
+312,FUR-KK-0043,1,77,1,Kursi Coklat,',,inventory/ams/inventoryPhoto/1726196772Kursi_Savello_Jaring.jpeg,,2026-02-06 11:20:43.000,2026-02-06 11:20:43.000
+313,FUR-KK-0044,1,77,1,Kursi Coklat,Kursi Cokelat,,,,2026-05-13 14:20:42.000,2026-06-07 21:27:49.000
+314,FUR-KK-0045,1,77,1,Kursi Kerja Jaring,Rusak pada tanggal 22 Juli 2026,,inventory/ams/inventoryPhoto/1726196493Kursi_Savello_Jaring.jpeg,,2026-07-22 17:22:10.000,2026-07-22 17:22:32.000
+315,FUR-KK-0046,1,77,1,Kursi Kerja Jaring,',,inventory/ams/inventoryPhoto/1726196379Kursi_Savello_Jaring.jpeg,,2026-04-10 09:07:59.000,2026-04-10 09:07:59.000
+316,FUR-KK-0047,1,77,1,Kursi Kerja Jaring,Kerja Hitam,,inventory/ams/inventoryPhoto/1726194910Kursi_Savello_Jaring.jpeg,,2026-04-10 09:00:27.000,2026-07-22 17:17:57.000
+317,FUR-KK-0048,1,77,1,Kursi Kerja,Savello,,inventory/ams/inventoryPhoto/1726194610Kursi_Savello_Jaring.jpeg,,2024-02-28 11:32:35.000,2026-06-07 20:57:45.000
+318,FUR-KK-0049,1,77,1,Kursi Kerja Jaring,Savello,,inventory/ams/inventoryPhoto/1726194601Kursi_Savello_Jaring.jpeg,,2024-05-02 10:01:10.000,2026-05-29 15:23:57.000
+319,FUR-KK-0050,1,77,1,Kursi Kerja Besi,Kursi coklat besi,,inventory/ams/inventoryPhoto/1712299056WhatsApp_Image_2024-02-28_at_14_29_47.jpeg,,2024-07-30 13:36:19.000,2024-07-30 13:37:40.000
+320,FUR-KK-0051,1,77,1,Kursi Kerja Jaring,Kursi Jaring Hitam,,inventory/ams/inventoryPhoto/1712297671WhatsApp_Image_2024-03-09_at_11_11_53.jpeg,,2024-09-13 09:18:34.000,2026-05-29 10:08:40.000
+321,FUR-KK-0052,1,123,1,Kursi Kerja,Sofa,,,,2018-03-15 16:23:06.777,2024-08-22 15:21:08.000
+322,FUR-KK-0053,1,76,1,Kursi Kerja,WARNA CREAM,,inventory/ams/inventoryPhoto/1603352772LACI_KERJA.jpg,,2024-07-31 14:37:09.000,2024-07-31 14:37:09.000
+323,FUR-KK-0054,1,77,1,Kursi Kerja,Chairman,,,,2024-08-01 13:49:47.000,2024-08-01 13:49:47.000
+324,FUR-KK-0055,1,77,1,SOFA,Kerja Hitam,,,,2024-08-19 10:31:46.000,2024-08-23 14:39:38.000
+325,FUR-KK-0056,1,76,1,Kursi Kerja,Kursi Cokelat,,,,2018-03-15 16:23:06.777,2024-08-22 15:21:01.000
+326,FUR-KK-0057,1,76,1,Kursi Kerja Jaring,Kursi Cokelat,,inventory/ams/inventoryPhoto/1726211860kursi_kerja_uno.jpeg,,2026-04-10 09:00:20.000,2026-04-10 09:00:20.000
+327,FUR-KK-0058,1,76,1,Kursi Kerja Jaring,Kersi Coklat Jaring,,inventory/ams/inventoryPhoto/1709279595WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:52:31.000,2024-03-01 14:53:15.000
+328,FUR-KK-0059,1,76,1,Kursi Kerja Jaring,Kersi Jaring Coklat,,inventory/ams/inventoryPhoto/1709279481WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:44:24.000,2024-03-01 14:51:21.000
+329,FUR-KK-0060,1,76,1,Kursi Kerja Jaring,Kersi jaring coklat pendek,,inventory/ams/inventoryPhoto/1709279258WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:47:38.000,2024-03-01 14:47:38.000
+330,FUR-KK-0061,1,76,1,Kursi Kerja Jaring,Kersi kerja Jaring Pendek,,inventory/ams/inventoryPhoto/1709279175WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:46:15.000,2024-03-01 14:46:15.000
+331,FUR-KK-0062,1,76,1,Kursi Kerja Jaring,Kursi Kerja Jaring Pendek,,inventory/ams/inventoryPhoto/1709279015WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:43:35.000,2024-03-01 14:43:35.000
+332,FUR-KK-0063,1,76,1,Kursi Kerja Jaring,Kerja coklat Jaring Pendek,,inventory/ams/inventoryPhoto/1709278892WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:41:32.000,2024-03-01 14:41:32.000
+333,FUR-KK-0064,1,77,1,Kursi Coklat,Kerja Hitam,,inventory/ams/inventoryPhoto/1710260260WhatsApp_Image_2024-03-09_at_11_11_53.jpeg,,2026-01-26 08:48:01.000,2026-01-26 08:48:01.000
+334,FUR-KK-0065,1,76,1,Kursi Kerja Jaring,,,inventory/ams/inventoryPhoto/1726211827kursi_kerja_uno.jpeg,,2026-01-28 18:28:51.000,2026-04-21 08:53:40.000
+335,FUR-KK-0066,1,77,1,Kursi Coklat,Savello,,inventory/ams/inventoryPhoto/1726195475Kursi_Savello_Jaring.jpeg,,2026-02-06 10:55:06.000,2026-06-07 18:07:54.000
+336,FUR-KK-0067,1,77,1,Kursi Coklat,kursi coklat,,inventory/ams/inventoryPhoto/1741914552kursi_Coklat.jpeg,,2024-04-05 09:22:35.000,2026-06-07 17:38:09.000
+337,FUR-KK-0068,1,76,1,Kursi Kerja,Kursi Jaring Pendek,,inventory/ams/inventoryPhoto/1709106288WhatsApp_Image_2024-02-28_at_14_29_47.jpeg,,2024-02-28 14:41:46.000,2024-08-02 09:11:07.000
+338,FUR-KK-0069,1,76,1,Kursi Kerja Jaring,kursi coklat,,inventory/ams/inventoryPhoto/1741914863kursi_Coklat.jpeg,,2026-05-12 08:58:08.000,2026-05-12 08:58:08.000
+339,FUR-KK-0070,1,76,1,Kursi Kerja Jaring,Coklat Jaring,,inventory/ams/inventoryPhoto/1709283980WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 16:04:07.000,2024-03-01 16:06:20.000
+340,FUR-KK-0071,1,76,1,Kursi Kerja Jaring,Jaring Coklat Jaring,,inventory/ams/inventoryPhoto/1709283796WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 16:03:16.000,2024-03-01 16:03:16.000
+341,FUR-KK-0072,1,76,1,Kursi Kerja Jaring,Jaring Coklat Pendek,,inventory/ams/inventoryPhoto/1709283683WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 16:00:31.000,2024-03-01 16:01:23.000
+342,FUR-KK-0073,1,76,1,Kursi Kerja Jaring,Jaring Pendek,,inventory/ams/inventoryPhoto/1709283735WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 16:02:15.000,2024-03-01 16:02:15.000
+343,FUR-KK-0074,1,76,1,Kursi Kerja Jaring,Kerja Hitam,,inventory/ams/inventoryPhoto/1709280904WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 15:15:04.000,2024-03-01 15:15:04.000
+344,FUR-KK-0075,1,82,1,Kursi Kerja,Chairman,,,,2024-02-16 16:50:19.000,2024-02-16 16:50:19.000
+345,FUR-KK-0076,1,82,1,Kursi Kerja,Savello,,,,2024-02-16 16:50:51.000,2024-02-16 16:50:51.000
+346,FUR-KK-0077,1,82,1,Kursi Kerja,Kerja Hitam,,,,2024-02-16 16:47:55.000,2024-02-16 16:50:38.000
+347,FUR-KK-0078,1,77,1,Kursi Kerja,Lipat,,,,2024-07-25 13:56:24.000,2024-07-25 13:56:32.000
+348,FUR-KK-0079,1,77,1,Kursi Coklat,kursi besi,,inventory/ams/inventoryPhoto/1776824512tempat_sampah_rokok.jpeg,,2026-04-22 09:20:32.000,2026-06-07 21:27:26.000
+349,FUR-KK-0080,1,77,1,Kursi Kerja,Memo no : 020/MEM/IFS-PTRE/V/2022,,inventory/ams/inventoryPhoto/1601607051Kursi_Kerja_Hitam.jpg,,2024-06-06 08:36:46.000,2024-06-06 08:47:16.000
+350,FUR-KK-0081,1,76,1,Kursi Kerja,Memo no : 020/MEM/IFS-PTRE/V/2022,,,,2024-06-06 08:35:34.000,2024-06-06 08:36:23.000
+351,FUR-KK-0082,1,76,1,Kursi Tamu,Kursi Kaki Besi,,inventory/ams/inventoryPhoto/1714632368DSC_0007.png,,2024-07-30 14:54:12.000,2024-07-30 14:54:12.000
+352,FUR-KK-0083,1,77,1,Kursi Coklat,Kursi Kaki Besi,,inventory/ams/inventoryPhoto/1714632331DSC_0007.png,,2024-04-18 11:17:41.000,2026-04-21 17:47:13.000
+353,FUR-KK-0084,1,76,1,Kursi Kerja Jaring,Kursi Kaki Besi,,inventory/ams/inventoryPhoto/1726211802kursi_kerja_uno1.jpeg,,2025-02-13 14:02:08.000,2025-02-13 14:02:08.000
+354,FUR-KK-0085,1,77,1,Kursi Coklat,Coklat besi,,inventory/ams/inventoryPhoto/1714632043DSC_0007.png,,2025-02-12 10:22:28.000,2025-02-13 14:01:58.000
+355,FUR-KK-0086,1,131,1,Kursi Kerja,Memo no : 020/MEM/IFS-PTRE/V/2022,,,,2024-06-06 08:30:53.000,2024-06-06 08:35:10.000
+356,FUR-KK-0087,1,77,1,Kursi Kerja,Sofa,,inventory/ams/inventoryPhoto/1726194302Kursi_Savello_Jaring.jpeg,,2024-09-13 09:24:57.000,2024-09-13 09:25:02.000
+357,FUR-KK-0088,1,77,1,Kursi Coklat,Kursi Tamu warna coklat,,inventory/ams/inventoryPhoto/1712283682WhatsApp_Image_2024-02-28_at_14_29_47.jpeg,,2024-04-05 09:21:22.000,2024-04-05 09:21:22.000
+358,FUR-KK-0089,1,76,1,Kursi Kerja Jaring,Kursi Coklat Besi,,inventory/ams/inventoryPhoto/1741914872kursi_Coklat.jpeg,,2026-05-12 08:58:49.000,2026-05-12 08:58:49.000
+359,FUR-KK-0090,1,76,1,Kursi Kerja Jaring,Kursi kerja Jaring,,inventory/ams/inventoryPhoto/1741914881kursi_Coklat.jpeg,,2026-06-07 21:29:42.000,2026-06-07 21:29:42.000
+360,FUR-KK-0091,1,77,1,Kursi Kerja Jaring,Kursi jaring pendek,,inventory/ams/inventoryPhoto/1737539524Kursi_Savello_Jaring.jpeg,,2026-04-09 14:56:47.000,2026-04-09 14:56:47.000
+361,FUR-KK-0092,1,76,1,Kursi Kerja Jaring,menggunakan hidrolic,,inventory/ams/inventoryPhoto/1726211764kursi_kerja_uno.jpeg,,2024-09-13 14:16:04.000,2025-02-13 16:08:18.000
+362,FUR-KK-0093,1,128,1,Kursi,,,inventory/ams/inventoryPhoto/1726211268Kursi_Pantry.jpeg,,2024-09-13 14:07:39.000,2025-02-12 14:29:11.000
+363,FUR-KK-0094,1,135,1,Kursi Kerja Jaring,,,inventory/ams/inventoryPhoto/1738899806KURSI_MORELLI.jpeg,,2026-06-07 20:50:53.000,2026-06-07 20:50:53.000
+364,FUR-KK-0095,1,77,1,Kursi Kerja Kulit,,,inventory/ams/inventoryPhoto/1738899776KURSI_MORELLI.jpeg,,2026-06-07 18:13:48.000,2026-06-07 20:50:17.000
+365,FUR-KK-0096,1,76,1,Kursi Kerja,,,inventory/ams/inventoryPhoto/1726211235Kursi_Pantry.jpeg,,2024-09-13 14:07:15.000,2024-09-13 14:07:15.000
+366,FUR-KK-0097,1,131,1,Kursi Kerja,,,,,2024-08-05 13:21:00.000,2024-08-05 13:21:00.000
+367,FUR-KK-0098,1,77,1,Kursi Coklat,KURSI ABU ABU,,inventory/ams/inventoryPhoto/1739505860kursi_Coklat.jpeg,,2025-02-14 11:04:20.000,2025-02-14 11:04:20.000
+368,FUR-KK-0099,1,103,1,Kursi Cafe Hitam,,,,,2024-08-02 09:39:24.000,2024-08-02 10:51:22.000
+369,FUR-KK-0100,1,77,1,Kursi Kerja,KURSI JARING ABU-ABU,,inventory/ams/inventoryPhoto/1726053089WhatsApp_Image_2024-09-11_at_11_39_29.jpeg,,2024-09-11 16:09:04.000,2024-09-11 18:11:29.000
+370,FUR-KK-0101,1,77,1,Kursi Coklat,Kaki besi,,inventory/ams/inventoryPhoto/1737539794kursi_Coklat.jpeg,,2026-06-07 21:27:14.000,2026-06-07 21:27:35.000
+371,FUR-KK-0102,1,77,1,Kursi Tamu,,,inventory/ams/inventoryPhoto/1739516522kursi_Coklat.jpeg,,2025-02-14 14:03:20.000,2025-03-14 08:12:41.000
+372,FUR-KK-0103,1,150,1,Kursi Kerja Jaring,,,inventory/ams/inventoryPhoto/1744343605Kursi_Inco.jpeg,,2025-04-25 10:13:48.000,2026-06-07 20:37:58.000
+373,FUR-KK-0104,1,166,1,Kursi Kerja Jaring,,,inventory/ams/inventoryPhoto/1784173300WhatsApp_Image_2026-07-16_at_10_31_14.jpeg,,2026-07-15 11:42:36.000,2026-09-22 17:42:25.000
+374,FUR-KK-0105,1,166,1,Kursi Kerja Jaring,Bayu Shafar Nur Rohman (3D),,inventory/ams/inventoryPhoto/1784173361WhatsApp_Image_2026-07-16_at_10_31_56.jpeg,,2026-07-16 10:42:41.000,2026-07-16 10:42:41.000
+375,FUR-KK-0106,1,166,1,Kursi Kerja Jaring,Muchamad Khozin (3d),,inventory/ams/inventoryPhoto/1784173583WhatsApp_Image_2026-07-16_at_10_31_56.jpeg,,2026-07-16 10:46:23.000,2026-07-16 10:46:23.000
+376,FUR-KK-0107,1,166,1,Kursi Kerja Jaring,Ihsan Gani (Civil),,inventory/ams/inventoryPhoto/1784172345Kursi_Indachi_(Ichsan)_.jpeg,,2026-07-16 10:25:45.000,2026-07-16 10:25:45.000
+377,FUR-KK-0108,1,166,1,Kursi Kerja Jaring,Hana Fitria Ramadhani (Electrical),,inventory/ams/inventoryPhoto/1784171979Kursi_Indachi_(Hana).jpeg,,2026-07-16 10:19:39.000,2026-07-16 10:19:39.000

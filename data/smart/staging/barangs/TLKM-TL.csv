@@ -1,7 +1,7 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-1086,TLKM-TL-0001,12,25,1,Telepon,Warna Putih,,inventory/ams/inventoryPhoto/1726624081telepon_panasonic_hitam.jpeg,,2024-04-26 10:05:44.000,2025-03-18 14:13:08.000
-1087,TLKM-TL-0002,12,25,1,Telepon,Warna Hitam,,inventory/ams/inventoryPhoto/1726624086telepon_panasonic_hitam.jpeg,,2024-04-05 09:08:18.000,2025-02-13 09:10:00.000
-1088,TLKM-TL-0003,12,25,1,Telepon,,,inventory/ams/inventoryPhoto/1726624072telepon_panasonic_hitam.jpeg,,2017-02-27 00:00:00.000,2026-09-03 10:21:50.000
-1089,TLKM-TL-0004,12,79,1,Telepon,,,,,2024-08-08 13:45:27.000,2024-08-08 13:45:27.000
-1090,TLKM-TL-0005,12,25,1,Telepon,tidak aktif,,,,2024-03-09 09:32:33.000,2024-03-09 09:32:33.000
-1091,TLKM-TL-0006,12,25,1,Telepon,Pesawat Telepon,,inventory/ams/inventoryPhoto/1712282839WhatsApp_Image_2024-04-05_at_8_58_42_AM.jpeg,,2024-04-05 09:07:19.000,2024-04-05 09:07:19.000
+883,TLKM-TL-0001,12,25,1,Telepon,Warna Putih,,inventory/ams/inventoryPhoto/1726624081telepon_panasonic_hitam.jpeg,,2024-04-26 10:05:44.000,2025-03-18 14:13:08.000
+884,TLKM-TL-0002,12,25,1,Telepon,Warna Hitam,,inventory/ams/inventoryPhoto/1726624086telepon_panasonic_hitam.jpeg,,2024-04-05 09:08:18.000,2025-02-13 09:10:00.000
+885,TLKM-TL-0003,12,25,1,Telepon,,,inventory/ams/inventoryPhoto/1726624072telepon_panasonic_hitam.jpeg,,2017-02-27 00:00:00.000,2026-09-03 10:21:50.000
+886,TLKM-TL-0004,12,79,1,Telepon,,,,,2024-08-08 13:45:27.000,2024-08-08 13:45:27.000
+887,TLKM-TL-0005,12,25,1,Telepon,tidak aktif,,,,2024-03-09 09:32:33.000,2024-03-09 09:32:33.000
+888,TLKM-TL-0006,12,25,1,Telepon,Pesawat Telepon,,inventory/ams/inventoryPhoto/1712282839WhatsApp_Image_2024-04-05_at_8_58_42_AM.jpeg,,2024-04-05 09:07:19.000,2024-04-05 09:07:19.000

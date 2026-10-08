@@ -182,7 +182,7 @@
     },
     "ELEK-CCT": {
       "file": "ELEK-CCT.csv",
-      "row_count": 36
+      "row_count": 35
     },
     "ELEK-CP": {
       "file": "ELEK-CP.csv",
@@ -190,23 +190,15 @@
     },
     "ELEK-CS": {
       "file": "ELEK-CS.csv",
-      "row_count": 81
+      "row_count": 80
     },
     "ELEK-EXH": {
       "file": "ELEK-EXH.csv",
       "row_count": 1
     },
-    "ELEK-FCT": {
-      "file": "ELEK-FCT.csv",
-      "row_count": 1
-    },
     "ELEK-FR": {
       "file": "ELEK-FR.csv",
       "row_count": 4
-    },
-    "ELEK-FVC": {
-      "file": "ELEK-FVC.csv",
-      "row_count": 1
     },
     "ELEK-HD": {
       "file": "ELEK-HD.csv",
@@ -230,6 +222,14 @@
     },
     "ELEK-MPK": {
       "file": "ELEK-MPK.csv",
+      "row_count": 1
+    },
+    "ELEK-PCT": {
+      "file": "ELEK-PCT.csv",
+      "row_count": 1
+    },
+    "ELEK-PVC": {
+      "file": "ELEK-PVC.csv",
       "row_count": 1
     },
     "ELEK-SD": {
@@ -441,5 +441,5 @@
       "row_count": 115
     }
   },
-  "total_units": 6943
+  "total_units": 6941
 }
