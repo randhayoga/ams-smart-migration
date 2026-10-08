@@ -286,7 +286,7 @@
     },
     "KEND-MO": {
       "file": "KEND-MO.csv",
-      "row_count": 2
+      "row_count": 1
     },
     "MES-GEN": {
       "file": "MES-GEN.csv",
@@ -441,5 +441,5 @@
       "row_count": 115
     }
   },
-  "total_units": 6940
+  "total_units": 6939
 }

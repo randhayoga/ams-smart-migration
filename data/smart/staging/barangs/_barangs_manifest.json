@@ -286,7 +286,7 @@
     },
     "KEND-MO": {
       "file": "KEND-MO.csv",
-      "row_count": 2
+      "row_count": 1
     },
     "MES-GEN": {
       "file": "MES-GEN.csv",
@@ -310,23 +310,23 @@
     },
     "MON-LCD": {
       "file": "MON-LCD.csv",
-      "row_count": 51
+      "row_count": 28
     },
     "PDGR-ACN": {
       "file": "PDGR-ACN.csv",
-      "row_count": 5
+      "row_count": 4
     },
     "PDGR-ACP": {
       "file": "PDGR-ACP.csv",
-      "row_count": 4
+      "row_count": 3
     },
     "PDGR-ACS": {
       "file": "PDGR-ACS.csv",
-      "row_count": 3
+      "row_count": 2
     },
     "PDGR-ACSP": {
       "file": "PDGR-ACSP.csv",
-      "row_count": 52
+      "row_count": 18
     },
     "PDGR-AHU": {
       "file": "PDGR-AHU.csv",
@@ -441,5 +441,5 @@
       "row_count": 6
     }
   },
-  "total_barangs": 745
+  "total_barangs": 684
 }

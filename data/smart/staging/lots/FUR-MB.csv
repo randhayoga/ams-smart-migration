@@ -1,4 +1,4 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-340,LOT-0001-26-FUR-MB-0001,340,1,,,,,,,2026-10-08 14:11:24.000,,inventory/ams/inventoryPhoto/1713516079WhatsApp_Image_2024-04-19_at_14_26_50.jpeg,,,2026-10-08 14:11:24.000,2026-10-08 14:11:24.000
-341,LOT-0001-26-FUR-MB-0002,341,1,,,,,,,2026-10-08 14:11:24.000,,inventory/ams/inventoryPhoto/1726731012MEJA_BUNDAR_KORIDOR.jpeg,,,2026-10-08 14:11:24.000,2026-10-08 14:11:24.000
-342,LOT-0001-26-FUR-MB-0003,342,1,,,,,,,2026-10-08 14:11:24.000,,,,,2026-10-08 14:11:24.000,2026-10-08 14:11:24.000
+340,LOT-0001-26-FUR-MB-0001,340,1,,,,,,,2026-10-08 17:52:25.000,,inventory/ams/inventoryPhoto/1713516079WhatsApp_Image_2024-04-19_at_14_26_50.jpeg,,,2026-10-08 17:52:25.000,2026-10-08 17:52:25.000
+341,LOT-0001-26-FUR-MB-0002,341,1,,,,,,,2026-10-08 17:52:25.000,,inventory/ams/inventoryPhoto/1726731012MEJA_BUNDAR_KORIDOR.jpeg,,,2026-10-08 17:52:25.000,2026-10-08 17:52:25.000
+342,LOT-0001-26-FUR-MB-0003,342,1,,,,,,,2026-10-08 17:52:25.000,,,,,2026-10-08 17:52:25.000,2026-10-08 17:52:25.000

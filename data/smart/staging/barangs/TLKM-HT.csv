@@ -1,2 +1,2 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-738,TLKM-HT-0001,109,144,1,HT,,,inventory/ams/inventoryPhoto/1738894554HT.jpeg,,2025-02-07 09:01:23.000,2025-11-18 16:11:47.000
+677,TLKM-HT-0001,109,144,1,HT,,,inventory/ams/inventoryPhoto/1738894554HT.jpeg,,2025-02-07 09:01:23.000,2025-11-18 16:11:47.000

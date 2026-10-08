@@ -1,8 +1,8 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-30,LOT-0001-26-ACC-GL-0001,30,1,,,,,,,2026-10-08 14:10:22.000,,inventory/ams/inventoryPhoto/1726562050GLASSBOARD.jpeg,,,2026-10-08 14:10:22.000,2026-10-08 14:10:22.000
-31,LOT-0001-26-ACC-GL-0002,31,1,,,,,,,2026-10-08 14:10:22.000,,inventory/ams/inventoryPhoto/1726562053GLASSBOARD.jpeg,,,2026-10-08 14:10:22.000,2026-10-08 14:10:22.000
-32,LOT-0001-26-ACC-GL-0003,32,1,,,,,,,2026-10-08 14:10:22.000,,inventory/ams/inventoryPhoto/1714105758WhatsApp_Image_2024-04-26_at_10_22_48.jpeg,,,2026-10-08 14:10:22.000,2026-10-08 14:10:22.000
-33,LOT-0001-26-ACC-GL-0004,33,1,,,,,,,2026-10-08 14:10:22.000,,inventory/ams/inventoryPhoto/1712285593WhatsApp_Image_2024-04-05_at_9_26_48_AM.jpeg,,,2026-10-08 14:10:22.000,2026-10-08 14:10:22.000
-34,LOT-0001-26-ACC-GL-0005,34,1,,,,,,,2026-10-08 14:10:22.000,,inventory/ams/inventoryPhoto/1712288743WhatsApp_Image_2024-04-05_at_9_26_48_AM.jpeg,,,2026-10-08 14:10:22.000,2026-10-08 14:10:22.000
-35,LOT-0001-26-ACC-GL-0006,35,1,,,,,,,2026-10-08 14:10:22.000,,inventory/ams/inventoryPhoto/1713518700WhatsApp_Image_2024-04-19_at_14_25_04.jpeg,,,2026-10-08 14:10:22.000,2026-10-08 14:10:22.000
-36,LOT-0001-26-ACC-GL-0007,36,1,,,,,,,2026-10-08 14:10:22.000,,inventory/ams/inventoryPhoto/1726561957GLASSBOARD.jpeg,,,2026-10-08 14:10:22.000,2026-10-08 14:10:22.000
+30,LOT-0001-26-ACC-GL-0001,30,1,,,,,,,2026-10-08 17:51:21.000,,inventory/ams/inventoryPhoto/1726562050GLASSBOARD.jpeg,,,2026-10-08 17:51:21.000,2026-10-08 17:51:21.000
+31,LOT-0001-26-ACC-GL-0002,31,1,,,,,,,2026-10-08 17:51:21.000,,inventory/ams/inventoryPhoto/1726562053GLASSBOARD.jpeg,,,2026-10-08 17:51:21.000,2026-10-08 17:51:21.000
+32,LOT-0001-26-ACC-GL-0003,32,1,,,,,,,2026-10-08 17:51:21.000,,inventory/ams/inventoryPhoto/1714105758WhatsApp_Image_2024-04-26_at_10_22_48.jpeg,,,2026-10-08 17:51:21.000,2026-10-08 17:51:21.000
+33,LOT-0001-26-ACC-GL-0004,33,1,,,,,,,2026-10-08 17:51:21.000,,inventory/ams/inventoryPhoto/1712285593WhatsApp_Image_2024-04-05_at_9_26_48_AM.jpeg,,,2026-10-08 17:51:21.000,2026-10-08 17:51:21.000
+34,LOT-0001-26-ACC-GL-0005,34,1,,,,,,,2026-10-08 17:51:21.000,,inventory/ams/inventoryPhoto/1712288743WhatsApp_Image_2024-04-05_at_9_26_48_AM.jpeg,,,2026-10-08 17:51:21.000,2026-10-08 17:51:21.000
+35,LOT-0001-26-ACC-GL-0006,35,1,,,,,,,2026-10-08 17:51:21.000,,inventory/ams/inventoryPhoto/1713518700WhatsApp_Image_2024-04-19_at_14_25_04.jpeg,,,2026-10-08 17:51:21.000,2026-10-08 17:51:21.000
+36,LOT-0001-26-ACC-GL-0007,36,1,,,,,,,2026-10-08 17:51:21.000,,inventory/ams/inventoryPhoto/1726561957GLASSBOARD.jpeg,,,2026-10-08 17:51:21.000,2026-10-08 17:51:21.000
