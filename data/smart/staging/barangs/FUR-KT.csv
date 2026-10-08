@@ -1,15 +1,15 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-934,FUR-KT-0001,7,132,1,Sofa,Sofa,,inventory/ams/inventoryPhoto/1726714868SOFA.jpeg,,2025-11-18 09:10:47.000,2025-11-18 09:47:46.000
-935,FUR-KT-0002,7,77,1,Sofa,SOPA,,inventory/ams/inventoryPhoto/1726714945SOFA.jpeg,,2025-11-18 09:11:19.000,2025-11-18 09:11:36.000
-936,FUR-KT-0003,7,103,1,Kursi Cafe Hitam,Kursi Cafe Hidrolik Tinggi,,inventory/ams/inventoryPhoto/1710227027WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,2025-05-26 14:51:37.000,2025-05-26 14:55:11.000
-937,FUR-KT-0004,7,103,1,Kursi Cafe Coklat,Kursi Cafe Hidrolik Tinggi,,inventory/ams/inventoryPhoto/1710227350WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,2025-05-26 14:52:09.000,2025-05-26 14:55:54.000
-938,FUR-KT-0005,7,119,1,Sofa Lux 1,Lux 1,,inventory/ams/inventoryPhoto/1713516650WhatsApp_Image_2024-04-19_at_14_28_34.jpeg,,2025-02-07 14:54:51.000,2025-02-13 16:16:23.000
-939,FUR-KT-0006,7,77,1,Sofa,WARNA HITAM,,inventory/ams/inventoryPhoto/1726714915SOFA.jpeg,,2025-11-18 09:52:39.000,2025-11-18 09:52:50.000
-940,FUR-KT-0007,7,132,1,Sofa,,,inventory/ams/inventoryPhoto/1726714877SOFA.jpeg,,2025-11-18 09:05:58.000,2025-11-18 09:09:41.000
-941,FUR-KT-0008,7,123,1,Kursi Tamu Rotan,,,inventory/ams/inventoryPhoto/1726798844kursi_ROTAN.jpeg,,2025-02-07 10:06:28.000,2025-02-07 10:06:46.000
-942,FUR-KT-0009,7,132,1,Sofa Hitam,,,inventory/ams/inventoryPhoto/1726714904SOFA.jpeg,,2025-11-18 09:05:44.000,2025-11-18 09:05:44.000
-943,FUR-KT-0010,7,103,1,Kursi Cafe Hitam,,,,,2025-05-26 17:54:31.000,2025-05-26 17:54:55.000
-944,FUR-KT-0011,7,103,1,Kursi Cafe Coklat,,,inventory/ams/inventoryPhoto/1726045805WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,2025-05-26 17:54:38.000,2025-05-26 17:54:38.000
-945,FUR-KT-0012,7,119,1,Sofa Lux 1,Kursi Tamu Hitam,,,,2026-09-17 13:53:21.000,2026-09-17 13:53:21.000
-946,FUR-KT-0013,7,119,1,Sofa Lux 1,,,,,2026-09-17 13:52:31.000,2026-09-17 13:52:31.000
-947,FUR-KT-0014,7,123,1,Kursi Kecil,,,inventory/ams/inventoryPhoto/1752204680WhatsApp_Image_2025-07-11_at_10_29_07.jpeg,,2025-07-11 10:31:20.000,2025-07-16 10:59:44.000
+582,FUR-KT-0001,7,132,1,Sofa,Sofa,,inventory/ams/inventoryPhoto/1726714868SOFA.jpeg,,2025-11-18 09:10:47.000,2025-11-18 09:47:46.000
+583,FUR-KT-0002,7,77,1,Sofa,SOPA,,inventory/ams/inventoryPhoto/1726714945SOFA.jpeg,,2025-11-18 09:11:19.000,2025-11-18 09:11:36.000
+584,FUR-KT-0003,7,103,1,Kursi Cafe Hitam,Kursi Cafe Hidrolik Tinggi,,inventory/ams/inventoryPhoto/1710227027WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,2025-05-26 14:51:37.000,2025-05-26 14:55:11.000
+585,FUR-KT-0004,7,103,1,Kursi Cafe Coklat,Kursi Cafe Hidrolik Tinggi,,inventory/ams/inventoryPhoto/1710227350WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,2025-05-26 14:52:09.000,2025-05-26 14:55:54.000
+586,FUR-KT-0005,7,119,1,Sofa Lux 1,Lux 1,,inventory/ams/inventoryPhoto/1713516650WhatsApp_Image_2024-04-19_at_14_28_34.jpeg,,2025-02-07 14:54:51.000,2025-02-13 16:16:23.000
+587,FUR-KT-0006,7,77,1,Sofa,WARNA HITAM,,inventory/ams/inventoryPhoto/1726714915SOFA.jpeg,,2025-11-18 09:52:39.000,2025-11-18 09:52:50.000
+588,FUR-KT-0007,7,132,1,Sofa,,,inventory/ams/inventoryPhoto/1726714877SOFA.jpeg,,2025-11-18 09:05:58.000,2025-11-18 09:09:41.000
+589,FUR-KT-0008,7,123,1,Kursi Tamu Rotan,,,inventory/ams/inventoryPhoto/1726798844kursi_ROTAN.jpeg,,2025-02-07 10:06:28.000,2025-02-07 10:06:46.000
+590,FUR-KT-0009,7,132,1,Sofa Hitam,,,inventory/ams/inventoryPhoto/1726714904SOFA.jpeg,,2025-11-18 09:05:44.000,2025-11-18 09:05:44.000
+591,FUR-KT-0010,7,103,1,Kursi Cafe Hitam,,,,,2025-05-26 17:54:31.000,2025-05-26 17:54:55.000
+592,FUR-KT-0011,7,103,1,Kursi Cafe Coklat,,,inventory/ams/inventoryPhoto/1726045805WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,2025-05-26 17:54:38.000,2025-05-26 17:54:38.000
+593,FUR-KT-0012,7,119,1,Sofa Lux 1,Kursi Tamu Hitam,,,,2026-09-17 13:53:21.000,2026-09-17 13:53:21.000
+594,FUR-KT-0013,7,119,1,Sofa Lux 1,,,,,2026-09-17 13:52:31.000,2026-09-17 13:52:31.000
+595,FUR-KT-0014,7,123,1,Kursi Kecil,,,inventory/ams/inventoryPhoto/1752204680WhatsApp_Image_2025-07-11_at_10_29_07.jpeg,,2025-07-11 10:31:20.000,2025-07-16 10:59:44.000

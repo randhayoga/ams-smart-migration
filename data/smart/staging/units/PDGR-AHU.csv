@@ -1,3 +1,3 @@
-id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
-6492,1331,04127-PDGR-AHU-CFS-PTRE-12,04127-ELK-AHU-CFS-PTRE-12,1226,PDGR-AHU,144,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-14 09:11:40.000,2025-02-14 09:11:40.000
-6493,8033,02715-PDGR-AHU-CFS-PTRE-11,02715-ACC-AHU-CFS-PTRE-11,1227,PDGR-AHU,83,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-05 11:18:51.000,2025-02-05 11:18:51.000
+id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at,specification
+6492,1331,04127-PDGR-AHU-CFS-PTRE-12,04127-ELK-AHU-CFS-PTRE-12,874,PDGR-AHU,144,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-14 09:11:40.000,2025-02-14 09:11:40.000,
+6493,8033,02715-PDGR-AHU-CFS-PTRE-11,02715-ACC-AHU-CFS-PTRE-11,875,PDGR-AHU,83,Tidak Aktif,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-05 11:18:51.000,2025-02-05 11:18:51.000,

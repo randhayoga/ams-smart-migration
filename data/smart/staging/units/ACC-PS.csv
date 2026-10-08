@@ -1,2 +1,2 @@
-id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
-495,10758,04774-ACC-PS-CFS-PTRE-25,04774-ACC-PS-CFS-PTRE-25,79,ACC-PS,153,Tidak Aktif,Bagus,1775000.0,,,LT,Aset,Corporate,,1,2025-05-26 17:53:23.000,2025-05-26 17:53:23.000
+id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at,specification
+495,10758,04774-ACC-PS-CFS-PTRE-25,04774-ACC-PS-CFS-PTRE-25,79,ACC-PS,153,Tidak Aktif,Bagus,1775000.0,,,LT,Aset,Corporate,,1,2025-05-26 17:53:23.000,2025-05-26 17:53:23.000,

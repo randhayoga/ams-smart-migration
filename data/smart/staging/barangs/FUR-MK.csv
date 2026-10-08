@@ -1,67 +1,67 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-1005,FUR-MK-0001,2,82,1,Meja Kerja,Warna Abu-abu,,inventory/ams/inventoryPhoto/1726801969MEJA_KERJA.jpeg,,2017-02-27 00:00:00.000,2024-09-20 10:14:24.000
-1006,FUR-MK-0002,2,82,1,Meja Kerja,Warna Coklat,,,,2024-07-25 14:14:05.000,2024-07-25 14:14:05.000
-1007,FUR-MK-0003,2,81,1,Meja Kerja Lipat,MEJA LIPAT PUTIH,,inventory/ams/inventoryPhoto/1601888261MEJA_LIPAT_PUTIH.jpg,,2026-02-06 09:42:05.000,2026-02-06 09:44:48.000
-1008,FUR-MK-0004,2,76,1,Meja Kerja,Warna Cream,,inventory/ams/inventoryPhoto/1726801483MEJA_KERJA.jpeg,,2017-02-27 00:00:00.000,2026-05-29 10:00:03.000
-1009,FUR-MK-0005,2,82,1,Meja Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/17146229445.JPG,,2018-03-15 16:23:06.777,2026-06-07 21:06:00.000
-1010,FUR-MK-0006,2,76,1,Meja Kerja,Meja Ukuran 120 x 60 warna cream + Partisi,,inventory/ams/inventoryPhoto/17140985355.JPG,,2024-04-26 09:28:55.000,2024-09-20 10:03:39.000
-1011,FUR-MK-0007,2,81,1,MEJA LIPAT,MEJA LIPAT PUTIH,,inventory/ams/inventoryPhoto/1601888392MEJA_LIPAT_PUTIH.jpg,,2024-07-30 13:43:53.000,2026-05-13 14:50:51.000
-1012,FUR-MK-0008,2,82,1,Meja Kerja + Laci,Warna Cokelat,,,,2026-09-07 08:46:51.000,2026-09-07 08:47:34.000
-1013,FUR-MK-0009,2,76,1,Meja Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1726801426MEJA_KERJA_DEPT.jpeg,,2017-02-27 00:00:00.000,2026-09-09 16:47:54.000
-1014,FUR-MK-0010,2,76,1,Meja Kerja (120 x 50 x 70),Side Desk,,inventory/ams/inventoryPhoto/1726801400MEJA_KERJA_DEPT.jpeg,,2026-09-07 13:16:54.000,2026-09-07 13:20:48.000
-1015,FUR-MK-0011,2,76,1,Meja Kerja,MEJA CREAM,,inventory/ams/inventoryPhoto/1603161750unnamed.jpg,,2024-07-26 14:39:31.000,2025-11-18 10:03:51.000
-1016,FUR-MK-0012,2,76,1,Meja Kerja,Meja Ukuran 120 x 70 warna cream,,inventory/ams/inventoryPhoto/1714099040WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-04-26 09:37:20.000,2024-04-26 09:37:20.000
-1017,FUR-MK-0013,2,76,1,Meja Kerja,Warna Cream meja L,,inventory/ams/inventoryPhoto/1714099101DSC_0053.JPG,,2024-04-26 09:38:21.000,2024-04-26 09:38:21.000
-1018,FUR-MK-0014,2,76,1,Meja Kerja (125 x 75 x 75),Warna Cream,,inventory/ams/inventoryPhoto/1602735045MEJA_KERJA_PARTISI.jpg,,2026-09-18 08:44:47.000,2026-09-18 08:47:06.000
-1019,FUR-MK-0015,2,76,1,Meja Kerja,WARNA CREAM HPL PANJANG 120 CM X 60 CM,,inventory/ams/inventoryPhoto/1709949555WhatsApp_Image_2024-03-09_at_08_36_09.jpeg,,2024-03-09 08:44:52.000,2025-03-12 08:51:16.000
-1020,FUR-MK-0016,2,76,1,Meja Kerja,WARNA CREAM HPL,,inventory/ams/inventoryPhoto/1709948592WhatsApp_Image_2024-03-09_at_08_36_09.jpeg,,2024-03-09 08:31:19.000,2025-03-12 08:51:27.000
-1021,FUR-MK-0017,2,76,1,Meja Kerja,Meja Kerja Cream,,inventory/ams/inventoryPhoto/1726801241MEJA_KERJA_DEPT.jpeg,,2023-06-14 10:07:25.000,2024-09-20 10:01:10.000
-1022,FUR-MK-0018,2,76,1,Mejai Kerja,warna cream,,inventory/ams/inventoryPhoto/1602730570meja_cream.jpg,,2024-07-31 14:42:00.000,2024-07-31 14:42:00.000
-1023,FUR-MK-0019,2,76,1,Meja Kerja,WARN CREAM,,inventory/ams/inventoryPhoto/1710235086WhatsApp_Image_2024-03-09_at_10_13_59.jpeg,,2024-03-12 16:18:06.000,2024-03-12 16:18:06.000
-1024,FUR-MK-0020,2,76,1,Meja Kerja,Meja dan Partisi,,inventory/ams/inventoryPhoto/1710234960WhatsApp_Image_2024-03-09_at_10_13_59.jpeg,,2024-03-12 15:52:40.000,2025-11-18 09:56:18.000
-1025,FUR-MK-0021,2,76,1,Meja Cream,Warna Cream,,inventory/ams/inventoryPhoto/1602641201images_(4).jpg,,2020-10-14 09:11:08.000,2024-08-08 13:46:02.000
-1026,FUR-MK-0022,2,76,1,Meja Kerja,,,inventory/ams/inventoryPhoto/1603351241images_(4).jpg,,2023-06-14 09:11:34.000,2026-09-09 16:47:25.000
-1027,FUR-MK-0023,2,76,1,Meja Kerja (120 x 50 x 70),,,inventory/ams/inventoryPhoto/1603350925images_(4).jpg,,2026-09-07 13:21:22.000,2026-09-18 08:38:56.000
-1028,FUR-MK-0024,2,76,1,Meja Kerja,MEJA KERJA,,inventory/ams/inventoryPhoto/1603180256unnamed.jpg,,2025-03-18 14:10:37.000,2025-03-18 14:11:31.000
-1029,FUR-MK-0025,2,81,1,MEJA LIPAT,WARNA PUTIH,,inventory/ams/inventoryPhoto/1709104467WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-02-16 16:34:58.000,2024-02-28 14:14:27.000
-1030,FUR-MK-0026,2,76,1,Meja Kerja,Warna Cream MEJA TEMPEL,,inventory/ams/inventoryPhoto/1601883848images_(4).jpg,,2024-02-28 11:43:54.000,2024-02-28 11:50:27.000
-1031,FUR-MK-0027,2,82,1,Meja Kerja,Bundar,,,,2024-09-20 10:13:51.000,2024-09-20 10:13:51.000
-1032,FUR-MK-0028,2,76,1,Meja Kerja,Warna HITAM,,inventory/ams/inventoryPhoto/1726801100MEJA_KERJA_DEPT.jpeg,,2025-03-18 14:11:00.000,2025-03-18 14:11:49.000
-1033,FUR-MK-0029,2,81,1,Meja Lipat Putih,WARNA PUTIH,,inventory/ams/inventoryPhoto/1739516706MEJA_LIPAT.jpeg,,2025-03-14 08:34:28.000,2025-03-14 08:55:18.000
-1034,FUR-MK-0030,2,123,1,Meja Tamu Rotan,Bundar,,,,2025-02-14 09:01:06.000,2025-02-14 09:03:42.000
-1035,FUR-MK-0031,2,76,1,Meja Kerja,CREAM,,inventory/ams/inventoryPhoto/1726800820MEJA_KERJA.jpeg,,2025-11-18 10:01:33.000,2025-11-18 10:01:33.000
-1036,FUR-MK-0032,2,76,1,Meja Kerja,Kursi Cream,,inventory/ams/inventoryPhoto/1601608677meja_cream.jpg,,2024-08-22 15:20:28.000,2024-08-22 15:20:28.000
-1037,FUR-MK-0033,2,76,1,Meja Kerja Working space,Warna Cream,,inventory/ams/inventoryPhoto/1710233502WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-03-12 15:00:54.000,2024-03-12 15:51:42.000
-1038,FUR-MK-0034,2,82,1,Meja Meeting,Warna Cream,,inventory/ams/inventoryPhoto/1709104429WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-02-28 14:10:11.000,2024-02-28 14:13:49.000
-1039,FUR-MK-0035,2,81,1,Meja Kerja Lipat,Warna Cokelat,,,,2026-05-12 08:25:28.000,2026-05-12 08:25:46.000
-1040,FUR-MK-0036,2,123,1,Meja Meeting Oval,Warna Cokelat,,,,2026-06-07 20:44:06.000,2026-06-07 20:44:06.000
-1041,FUR-MK-0037,2,81,1,Meja Lipat Putih,Meja Lipat,,inventory/ams/inventoryPhoto/1714632557WhatsApp_Image_2024-03-09_at_10_10_44.jpeg,,2025-02-14 09:13:27.000,2025-02-14 09:13:27.000
-1042,FUR-MK-0038,2,81,1,Meja Lipat Putih,Meja Plastik Lipat warna putih,,inventory/ams/inventoryPhoto/1710229657WhatsApp_Image_2024-03-09_at_10_10_44.jpeg,,2025-02-14 10:40:34.000,2025-02-14 10:40:34.000
-1043,FUR-MK-0039,2,76,1,Meja Meeting Recon,Meja Meeting,,inventory/ams/inventoryPhoto/1726800719MEJA_KERJA.jpeg,,2024-09-20 09:51:59.000,2024-09-20 09:51:59.000
-1044,FUR-MK-0040,2,76,1,MEJA LIPAT,Meja Plastik Lipat,,inventory/ams/inventoryPhoto/1709957745WhatsApp_Image_2024-03-09_at_10_10_44.jpeg,,2024-03-09 11:15:45.000,2024-08-02 09:19:33.000
-1045,FUR-MK-0041,2,81,1,Meja Lipat Putih,Meja ukuran 200 cm x 60 cm kaki besi lipat,,inventory/ams/inventoryPhoto/1713415657WhatsApp_Image_2024-04-18_at_11_46_42.jpeg,,2024-04-18 11:47:37.000,2024-04-18 11:47:37.000
-1046,FUR-MK-0042,2,81,1,Meja Lipat Putih,Meja Lipat kaki besi ukuran 200 cm x 60 cm,,inventory/ams/inventoryPhoto/1713415760WhatsApp_Image_2024-04-18_at_11_46_42.jpeg,,2024-04-18 11:49:21.000,2024-08-23 14:15:45.000
-1047,FUR-MK-0043,2,76,1,Meja Kerja L,Custum HPL,,inventory/ams/inventoryPhoto/1713516164WhatsApp_Image_2024-04-19_at_14_25_49.jpeg,,2026-06-07 20:56:20.000,2026-06-07 20:56:20.000
-1048,FUR-MK-0044,2,76,1,Meja Kerja,meja Cojlat ukuran 120 x 60 cm Meja Ruko Mess Jogya,,inventory/ams/inventoryPhoto/1715161140WhatsApp_Image_2024-03-09_at_10_11_08.jpeg,,2025-05-19 10:31:18.000,2025-05-19 10:31:18.000
-1049,FUR-MK-0045,2,76,1,Meja Kerja,Meja Coklat Ukuran 120 cm X 60 cm Mess Ruko Jogya,,inventory/ams/inventoryPhoto/1715161272WhatsApp_Image_2024-03-09_at_10_11_08.jpeg,,2025-05-19 10:30:53.000,2025-05-19 10:31:10.000
-1050,FUR-MK-0046,2,82,1,Meja Kerja,,,inventory/ams/inventoryPhoto/1726801651MEJA_KERJA.jpeg,,2025-03-18 14:07:26.000,2026-09-03 10:23:42.000
-1051,FUR-MK-0047,2,82,1,Meja Kerja + Laci,,,inventory/ams/inventoryPhoto/1726801581MEJA_KERJA.jpeg,,2026-09-07 08:46:37.000,2026-09-07 08:46:37.000
-1052,FUR-MK-0048,2,76,1,Meja Kerja (120 x 50 x 70),ukuran : 120 x 50 x 70,,inventory/ams/inventoryPhoto/1726800524MEJA_KERJA.jpeg,,2026-09-07 13:22:39.000,2026-09-07 13:22:39.000
-1053,FUR-MK-0049,2,76,1,Meja Lipat,,,inventory/ams/inventoryPhoto/1726800520MEJA_KERJA.jpeg,,2026-06-07 21:17:23.000,2026-06-07 21:30:32.000
-1054,FUR-MK-0050,2,76,1,Meja Kerja Working Space,,,inventory/ams/inventoryPhoto/1726799764MEJA_KERJA.jpeg,,2024-09-20 09:35:58.000,2024-09-20 09:36:04.000
-1055,FUR-MK-0051,2,5,1,Meja Kerja,,,,,2024-08-05 11:49:03.000,2024-08-05 11:49:03.000
-1056,FUR-MK-0052,2,81,1,Meja Lipat,,,inventory/ams/inventoryPhoto/1726801547MEJA_KERJA.jpeg,,2025-11-18 10:19:40.000,2025-11-18 10:19:40.000
-1057,FUR-MK-0053,2,132,1,Meja Tamu Kaca,,,,,2025-11-12 13:31:32.000,2025-11-12 13:31:32.000
-1058,FUR-MK-0054,2,81,1,Meja Lipat Putih,Meja Lipat Putih,,inventory/ams/inventoryPhoto/1726830259MEJA_LIPAT.jpeg,,2025-02-14 11:06:19.000,2025-02-14 11:06:19.000
-1059,FUR-MK-0055,2,81,1,Meja Lipat Putih,,,,,2025-02-14 11:14:25.000,2025-02-14 11:14:25.000
-1060,FUR-MK-0056,2,123,1,Meja Lipat Besar,,,,,2025-03-10 10:06:11.000,2025-03-10 10:06:18.000
-1061,FUR-MK-0057,2,76,1,Meja Coklat,,,,,2025-02-14 15:20:06.000,2025-02-14 15:20:06.000
-1062,FUR-MK-0058,2,81,1,Meja Kerja Lipat,,,,,2026-05-12 08:30:31.000,2026-05-12 08:30:31.000
-1063,FUR-MK-0059,2,76,1,Meja Kecil,,,,,2025-03-14 09:00:31.000,2025-03-14 09:00:31.000
-1064,FUR-MK-0060,2,81,1,Meja Kerja Lipat,Meja Kerja Lipat 180mx 60,,,,2026-07-24 08:37:49.000,2026-07-24 08:37:49.000
-1065,FUR-MK-0061,2,81,1,Meja Kerja Lipat,Meja Lipat Ukuran 180 x 60,,,,2026-03-09 09:52:39.000,2026-07-24 08:37:23.000
-1066,FUR-MK-0062,2,81,1,Meja Kerja Lipat,Meja Lipat 180 x 60,,,,2026-03-09 09:52:19.000,2026-03-09 09:52:29.000
-1067,FUR-MK-0063,2,81,1,Meja Kerja Lipat,Meja Kerja Lipat Ukuran 180 x 60,,,,2026-07-17 08:56:05.000,2026-07-24 08:37:15.000
-1068,FUR-MK-0064,2,81,1,Meja Kerja Lipat,Meja Kerja Lipat Ukuran 180 x60,,,,2026-07-24 08:36:43.000,2026-07-24 08:36:43.000
-1069,FUR-MK-0065,2,123,1,Meja Meeting,,,,,2026-07-17 08:49:12.000,2026-07-17 08:49:12.000
-1070,FUR-MK-0066,2,76,1,Meja Kerja (120 x 60 x 70),,,,,2026-10-02 09:57:11.000,2026-10-02 10:00:12.000
+653,FUR-MK-0001,2,82,1,Meja Kerja,Warna Abu-abu,,inventory/ams/inventoryPhoto/1726801969MEJA_KERJA.jpeg,,2017-02-27 00:00:00.000,2024-09-20 10:14:24.000
+654,FUR-MK-0002,2,82,1,Meja Kerja,Warna Coklat,,,,2024-07-25 14:14:05.000,2024-07-25 14:14:05.000
+655,FUR-MK-0003,2,81,1,Meja Kerja Lipat,MEJA LIPAT PUTIH,,inventory/ams/inventoryPhoto/1601888261MEJA_LIPAT_PUTIH.jpg,,2026-02-06 09:42:05.000,2026-02-06 09:44:48.000
+656,FUR-MK-0004,2,76,1,Meja Kerja,Warna Cream,,inventory/ams/inventoryPhoto/1726801483MEJA_KERJA.jpeg,,2017-02-27 00:00:00.000,2026-05-29 10:00:03.000
+657,FUR-MK-0005,2,82,1,Meja Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/17146229445.JPG,,2018-03-15 16:23:06.777,2026-06-07 21:06:00.000
+658,FUR-MK-0006,2,76,1,Meja Kerja,Meja Ukuran 120 x 60 warna cream + Partisi,,inventory/ams/inventoryPhoto/17140985355.JPG,,2024-04-26 09:28:55.000,2024-09-20 10:03:39.000
+659,FUR-MK-0007,2,81,1,MEJA LIPAT,MEJA LIPAT PUTIH,,inventory/ams/inventoryPhoto/1601888392MEJA_LIPAT_PUTIH.jpg,,2024-07-30 13:43:53.000,2026-05-13 14:50:51.000
+660,FUR-MK-0008,2,82,1,Meja Kerja + Laci,Warna Cokelat,,,,2026-09-07 08:46:51.000,2026-09-07 08:47:34.000
+661,FUR-MK-0009,2,76,1,Meja Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1726801426MEJA_KERJA_DEPT.jpeg,,2017-02-27 00:00:00.000,2026-09-09 16:47:54.000
+662,FUR-MK-0010,2,76,1,Meja Kerja (120 x 50 x 70),Side Desk,,inventory/ams/inventoryPhoto/1726801400MEJA_KERJA_DEPT.jpeg,,2026-09-07 13:16:54.000,2026-09-07 13:20:48.000
+663,FUR-MK-0011,2,76,1,Meja Kerja,MEJA CREAM,,inventory/ams/inventoryPhoto/1603161750unnamed.jpg,,2024-07-26 14:39:31.000,2025-11-18 10:03:51.000
+664,FUR-MK-0012,2,76,1,Meja Kerja,Meja Ukuran 120 x 70 warna cream,,inventory/ams/inventoryPhoto/1714099040WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-04-26 09:37:20.000,2024-04-26 09:37:20.000
+665,FUR-MK-0013,2,76,1,Meja Kerja,Warna Cream meja L,,inventory/ams/inventoryPhoto/1714099101DSC_0053.JPG,,2024-04-26 09:38:21.000,2024-04-26 09:38:21.000
+666,FUR-MK-0014,2,76,1,Meja Kerja (125 x 75 x 75),Warna Cream,,inventory/ams/inventoryPhoto/1602735045MEJA_KERJA_PARTISI.jpg,,2026-09-18 08:44:47.000,2026-09-18 08:47:06.000
+667,FUR-MK-0015,2,76,1,Meja Kerja,WARNA CREAM HPL PANJANG 120 CM X 60 CM,,inventory/ams/inventoryPhoto/1709949555WhatsApp_Image_2024-03-09_at_08_36_09.jpeg,,2024-03-09 08:44:52.000,2025-03-12 08:51:16.000
+668,FUR-MK-0016,2,76,1,Meja Kerja,WARNA CREAM HPL,,inventory/ams/inventoryPhoto/1709948592WhatsApp_Image_2024-03-09_at_08_36_09.jpeg,,2024-03-09 08:31:19.000,2025-03-12 08:51:27.000
+669,FUR-MK-0017,2,76,1,Meja Kerja,Meja Kerja Cream,,inventory/ams/inventoryPhoto/1726801241MEJA_KERJA_DEPT.jpeg,,2023-06-14 10:07:25.000,2024-09-20 10:01:10.000
+670,FUR-MK-0018,2,76,1,Mejai Kerja,warna cream,,inventory/ams/inventoryPhoto/1602730570meja_cream.jpg,,2024-07-31 14:42:00.000,2024-07-31 14:42:00.000
+671,FUR-MK-0019,2,76,1,Meja Kerja,WARN CREAM,,inventory/ams/inventoryPhoto/1710235086WhatsApp_Image_2024-03-09_at_10_13_59.jpeg,,2024-03-12 16:18:06.000,2024-03-12 16:18:06.000
+672,FUR-MK-0020,2,76,1,Meja Kerja,Meja dan Partisi,,inventory/ams/inventoryPhoto/1710234960WhatsApp_Image_2024-03-09_at_10_13_59.jpeg,,2024-03-12 15:52:40.000,2025-11-18 09:56:18.000
+673,FUR-MK-0021,2,76,1,Meja Cream,Warna Cream,,inventory/ams/inventoryPhoto/1602641201images_(4).jpg,,2020-10-14 09:11:08.000,2024-08-08 13:46:02.000
+674,FUR-MK-0022,2,76,1,Meja Kerja,,,inventory/ams/inventoryPhoto/1603351241images_(4).jpg,,2023-06-14 09:11:34.000,2026-09-09 16:47:25.000
+675,FUR-MK-0023,2,76,1,Meja Kerja (120 x 50 x 70),,,inventory/ams/inventoryPhoto/1603350925images_(4).jpg,,2026-09-07 13:21:22.000,2026-09-18 08:38:56.000
+676,FUR-MK-0024,2,76,1,Meja Kerja,MEJA KERJA,,inventory/ams/inventoryPhoto/1603180256unnamed.jpg,,2025-03-18 14:10:37.000,2025-03-18 14:11:31.000
+677,FUR-MK-0025,2,81,1,MEJA LIPAT,WARNA PUTIH,,inventory/ams/inventoryPhoto/1709104467WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-02-16 16:34:58.000,2024-02-28 14:14:27.000
+678,FUR-MK-0026,2,76,1,Meja Kerja,Warna Cream MEJA TEMPEL,,inventory/ams/inventoryPhoto/1601883848images_(4).jpg,,2024-02-28 11:43:54.000,2024-02-28 11:50:27.000
+679,FUR-MK-0027,2,82,1,Meja Kerja,Bundar,,,,2024-09-20 10:13:51.000,2024-09-20 10:13:51.000
+680,FUR-MK-0028,2,76,1,Meja Kerja,Warna HITAM,,inventory/ams/inventoryPhoto/1726801100MEJA_KERJA_DEPT.jpeg,,2025-03-18 14:11:00.000,2025-03-18 14:11:49.000
+681,FUR-MK-0029,2,81,1,Meja Lipat Putih,WARNA PUTIH,,inventory/ams/inventoryPhoto/1739516706MEJA_LIPAT.jpeg,,2025-03-14 08:34:28.000,2025-03-14 08:55:18.000
+682,FUR-MK-0030,2,123,1,Meja Tamu Rotan,Bundar,,,,2025-02-14 09:01:06.000,2025-02-14 09:03:42.000
+683,FUR-MK-0031,2,76,1,Meja Kerja,CREAM,,inventory/ams/inventoryPhoto/1726800820MEJA_KERJA.jpeg,,2025-11-18 10:01:33.000,2025-11-18 10:01:33.000
+684,FUR-MK-0032,2,76,1,Meja Kerja,Kursi Cream,,inventory/ams/inventoryPhoto/1601608677meja_cream.jpg,,2024-08-22 15:20:28.000,2024-08-22 15:20:28.000
+685,FUR-MK-0033,2,76,1,Meja Kerja Working space,Warna Cream,,inventory/ams/inventoryPhoto/1710233502WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-03-12 15:00:54.000,2024-03-12 15:51:42.000
+686,FUR-MK-0034,2,82,1,Meja Meeting,Warna Cream,,inventory/ams/inventoryPhoto/1709104429WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-02-28 14:10:11.000,2024-02-28 14:13:49.000
+687,FUR-MK-0035,2,81,1,Meja Kerja Lipat,Warna Cokelat,,,,2026-05-12 08:25:28.000,2026-05-12 08:25:46.000
+688,FUR-MK-0036,2,123,1,Meja Meeting Oval,Warna Cokelat,,,,2026-06-07 20:44:06.000,2026-06-07 20:44:06.000
+689,FUR-MK-0037,2,81,1,Meja Lipat Putih,Meja Lipat,,inventory/ams/inventoryPhoto/1714632557WhatsApp_Image_2024-03-09_at_10_10_44.jpeg,,2025-02-14 09:13:27.000,2025-02-14 09:13:27.000
+690,FUR-MK-0038,2,81,1,Meja Lipat Putih,Meja Plastik Lipat warna putih,,inventory/ams/inventoryPhoto/1710229657WhatsApp_Image_2024-03-09_at_10_10_44.jpeg,,2025-02-14 10:40:34.000,2025-02-14 10:40:34.000
+691,FUR-MK-0039,2,76,1,Meja Meeting Recon,Meja Meeting,,inventory/ams/inventoryPhoto/1726800719MEJA_KERJA.jpeg,,2024-09-20 09:51:59.000,2024-09-20 09:51:59.000
+692,FUR-MK-0040,2,76,1,MEJA LIPAT,Meja Plastik Lipat,,inventory/ams/inventoryPhoto/1709957745WhatsApp_Image_2024-03-09_at_10_10_44.jpeg,,2024-03-09 11:15:45.000,2024-08-02 09:19:33.000
+693,FUR-MK-0041,2,81,1,Meja Lipat Putih,Meja ukuran 200 cm x 60 cm kaki besi lipat,,inventory/ams/inventoryPhoto/1713415657WhatsApp_Image_2024-04-18_at_11_46_42.jpeg,,2024-04-18 11:47:37.000,2024-04-18 11:47:37.000
+694,FUR-MK-0042,2,81,1,Meja Lipat Putih,Meja Lipat kaki besi ukuran 200 cm x 60 cm,,inventory/ams/inventoryPhoto/1713415760WhatsApp_Image_2024-04-18_at_11_46_42.jpeg,,2024-04-18 11:49:21.000,2024-08-23 14:15:45.000
+695,FUR-MK-0043,2,76,1,Meja Kerja L,Custum HPL,,inventory/ams/inventoryPhoto/1713516164WhatsApp_Image_2024-04-19_at_14_25_49.jpeg,,2026-06-07 20:56:20.000,2026-06-07 20:56:20.000
+696,FUR-MK-0044,2,76,1,Meja Kerja,meja Cojlat ukuran 120 x 60 cm Meja Ruko Mess Jogya,,inventory/ams/inventoryPhoto/1715161140WhatsApp_Image_2024-03-09_at_10_11_08.jpeg,,2025-05-19 10:31:18.000,2025-05-19 10:31:18.000
+697,FUR-MK-0045,2,76,1,Meja Kerja,Meja Coklat Ukuran 120 cm X 60 cm Mess Ruko Jogya,,inventory/ams/inventoryPhoto/1715161272WhatsApp_Image_2024-03-09_at_10_11_08.jpeg,,2025-05-19 10:30:53.000,2025-05-19 10:31:10.000
+698,FUR-MK-0046,2,82,1,Meja Kerja,,,inventory/ams/inventoryPhoto/1726801651MEJA_KERJA.jpeg,,2025-03-18 14:07:26.000,2026-09-03 10:23:42.000
+699,FUR-MK-0047,2,82,1,Meja Kerja + Laci,,,inventory/ams/inventoryPhoto/1726801581MEJA_KERJA.jpeg,,2026-09-07 08:46:37.000,2026-09-07 08:46:37.000
+700,FUR-MK-0048,2,76,1,Meja Kerja (120 x 50 x 70),ukuran : 120 x 50 x 70,,inventory/ams/inventoryPhoto/1726800524MEJA_KERJA.jpeg,,2026-09-07 13:22:39.000,2026-09-07 13:22:39.000
+701,FUR-MK-0049,2,76,1,Meja Lipat,,,inventory/ams/inventoryPhoto/1726800520MEJA_KERJA.jpeg,,2026-06-07 21:17:23.000,2026-06-07 21:30:32.000
+702,FUR-MK-0050,2,76,1,Meja Kerja Working Space,,,inventory/ams/inventoryPhoto/1726799764MEJA_KERJA.jpeg,,2024-09-20 09:35:58.000,2024-09-20 09:36:04.000
+703,FUR-MK-0051,2,5,1,Meja Kerja,,,,,2024-08-05 11:49:03.000,2024-08-05 11:49:03.000
+704,FUR-MK-0052,2,81,1,Meja Lipat,,,inventory/ams/inventoryPhoto/1726801547MEJA_KERJA.jpeg,,2025-11-18 10:19:40.000,2025-11-18 10:19:40.000
+705,FUR-MK-0053,2,132,1,Meja Tamu Kaca,,,,,2025-11-12 13:31:32.000,2025-11-12 13:31:32.000
+706,FUR-MK-0054,2,81,1,Meja Lipat Putih,Meja Lipat Putih,,inventory/ams/inventoryPhoto/1726830259MEJA_LIPAT.jpeg,,2025-02-14 11:06:19.000,2025-02-14 11:06:19.000
+707,FUR-MK-0055,2,81,1,Meja Lipat Putih,,,,,2025-02-14 11:14:25.000,2025-02-14 11:14:25.000
+708,FUR-MK-0056,2,123,1,Meja Lipat Besar,,,,,2025-03-10 10:06:11.000,2025-03-10 10:06:18.000
+709,FUR-MK-0057,2,76,1,Meja Coklat,,,,,2025-02-14 15:20:06.000,2025-02-14 15:20:06.000
+710,FUR-MK-0058,2,81,1,Meja Kerja Lipat,,,,,2026-05-12 08:30:31.000,2026-05-12 08:30:31.000
+711,FUR-MK-0059,2,76,1,Meja Kecil,,,,,2025-03-14 09:00:31.000,2025-03-14 09:00:31.000
+712,FUR-MK-0060,2,81,1,Meja Kerja Lipat,Meja Kerja Lipat 180mx 60,,,,2026-07-24 08:37:49.000,2026-07-24 08:37:49.000
+713,FUR-MK-0061,2,81,1,Meja Kerja Lipat,Meja Lipat Ukuran 180 x 60,,,,2026-03-09 09:52:39.000,2026-07-24 08:37:23.000
+714,FUR-MK-0062,2,81,1,Meja Kerja Lipat,Meja Lipat 180 x 60,,,,2026-03-09 09:52:19.000,2026-03-09 09:52:29.000
+715,FUR-MK-0063,2,81,1,Meja Kerja Lipat,Meja Kerja Lipat Ukuran 180 x 60,,,,2026-07-17 08:56:05.000,2026-07-24 08:37:15.000
+716,FUR-MK-0064,2,81,1,Meja Kerja Lipat,Meja Kerja Lipat Ukuran 180 x60,,,,2026-07-24 08:36:43.000,2026-07-24 08:36:43.000
+717,FUR-MK-0065,2,123,1,Meja Meeting,,,,,2026-07-17 08:49:12.000,2026-07-17 08:49:12.000
+718,FUR-MK-0066,2,76,1,Meja Kerja (120 x 60 x 70),,,,,2026-10-02 09:57:11.000,2026-10-02 10:00:12.000

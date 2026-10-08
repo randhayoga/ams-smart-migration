@@ -162,19 +162,19 @@
     },
     "COMP-DESK": {
       "file": "COMP-DESK.csv",
-      "row_count": 152
+      "row_count": 23
     },
     "COMP-NB": {
       "file": "COMP-NB.csv",
-      "row_count": 263
+      "row_count": 55
     },
     "COMP-SVR": {
       "file": "COMP-SVR.csv",
-      "row_count": 14
+      "row_count": 6
     },
     "COMP-WORK": {
       "file": "COMP-WORK.csv",
-      "row_count": 9
+      "row_count": 2
     },
     "ELEK-ATS": {
       "file": "ELEK-ATS.csv",
@@ -441,5 +441,5 @@
       "row_count": 6
     }
   },
-  "total_barangs": 1443
+  "total_barangs": 1091
 }

@@ -1,4 +1,4 @@
-id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
-6702,3247,00654-PERP-VGA-ICT-PTRE-10,00654-PERP-ASCC-ICT-PTRE-10,1346,PERP-VGA,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000
-6703,3975,01381-PERP-VGA-ICT-PTRE-16,01381-PERP-140016-ICT-PTR,1347,PERP-VGA,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000
-6704,3977,01382-PERP-VGA-ICT-PTRE-16,01382-PERP-140016-ICT-PTR,1347,PERP-VGA,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000
+id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at,specification
+6702,3247,00654-PERP-VGA-ICT-PTRE-10,00654-PERP-ASCC-ICT-PTRE-10,994,PERP-VGA,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000,
+6703,3975,01381-PERP-VGA-ICT-PTRE-16,01381-PERP-140016-ICT-PTR,995,PERP-VGA,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000,
+6704,3977,01382-PERP-VGA-ICT-PTRE-16,01382-PERP-140016-ICT-PTR,995,PERP-VGA,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000,

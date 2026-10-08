@@ -1,33 +1,33 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-969,FUR-LM-0001,4,123,1,Lemari Piring,Lemari Stenlis,,,,2025-02-14 14:21:04.000,2025-02-14 14:21:04.000
-970,FUR-LM-0002,4,82,1,Lemari Document,Memo no : 002/L/Rek-Eng/II/2017,,,,2024-06-06 09:28:11.000,2024-09-19 09:11:59.000
-971,FUR-LM-0003,4,82,1,Lemari Document,Lemari Coklat Tua Setengah,,,,2017-02-27 00:00:00.000,2024-08-20 13:28:07.000
-972,FUR-LM-0004,4,82,1,Lemari Document,Warna Coklat,,inventory/ams/inventoryPhoto/1726560155LEMARI_DOCUMEN.jpeg,,2024-09-17 15:02:35.000,2025-02-13 16:08:45.000
-973,FUR-LM-0005,4,76,1,Lemari Document,Lemari Tanpa Pintu,,inventory/ams/inventoryPhoto/1726560149LEMARI_DOCUMEN.jpeg,,2025-03-18 14:12:42.000,2025-03-18 14:12:42.000
-974,FUR-LM-0006,4,76,1,Lemari Pendek Document,Lemari Kaca,,inventory/ams/inventoryPhoto/1726560147LEMARI_DOCUMEN.jpeg,,2025-10-31 20:15:16.000,2025-10-31 20:15:16.000
-975,FUR-LM-0007,4,5,1,Lemari Document,Lemari Custum,,inventory/ams/inventoryPhoto/1726560137LEMARI_DOCUMEN.jpeg,,2024-09-17 15:02:17.000,2024-09-17 15:02:17.000
-976,FUR-LM-0008,4,76,1,Lemari Document,Memo no : 002/L/Rek-Eng/II/2017,,,,2024-06-06 09:26:18.000,2024-06-06 09:38:50.000
-977,FUR-LM-0009,4,76,1,Lemari Pendek Document,,,inventory/ams/inventoryPhoto/1726560143LEMARI_DOCUMEN.jpeg,,2024-08-05 10:30:28.000,2026-04-09 14:20:45.000
-978,FUR-LM-0010,4,76,1,Lemari Document,,,inventory/ams/inventoryPhoto/1726560132LEMARI_DOCUMEN.jpeg,,2017-02-27 00:00:00.000,2026-06-07 20:57:33.000
-979,FUR-LM-0011,4,76,1,LEMARI,LEMARI KACA,,inventory/ams/inventoryPhoto/1603182557lemari-arsip-uno-ust-1580-c-grey.png,,2020-10-20 15:29:17.000,2025-02-13 16:08:45.000
-980,FUR-LM-0012,4,5,1,Lemari,,,,,2024-08-05 11:32:35.000,2025-02-14 09:02:14.000
-981,FUR-LM-0013,4,76,1,Lemari Kerja,LEMARI,,inventory/ams/inventoryPhoto/1601623652Screenshot_20201002-111345_Google.jpg,,2023-06-14 09:40:36.000,2024-08-02 08:54:04.000
-982,FUR-LM-0014,4,82,1,Lemari Document,,,,,2018-03-15 16:23:06.777,2026-06-07 20:39:51.000
-983,FUR-LM-0015,4,82,1,Lemari Kerja,Coklat,,inventory/ams/inventoryPhoto/1601624707Screenshot_20201002-111345_Google.jpg,,2023-06-14 09:20:11.000,2025-02-12 11:07:37.000
-984,FUR-LM-0016,4,76,1,Lemari Pendek,,,inventory/ams/inventoryPhoto/1726560120LEMARI_DOCUMEN.jpeg,,2025-02-14 14:40:01.000,2026-06-07 21:08:55.000
-985,FUR-LM-0017,4,76,1,Lemari Document,Lemari kaca,,inventory/ams/inventoryPhoto/1726560114LEMARI_DOCUMEN.jpeg,,2024-09-17 15:01:54.000,2024-09-17 15:01:54.000
-986,FUR-LM-0018,4,82,1,Lemari Pendek Document,lemari pendek dokumen,,inventory/ams/inventoryPhoto/1737545676LEMARI_DOCUMEN.jpeg,,2025-01-22 18:34:36.000,2025-01-22 18:34:36.000
-987,FUR-LM-0019,4,5,1,Lemari,Coklat Jati dengan 4 Rak,,inventory/ams/inventoryPhoto/1727670074gerobak_etalase.jpeg,,2024-09-30 11:21:14.000,2024-09-30 11:21:14.000
-988,FUR-LM-0020,4,5,1,Lemari,Coklat Jati dengan 16 Rak,,,,2017-02-09 00:00:00.000,2018-04-14 12:14:35.000
-989,FUR-LM-0021,4,5,1,Lemari,Coklat Jati dengan 11 Rak,,,,2017-02-09 00:00:00.000,2018-04-14 12:14:47.000
-990,FUR-LM-0022,4,82,1,Lemari Pendek Document,Warna Abu2,,inventory/ams/inventoryPhoto/1712282667WhatsApp_Image_2024-04-05_at_9_02_21_AM.jpeg,,2025-01-22 18:33:49.000,2025-01-22 18:33:49.000
-991,FUR-LM-0023,4,76,1,lemari Kaca,Lemari kaca ukuran 90 x 200 cm,,inventory/ams/inventoryPhoto/1712288836WhatsApp_Image_2024-04-05_at_9_27_20_AM.jpeg,,2024-04-05 10:47:16.000,2024-04-05 10:47:16.000
-992,FUR-LM-0024,4,76,1,Lemari Kaca,,,inventory/ams/inventoryPhoto/1713518815WhatsApp_Image_2024-04-19_at_14_24_16.jpeg,,2026-09-03 10:21:17.000,2026-09-03 10:21:17.000
-993,FUR-LM-0025,4,122,1,Lemari Plastik,Lemari 3 susun,,inventory/ams/inventoryPhoto/1715167401WhatsApp_Image_2024-05-08_at_18_10_18.jpeg,,2025-05-19 10:28:30.000,2025-05-19 10:28:30.000
-994,FUR-LM-0026,4,76,1,LEMARI,,,,,2024-08-02 11:32:34.000,2025-03-05 15:27:32.000
-995,FUR-LM-0027,4,82,1,LEMARI,,,,,2024-08-02 11:32:11.000,2024-08-02 11:32:19.000
-996,FUR-LM-0028,4,76,1,LEMARI KECIL,,,,,2024-08-02 11:18:19.000,2024-08-02 14:11:01.000
-997,FUR-LM-0029,4,82,1,Lemari Pendek Document,,,inventory/ams/inventoryPhoto/1726560001LEMARI_DOCUMEN.jpeg,,2025-02-13 09:04:49.000,2026-06-07 20:52:27.000
-998,FUR-LM-0030,4,136,1,LEMARI KECIL,,,,,2024-08-05 10:35:35.000,2024-08-05 10:35:35.000
-999,FUR-LM-0031,4,82,1,Lemari Pendek,,,,,2024-08-05 13:59:06.000,2024-08-05 13:59:06.000
-1000,FUR-LM-0032,4,5,1,LEMARI KECIL,,,,,2024-08-05 11:56:56.000,2024-08-05 11:56:56.000
+617,FUR-LM-0001,4,123,1,Lemari Piring,Lemari Stenlis,,,,2025-02-14 14:21:04.000,2025-02-14 14:21:04.000
+618,FUR-LM-0002,4,82,1,Lemari Document,Memo no : 002/L/Rek-Eng/II/2017,,,,2024-06-06 09:28:11.000,2024-09-19 09:11:59.000
+619,FUR-LM-0003,4,82,1,Lemari Document,Lemari Coklat Tua Setengah,,,,2017-02-27 00:00:00.000,2024-08-20 13:28:07.000
+620,FUR-LM-0004,4,82,1,Lemari Document,Warna Coklat,,inventory/ams/inventoryPhoto/1726560155LEMARI_DOCUMEN.jpeg,,2024-09-17 15:02:35.000,2025-02-13 16:08:45.000
+621,FUR-LM-0005,4,76,1,Lemari Document,Lemari Tanpa Pintu,,inventory/ams/inventoryPhoto/1726560149LEMARI_DOCUMEN.jpeg,,2025-03-18 14:12:42.000,2025-03-18 14:12:42.000
+622,FUR-LM-0006,4,76,1,Lemari Pendek Document,Lemari Kaca,,inventory/ams/inventoryPhoto/1726560147LEMARI_DOCUMEN.jpeg,,2025-10-31 20:15:16.000,2025-10-31 20:15:16.000
+623,FUR-LM-0007,4,5,1,Lemari Document,Lemari Custum,,inventory/ams/inventoryPhoto/1726560137LEMARI_DOCUMEN.jpeg,,2024-09-17 15:02:17.000,2024-09-17 15:02:17.000
+624,FUR-LM-0008,4,76,1,Lemari Document,Memo no : 002/L/Rek-Eng/II/2017,,,,2024-06-06 09:26:18.000,2024-06-06 09:38:50.000
+625,FUR-LM-0009,4,76,1,Lemari Pendek Document,,,inventory/ams/inventoryPhoto/1726560143LEMARI_DOCUMEN.jpeg,,2024-08-05 10:30:28.000,2026-04-09 14:20:45.000
+626,FUR-LM-0010,4,76,1,Lemari Document,,,inventory/ams/inventoryPhoto/1726560132LEMARI_DOCUMEN.jpeg,,2017-02-27 00:00:00.000,2026-06-07 20:57:33.000
+627,FUR-LM-0011,4,76,1,LEMARI,LEMARI KACA,,inventory/ams/inventoryPhoto/1603182557lemari-arsip-uno-ust-1580-c-grey.png,,2020-10-20 15:29:17.000,2025-02-13 16:08:45.000
+628,FUR-LM-0012,4,5,1,Lemari,,,,,2024-08-05 11:32:35.000,2025-02-14 09:02:14.000
+629,FUR-LM-0013,4,76,1,Lemari Kerja,LEMARI,,inventory/ams/inventoryPhoto/1601623652Screenshot_20201002-111345_Google.jpg,,2023-06-14 09:40:36.000,2024-08-02 08:54:04.000
+630,FUR-LM-0014,4,82,1,Lemari Document,,,,,2018-03-15 16:23:06.777,2026-06-07 20:39:51.000
+631,FUR-LM-0015,4,82,1,Lemari Kerja,Coklat,,inventory/ams/inventoryPhoto/1601624707Screenshot_20201002-111345_Google.jpg,,2023-06-14 09:20:11.000,2025-02-12 11:07:37.000
+632,FUR-LM-0016,4,76,1,Lemari Pendek,,,inventory/ams/inventoryPhoto/1726560120LEMARI_DOCUMEN.jpeg,,2025-02-14 14:40:01.000,2026-06-07 21:08:55.000
+633,FUR-LM-0017,4,76,1,Lemari Document,Lemari kaca,,inventory/ams/inventoryPhoto/1726560114LEMARI_DOCUMEN.jpeg,,2024-09-17 15:01:54.000,2024-09-17 15:01:54.000
+634,FUR-LM-0018,4,82,1,Lemari Pendek Document,lemari pendek dokumen,,inventory/ams/inventoryPhoto/1737545676LEMARI_DOCUMEN.jpeg,,2025-01-22 18:34:36.000,2025-01-22 18:34:36.000
+635,FUR-LM-0019,4,5,1,Lemari,Coklat Jati dengan 4 Rak,,inventory/ams/inventoryPhoto/1727670074gerobak_etalase.jpeg,,2024-09-30 11:21:14.000,2024-09-30 11:21:14.000
+636,FUR-LM-0020,4,5,1,Lemari,Coklat Jati dengan 16 Rak,,,,2017-02-09 00:00:00.000,2018-04-14 12:14:35.000
+637,FUR-LM-0021,4,5,1,Lemari,Coklat Jati dengan 11 Rak,,,,2017-02-09 00:00:00.000,2018-04-14 12:14:47.000
+638,FUR-LM-0022,4,82,1,Lemari Pendek Document,Warna Abu2,,inventory/ams/inventoryPhoto/1712282667WhatsApp_Image_2024-04-05_at_9_02_21_AM.jpeg,,2025-01-22 18:33:49.000,2025-01-22 18:33:49.000
+639,FUR-LM-0023,4,76,1,lemari Kaca,Lemari kaca ukuran 90 x 200 cm,,inventory/ams/inventoryPhoto/1712288836WhatsApp_Image_2024-04-05_at_9_27_20_AM.jpeg,,2024-04-05 10:47:16.000,2024-04-05 10:47:16.000
+640,FUR-LM-0024,4,76,1,Lemari Kaca,,,inventory/ams/inventoryPhoto/1713518815WhatsApp_Image_2024-04-19_at_14_24_16.jpeg,,2026-09-03 10:21:17.000,2026-09-03 10:21:17.000
+641,FUR-LM-0025,4,122,1,Lemari Plastik,Lemari 3 susun,,inventory/ams/inventoryPhoto/1715167401WhatsApp_Image_2024-05-08_at_18_10_18.jpeg,,2025-05-19 10:28:30.000,2025-05-19 10:28:30.000
+642,FUR-LM-0026,4,76,1,LEMARI,,,,,2024-08-02 11:32:34.000,2025-03-05 15:27:32.000
+643,FUR-LM-0027,4,82,1,LEMARI,,,,,2024-08-02 11:32:11.000,2024-08-02 11:32:19.000
+644,FUR-LM-0028,4,76,1,LEMARI KECIL,,,,,2024-08-02 11:18:19.000,2024-08-02 14:11:01.000
+645,FUR-LM-0029,4,82,1,Lemari Pendek Document,,,inventory/ams/inventoryPhoto/1726560001LEMARI_DOCUMEN.jpeg,,2025-02-13 09:04:49.000,2026-06-07 20:52:27.000
+646,FUR-LM-0030,4,136,1,LEMARI KECIL,,,,,2024-08-05 10:35:35.000,2024-08-05 10:35:35.000
+647,FUR-LM-0031,4,82,1,Lemari Pendek,,,,,2024-08-05 13:59:06.000,2024-08-05 13:59:06.000
+648,FUR-LM-0032,4,5,1,LEMARI KECIL,,,,,2024-08-05 11:56:56.000,2024-08-05 11:56:56.000

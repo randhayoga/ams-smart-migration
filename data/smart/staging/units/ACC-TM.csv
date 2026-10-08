@@ -1,2 +1,2 @@
-id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at
-532,10512,04590-ACC-TM-CFS-PTRE-24,04590-ACC-TM-CFS-PTRE-24,95,ACC-TM,183,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1726628536TENIS_MEJA.jpeg,inventory/ams/assets/uploads/assetsre/ap/1726628536TENIS_MEJA.jpeg,LT,Aset,Corporate,,1,2025-02-07 13:54:02.000,2025-02-07 13:54:02.000
+id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at,specification
+532,10512,04590-ACC-TM-CFS-PTRE-24,04590-ACC-TM-CFS-PTRE-24,95,ACC-TM,183,Tidak Aktif,Bagus,0.0,inventory/ams/inventoryPhoto/1726628536TENIS_MEJA.jpeg,inventory/ams/assets/uploads/assetsre/ap/1726628536TENIS_MEJA.jpeg,LT,Aset,Corporate,,1,2025-02-07 13:54:02.000,2025-02-07 13:54:02.000,

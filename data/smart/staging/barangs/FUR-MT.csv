@@ -1,6 +1,6 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-1071,FUR-MT-0001,8,76,1,Meja Tamu,Meja Kotak kecil,,inventory/ams/inventoryPhoto/1713518165WhatsApp_Image_2024-04-19_at_14_28_13.jpeg,,2026-09-18 08:41:33.000,2026-09-18 08:41:33.000
-1072,FUR-MT-0002,8,77,1,Meja Tamu Kecil,,,inventory/ams/inventoryPhoto/1726801658MEJA_KERJA.jpeg,,2025-11-12 13:33:36.000,2025-11-12 13:33:36.000
-1073,FUR-MT-0003,8,123,1,Meja Tamu Rotan,,,inventory/ams/inventoryPhoto/1726798939MEJA_TAMU_ROTAN.jpeg,,2025-11-12 13:33:20.000,2025-11-12 13:33:20.000
-1074,FUR-MT-0004,8,132,1,Meja Tamu Kaca,,,,,2025-11-12 13:32:25.000,2025-11-12 13:32:25.000
-1075,FUR-MT-0005,8,123,1,Meja Tamu Besar,,,,,2025-11-12 13:31:48.000,2025-11-12 13:32:07.000
+719,FUR-MT-0001,8,76,1,Meja Tamu,Meja Kotak kecil,,inventory/ams/inventoryPhoto/1713518165WhatsApp_Image_2024-04-19_at_14_28_13.jpeg,,2026-09-18 08:41:33.000,2026-09-18 08:41:33.000
+720,FUR-MT-0002,8,77,1,Meja Tamu Kecil,,,inventory/ams/inventoryPhoto/1726801658MEJA_KERJA.jpeg,,2025-11-12 13:33:36.000,2025-11-12 13:33:36.000
+721,FUR-MT-0003,8,123,1,Meja Tamu Rotan,,,inventory/ams/inventoryPhoto/1726798939MEJA_TAMU_ROTAN.jpeg,,2025-11-12 13:33:20.000,2025-11-12 13:33:20.000
+722,FUR-MT-0004,8,132,1,Meja Tamu Kaca,,,,,2025-11-12 13:32:25.000,2025-11-12 13:32:25.000
+723,FUR-MT-0005,8,123,1,Meja Tamu Besar,,,,,2025-11-12 13:31:48.000,2025-11-12 13:32:07.000
