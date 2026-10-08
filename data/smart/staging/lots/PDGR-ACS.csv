@@ -1,4 +1,4 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-616,LOT-0001-26-PDGR-ACS-0001,616,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/170927809841_B.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
-617,LOT-0001-26-PDGR-ACS-0002,617,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1738816746AC_STANDING.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
-618,LOT-0001-26-PDGR-ACS-0003,618,1,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+473,LOT-0001-26-PDGR-ACS-0001,473,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/170927809841_B.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+474,LOT-0001-26-PDGR-ACS-0002,474,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1738816746AC_STANDING.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+475,LOT-0001-26-PDGR-ACS-0003,475,1,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000

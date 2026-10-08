@@ -1,5 +1,5 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-612,PDGR-ACP-0001,107,87,1,AC Fortable,1 PK,,inventory/ams/inventoryPhoto/1603685416AC_AUX_FORTABLE.jpg,,2024-07-26 16:27:58.000,2024-07-26 16:27:58.000
-613,PDGR-ACP-0002,107,87,1,Ac Portable,Ac Portable,,,,2023-06-14 14:05:55.000,2024-07-29 11:42:54.000
-614,PDGR-ACP-0003,107,87,1,AC Fortable,,,inventory/ams/inventoryPhoto/1726559591AC_FORTABLE_AUX.jpeg,,2025-05-26 18:39:35.000,2025-05-26 18:39:35.000
-615,PDGR-ACP-0004,107,140,1,AC Fortable,,,,,2025-05-26 18:41:21.000,2025-05-26 18:41:21.000
+469,PDGR-ACP-0001,107,87,1,AC Fortable,1 PK,,inventory/ams/inventoryPhoto/1603685416AC_AUX_FORTABLE.jpg,,2024-07-26 16:27:58.000,2024-07-26 16:27:58.000
+470,PDGR-ACP-0002,107,87,1,Ac Portable,Ac Portable,,,,2023-06-14 14:05:55.000,2024-07-29 11:42:54.000
+471,PDGR-ACP-0003,107,87,1,AC Fortable,,,inventory/ams/inventoryPhoto/1726559591AC_FORTABLE_AUX.jpeg,,2025-05-26 18:39:35.000,2025-05-26 18:39:35.000
+472,PDGR-ACP-0004,107,140,1,AC Fortable,,,,,2025-05-26 18:41:21.000,2025-05-26 18:41:21.000

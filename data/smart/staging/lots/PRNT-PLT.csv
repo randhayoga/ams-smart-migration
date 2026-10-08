@@ -1,3 +1,3 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-819,LOT-0001-26-PRNT-PLT-0001,819,2,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
-820,LOT-0001-26-PRNT-PLT-0002,820,2,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+676,LOT-0001-26-PRNT-PLT-0001,676,2,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+677,LOT-0001-26-PRNT-PLT-0002,677,2,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000

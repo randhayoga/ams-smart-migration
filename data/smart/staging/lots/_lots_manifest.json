@@ -254,7 +254,7 @@
     },
     "FUR-KK": {
       "file": "FUR-KK.csv",
-      "row_count": 108
+      "row_count": 36
     },
     "FUR-KP": {
       "file": "FUR-KP.csv",
@@ -262,23 +262,23 @@
     },
     "FUR-KT": {
       "file": "FUR-KT.csv",
-      "row_count": 14
+      "row_count": 7
     },
     "FUR-LC": {
       "file": "FUR-LC.csv",
-      "row_count": 21
+      "row_count": 10
     },
     "FUR-LM": {
       "file": "FUR-LM.csv",
-      "row_count": 32
+      "row_count": 16
     },
     "FUR-MB": {
       "file": "FUR-MB.csv",
-      "row_count": 4
+      "row_count": 3
     },
     "FUR-MK": {
       "file": "FUR-MK.csv",
-      "row_count": 66
+      "row_count": 30
     },
     "FUR-MT": {
       "file": "FUR-MT.csv",
@@ -441,5 +441,5 @@
       "row_count": 6
     }
   },
-  "total_lots": 888
+  "total_lots": 745
 }

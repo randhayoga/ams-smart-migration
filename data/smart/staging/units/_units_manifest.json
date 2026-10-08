@@ -266,7 +266,7 @@
     },
     "FUR-LC": {
       "file": "FUR-LC.csv",
-      "row_count": 583
+      "row_count": 582
     },
     "FUR-LM": {
       "file": "FUR-LM.csv",
@@ -441,5 +441,5 @@
       "row_count": 115
     }
   },
-  "total_units": 6941
+  "total_units": 6940
 }

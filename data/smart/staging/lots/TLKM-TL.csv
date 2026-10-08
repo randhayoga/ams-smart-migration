@@ -1,7 +1,7 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-883,LOT-0001-26-TLKM-TL-0001,883,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1726624081telepon_panasonic_hitam.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
-884,LOT-0001-26-TLKM-TL-0002,884,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1726624086telepon_panasonic_hitam.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
-885,LOT-0001-26-TLKM-TL-0003,885,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1726624072telepon_panasonic_hitam.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
-886,LOT-0001-26-TLKM-TL-0004,886,1,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
-887,LOT-0001-26-TLKM-TL-0005,887,1,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
-888,LOT-0001-26-TLKM-TL-0006,888,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1712282839WhatsApp_Image_2024-04-05_at_8_58_42_AM.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+740,LOT-0001-26-TLKM-TL-0001,740,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1726624081telepon_panasonic_hitam.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+741,LOT-0001-26-TLKM-TL-0002,741,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1726624086telepon_panasonic_hitam.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+742,LOT-0001-26-TLKM-TL-0003,742,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1726624072telepon_panasonic_hitam.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+743,LOT-0001-26-TLKM-TL-0004,743,1,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+744,LOT-0001-26-TLKM-TL-0005,744,1,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+745,LOT-0001-26-TLKM-TL-0006,745,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1712282839WhatsApp_Image_2024-04-05_at_8_58_42_AM.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000

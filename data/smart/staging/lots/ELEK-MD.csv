@@ -1,2 +1,2 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-220,LOT-0001-26-ELEK-MD-0001,220,1,,,,,,,2026-10-08 11:56:03.000,,inventory/ams/inventoryPhoto/1730429310FOTO_MULTIGAS_DETECTOR.jpeg,,,2026-10-08 11:56:03.000,2026-10-08 11:56:03.000
+220,LOT-0001-26-ELEK-MD-0001,220,1,,,,,,,2026-10-08 14:11:00.000,,inventory/ams/inventoryPhoto/1730429310FOTO_MULTIGAS_DETECTOR.jpeg,,,2026-10-08 14:11:00.000,2026-10-08 14:11:00.000
