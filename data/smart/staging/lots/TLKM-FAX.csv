@@ -1,3 +1,3 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-675,LOT-0001-26-TLKM-FAX-0001,675,2,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
-676,LOT-0001-26-TLKM-FAX-0002,676,2,,,,,,,2026-10-08 10:50:07.000,,,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+658,LOT-0001-26-TLKM-FAX-0001,658,1,,,,,,,2026-10-08 20:00:22.000,,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
+659,LOT-0001-26-TLKM-FAX-0002,659,1,,,,,,,2026-10-08 20:00:22.000,,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000

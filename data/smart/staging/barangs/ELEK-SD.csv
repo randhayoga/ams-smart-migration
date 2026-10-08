@@ -1,6 +1,6 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-227,ELEK-SD-0001,97,107,1,HC-206A,Supply Voltage : DC 24V Standby Current : 60 A Alarm Current 60 mA,,inventory/ams/inventoryPhoto/1738814488SMOKE_DETECTOR.jpeg,,2024-04-01 11:18:16.000,2026-07-31 10:48:09.000
-228,ELEK-SD-0002,97,107,1,HC-206E/E-R,,,inventory/ams/inventoryPhoto/1772761081Smoke_Detector.jpeg,,2026-03-09 13:20:07.000,2026-09-24 15:21:27.000
-229,ELEK-SD-0003,97,107,1,HC-202D,,,inventory/ams/inventoryPhoto/1711946322WhatsApp_Image_2024-03-28_at_10_18_55_AM.jpeg,,2026-01-20 14:59:28.000,2026-03-06 08:39:07.000
-230,ELEK-SD-0004,97,107,1,FST-718,,,inventory/ams/inventoryPhoto/1772761135Smoke_Detector.jpeg,,2026-03-06 08:38:37.000,2026-03-06 08:38:55.000
-231,ELEK-SD-0005,97,107,1,Smoke Detector (Tipe Lainnya),,,inventory/ams/inventoryPhoto/1726559854SMOKE_DETECTOR.jpeg,,2025-02-06 10:51:41.000,2026-07-31 10:47:23.000
+228,ELEK-SD-0001,97,107,1,HC-206A,Supply Voltage : DC 24V Standby Current : 60 A Alarm Current 60 mA,,inventory/ams/inventoryPhoto/1738814488SMOKE_DETECTOR.jpeg,,2024-04-01 11:18:16.000,2026-07-31 10:48:09.000
+229,ELEK-SD-0002,97,107,1,HC-206E/E-R,,,inventory/ams/inventoryPhoto/1772761081Smoke_Detector.jpeg,,2026-03-09 13:20:07.000,2026-09-24 15:21:27.000
+230,ELEK-SD-0003,97,107,1,HC-202D,,,inventory/ams/inventoryPhoto/1711946322WhatsApp_Image_2024-03-28_at_10_18_55_AM.jpeg,,2026-01-20 14:59:28.000,2026-03-06 08:39:07.000
+231,ELEK-SD-0004,97,107,1,FST-718,,,inventory/ams/inventoryPhoto/1772761135Smoke_Detector.jpeg,,2026-03-06 08:38:37.000,2026-03-06 08:38:55.000
+232,ELEK-SD-0005,97,107,1,Smoke Detector (Tipe Lainnya),,,inventory/ams/inventoryPhoto/1726559854SMOKE_DETECTOR.jpeg,,2025-02-06 10:51:41.000,2026-07-31 10:47:23.000

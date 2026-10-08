@@ -1,5 +1,5 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-75,LOT-0001-26-ACC-POT-0001,75,1,,,,,,,2026-10-08 17:51:30.000,,inventory/ams/inventoryPhoto/1726715288POT_TANAMAN.jpeg,,,2026-10-08 17:51:30.000,2026-10-08 17:51:30.000
-76,LOT-0001-26-ACC-POT-0002,76,1,,,,,,,2026-10-08 17:51:30.000,,inventory/ams/inventoryPhoto/1726715293POT_TANAMAN.jpeg,,,2026-10-08 17:51:30.000,2026-10-08 17:51:30.000
-77,LOT-0001-26-ACC-POT-0003,77,1,,,,,,,2026-10-08 17:51:30.000,,inventory/ams/inventoryPhoto/1727670061gerobak_etalase.jpeg,,,2026-10-08 17:51:30.000,2026-10-08 17:51:30.000
-78,LOT-0001-26-ACC-POT-0004,78,1,,,,,,,2026-10-08 17:51:30.000,,inventory/ams/inventoryPhoto/1726715036POT_TANAMAN.jpeg,,,2026-10-08 17:51:30.000,2026-10-08 17:51:30.000
+75,LOT-0001-26-ACC-POT-0001,75,1,,,,,,,2026-10-08 19:59:11.000,,inventory/ams/inventoryPhoto/1726715288POT_TANAMAN.jpeg,,,2026-10-08 19:59:11.000,2026-10-08 19:59:11.000
+76,LOT-0001-26-ACC-POT-0002,76,1,,,,,,,2026-10-08 19:59:11.000,,inventory/ams/inventoryPhoto/1726715293POT_TANAMAN.jpeg,,,2026-10-08 19:59:11.000,2026-10-08 19:59:11.000
+77,LOT-0001-26-ACC-POT-0003,77,1,,,,,,,2026-10-08 19:59:11.000,,inventory/ams/inventoryPhoto/1727670061gerobak_etalase.jpeg,,,2026-10-08 19:59:11.000,2026-10-08 19:59:11.000
+78,LOT-0001-26-ACC-POT-0004,78,1,,,,,,,2026-10-08 19:59:11.000,,inventory/ams/inventoryPhoto/1726715036POT_TANAMAN.jpeg,,,2026-10-08 19:59:11.000,2026-10-08 19:59:11.000

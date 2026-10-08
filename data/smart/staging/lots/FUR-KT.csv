@@ -1,8 +1,8 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-307,LOT-0001-26-FUR-KT-0001,307,1,,,,,,,2026-10-08 17:52:20.000,,inventory/ams/inventoryPhoto/1726714868SOFA.jpeg,,,2026-10-08 17:52:20.000,2026-10-08 17:52:20.000
-308,LOT-0001-26-FUR-KT-0002,308,1,,,,,,,2026-10-08 17:52:20.000,,inventory/ams/inventoryPhoto/1726714945SOFA.jpeg,,,2026-10-08 17:52:20.000,2026-10-08 17:52:20.000
-309,LOT-0001-26-FUR-KT-0003,309,1,,,,,,,2026-10-08 17:52:20.000,,inventory/ams/inventoryPhoto/1710227027WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,,2026-10-08 17:52:20.000,2026-10-08 17:52:20.000
-310,LOT-0001-26-FUR-KT-0004,310,1,,,,,,,2026-10-08 17:52:20.000,,inventory/ams/inventoryPhoto/1710227350WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,,2026-10-08 17:52:20.000,2026-10-08 17:52:20.000
-311,LOT-0001-26-FUR-KT-0005,311,1,,,,,,,2026-10-08 17:52:20.000,,inventory/ams/inventoryPhoto/1713516650WhatsApp_Image_2024-04-19_at_14_28_34.jpeg,,,2026-10-08 17:52:20.000,2026-10-08 17:52:20.000
-312,LOT-0001-26-FUR-KT-0006,312,1,,,,,,,2026-10-08 17:52:20.000,,inventory/ams/inventoryPhoto/1726798844kursi_ROTAN.jpeg,,,2026-10-08 17:52:20.000,2026-10-08 17:52:20.000
-313,LOT-0001-26-FUR-KT-0007,313,1,,,,,,,2026-10-08 17:52:20.000,,inventory/ams/inventoryPhoto/1752204680WhatsApp_Image_2025-07-11_at_10_29_07.jpeg,,,2026-10-08 17:52:20.000,2026-10-08 17:52:20.000
+308,LOT-0001-26-FUR-KT-0001,308,1,,,,,,,2026-10-08 19:59:59.000,,inventory/ams/inventoryPhoto/1726714868SOFA.jpeg,,,2026-10-08 19:59:59.000,2026-10-08 19:59:59.000
+309,LOT-0001-26-FUR-KT-0002,309,1,,,,,,,2026-10-08 19:59:59.000,,inventory/ams/inventoryPhoto/1726714945SOFA.jpeg,,,2026-10-08 19:59:59.000,2026-10-08 19:59:59.000
+310,LOT-0001-26-FUR-KT-0003,310,1,,,,,,,2026-10-08 19:59:59.000,,inventory/ams/inventoryPhoto/1710227027WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,,2026-10-08 19:59:59.000,2026-10-08 19:59:59.000
+311,LOT-0001-26-FUR-KT-0004,311,1,,,,,,,2026-10-08 19:59:59.000,,inventory/ams/inventoryPhoto/1710227350WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,,2026-10-08 19:59:59.000,2026-10-08 19:59:59.000
+312,LOT-0001-26-FUR-KT-0005,312,1,,,,,,,2026-10-08 19:59:59.000,,inventory/ams/inventoryPhoto/1713516650WhatsApp_Image_2024-04-19_at_14_28_34.jpeg,,,2026-10-08 19:59:59.000,2026-10-08 19:59:59.000
+313,LOT-0001-26-FUR-KT-0006,313,1,,,,,,,2026-10-08 19:59:59.000,,inventory/ams/inventoryPhoto/1726798844kursi_ROTAN.jpeg,,,2026-10-08 19:59:59.000,2026-10-08 19:59:59.000
+314,LOT-0001-26-FUR-KT-0007,314,1,,,,,,,2026-10-08 19:59:59.000,,inventory/ams/inventoryPhoto/1752204680WhatsApp_Image_2025-07-11_at_10_29_07.jpeg,,,2026-10-08 19:59:59.000,2026-10-08 19:59:59.000

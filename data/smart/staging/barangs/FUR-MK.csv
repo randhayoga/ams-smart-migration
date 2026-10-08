@@ -1,31 +1,31 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-343,FUR-MK-0001,2,5,1,Meja Kerja,,,,,2024-08-05 11:49:03.000,2024-08-05 11:49:03.000
-344,FUR-MK-0002,2,76,1,Meja Kecil,,,,,2025-03-14 09:00:31.000,2025-03-14 09:00:31.000
-345,FUR-MK-0003,2,76,1,Meja Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1726801426MEJA_KERJA_DEPT.jpeg,,2017-02-27 00:00:00.000,2026-09-09 16:47:54.000
-346,FUR-MK-0004,2,76,1,Meja Kerja,Warna Cream,,inventory/ams/inventoryPhoto/1726801483MEJA_KERJA.jpeg,,2017-02-27 00:00:00.000,2026-05-29 10:00:03.000
-347,FUR-MK-0005,2,76,1,Meja Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1726801100MEJA_KERJA_DEPT.jpeg,,2025-03-18 14:11:00.000,2025-03-18 14:11:49.000
-348,FUR-MK-0006,2,76,1,Meja Kerja,Warna Lainnya,,inventory/ams/inventoryPhoto/1603351241images_(4).jpg,,2023-06-14 09:11:34.000,2026-09-09 16:47:25.000
-349,FUR-MK-0007,2,76,1,Meja Kerja (120 x 60 x 70),,,,,2026-10-02 09:57:11.000,2026-10-02 10:00:12.000
-350,FUR-MK-0008,2,76,1,Meja Kerja (125 x 75 x 75),Warna Cream,,inventory/ams/inventoryPhoto/1602735045MEJA_KERJA_PARTISI.jpg,,2026-09-18 08:44:47.000,2026-09-18 08:47:06.000
-351,FUR-MK-0009,2,76,1,Meja Kerja + Partisi,Warna Cream,,inventory/ams/inventoryPhoto/17140985355.JPG,,2024-03-12 15:52:40.000,2025-11-18 09:56:18.000
-352,FUR-MK-0010,2,76,1,Meja Kerja L,,,inventory/ams/inventoryPhoto/1714099101DSC_0053.JPG,,2024-04-26 09:38:21.000,2026-06-07 20:56:20.000
-353,FUR-MK-0011,2,76,1,Meja Kerja Side Desk (120 x 50 x 70),,,inventory/ams/inventoryPhoto/1726801400MEJA_KERJA_DEPT.jpeg,,2026-09-07 13:16:54.000,2026-09-18 08:38:56.000
-354,FUR-MK-0012,2,76,1,Meja Kerja Tempel,Warna Cream,,inventory/ams/inventoryPhoto/1601883848images_(4).jpg,,2024-02-28 11:43:54.000,2024-02-28 11:50:27.000
-355,FUR-MK-0013,2,76,1,Meja Kerja Working Space,Warna Cream,,inventory/ams/inventoryPhoto/1710233502WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-03-12 15:00:54.000,2024-09-20 09:36:04.000
-356,FUR-MK-0014,2,76,1,Meja Lipat,,,inventory/ams/inventoryPhoto/1709957745WhatsApp_Image_2024-03-09_at_10_10_44.jpeg,,2024-03-09 11:15:45.000,2026-06-07 21:30:32.000
-357,FUR-MK-0015,2,76,1,Meja Meeting Recon,,,inventory/ams/inventoryPhoto/1726800719MEJA_KERJA.jpeg,,2024-09-20 09:51:59.000,2024-09-20 09:51:59.000
-358,FUR-MK-0016,2,81,1,Meja Kerja Lipat,Warna Cokelat,,,,2026-05-12 08:25:28.000,2026-05-12 08:25:46.000
-359,FUR-MK-0017,2,81,1,Meja Kerja Lipat,Warna Putih,,inventory/ams/inventoryPhoto/1601888392MEJA_LIPAT_PUTIH.jpg,,2024-02-16 16:34:58.000,2026-05-13 14:50:51.000
-360,FUR-MK-0018,2,81,1,Meja Kerja Lipat (180 x 60),,,,,2026-03-09 09:52:19.000,2026-07-24 08:37:49.000
-361,FUR-MK-0019,2,81,1,Meja Kerja Lipat (200 x 60),Kaki Besi Warna Putih,,inventory/ams/inventoryPhoto/1713415657WhatsApp_Image_2024-04-18_at_11_46_42.jpeg,,2024-04-18 11:47:37.000,2024-08-23 14:15:45.000
-362,FUR-MK-0020,2,82,1,Meja Kerja,Warna Abu-Abu,,inventory/ams/inventoryPhoto/1726801969MEJA_KERJA.jpeg,,2017-02-27 00:00:00.000,2024-09-20 10:14:24.000
-363,FUR-MK-0021,2,82,1,Meja Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/17146229445.JPG,,2018-03-15 16:23:06.777,2026-06-07 21:06:00.000
-364,FUR-MK-0022,2,82,1,Meja Kerja,Warna Lainnya,,inventory/ams/inventoryPhoto/1726801651MEJA_KERJA.jpeg,,2025-03-18 14:07:26.000,2026-09-03 10:23:42.000
-365,FUR-MK-0023,2,82,1,Meja Kerja + Laci,Warna Cokelat,,inventory/ams/inventoryPhoto/1726801581MEJA_KERJA.jpeg,,2026-09-07 08:46:37.000,2026-09-07 08:47:34.000
-366,FUR-MK-0024,2,82,1,Meja Kerja Bundar,,,,,2024-09-20 10:13:51.000,2024-09-20 10:13:51.000
-367,FUR-MK-0025,2,82,1,Meja Meeting,Warna Cream,,inventory/ams/inventoryPhoto/1709104429WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-02-28 14:10:11.000,2024-02-28 14:13:49.000
-368,FUR-MK-0026,2,123,1,Meja Lipat Besar,,,,,2025-03-10 10:06:11.000,2025-03-10 10:06:18.000
-369,FUR-MK-0027,2,123,1,Meja Meeting,,,,,2026-07-17 08:49:12.000,2026-07-17 08:49:12.000
-370,FUR-MK-0028,2,123,1,Meja Meeting Oval,Warna Cokelat,,,,2026-06-07 20:44:06.000,2026-06-07 20:44:06.000
-371,FUR-MK-0029,2,123,1,Meja Tamu Rotan,Bundar,,,,2025-02-14 09:01:06.000,2025-02-14 09:03:42.000
-372,FUR-MK-0030,2,132,1,Meja Tamu Kaca,,,,,2025-11-12 13:31:32.000,2025-11-12 13:31:32.000
+344,FUR-MK-0001,2,5,1,Meja Kerja,,,,,2024-08-05 11:49:03.000,2024-08-05 11:49:03.000
+345,FUR-MK-0002,2,76,1,Meja Kecil,,,,,2025-03-14 09:00:31.000,2025-03-14 09:00:31.000
+346,FUR-MK-0003,2,76,1,Meja Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/1726801426MEJA_KERJA_DEPT.jpeg,,2017-02-27 00:00:00.000,2026-09-09 16:47:54.000
+347,FUR-MK-0004,2,76,1,Meja Kerja,Warna Cream,,inventory/ams/inventoryPhoto/1726801483MEJA_KERJA.jpeg,,2017-02-27 00:00:00.000,2026-05-29 10:00:03.000
+348,FUR-MK-0005,2,76,1,Meja Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1726801100MEJA_KERJA_DEPT.jpeg,,2025-03-18 14:11:00.000,2025-03-18 14:11:49.000
+349,FUR-MK-0006,2,76,1,Meja Kerja,Warna Lainnya,,inventory/ams/inventoryPhoto/1603351241images_(4).jpg,,2023-06-14 09:11:34.000,2026-09-09 16:47:25.000
+350,FUR-MK-0007,2,76,1,Meja Kerja (120 x 60 x 70),,,,,2026-10-02 09:57:11.000,2026-10-02 10:00:12.000
+351,FUR-MK-0008,2,76,1,Meja Kerja (125 x 75 x 75),Warna Cream,,inventory/ams/inventoryPhoto/1602735045MEJA_KERJA_PARTISI.jpg,,2026-09-18 08:44:47.000,2026-09-18 08:47:06.000
+352,FUR-MK-0009,2,76,1,Meja Kerja + Partisi,Warna Cream,,inventory/ams/inventoryPhoto/17140985355.JPG,,2024-03-12 15:52:40.000,2025-11-18 09:56:18.000
+353,FUR-MK-0010,2,76,1,Meja Kerja L,,,inventory/ams/inventoryPhoto/1714099101DSC_0053.JPG,,2024-04-26 09:38:21.000,2026-06-07 20:56:20.000
+354,FUR-MK-0011,2,76,1,Meja Kerja Side Desk (120 x 50 x 70),,,inventory/ams/inventoryPhoto/1726801400MEJA_KERJA_DEPT.jpeg,,2026-09-07 13:16:54.000,2026-09-18 08:38:56.000
+355,FUR-MK-0012,2,76,1,Meja Kerja Tempel,Warna Cream,,inventory/ams/inventoryPhoto/1601883848images_(4).jpg,,2024-02-28 11:43:54.000,2024-02-28 11:50:27.000
+356,FUR-MK-0013,2,76,1,Meja Kerja Working Space,Warna Cream,,inventory/ams/inventoryPhoto/1710233502WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-03-12 15:00:54.000,2024-09-20 09:36:04.000
+357,FUR-MK-0014,2,76,1,Meja Lipat,,,inventory/ams/inventoryPhoto/1709957745WhatsApp_Image_2024-03-09_at_10_10_44.jpeg,,2024-03-09 11:15:45.000,2026-06-07 21:30:32.000
+358,FUR-MK-0015,2,76,1,Meja Meeting Recon,,,inventory/ams/inventoryPhoto/1726800719MEJA_KERJA.jpeg,,2024-09-20 09:51:59.000,2024-09-20 09:51:59.000
+359,FUR-MK-0016,2,81,1,Meja Kerja Lipat,Warna Cokelat,,,,2026-05-12 08:25:28.000,2026-05-12 08:25:46.000
+360,FUR-MK-0017,2,81,1,Meja Kerja Lipat,Warna Putih,,inventory/ams/inventoryPhoto/1601888392MEJA_LIPAT_PUTIH.jpg,,2024-02-16 16:34:58.000,2026-05-13 14:50:51.000
+361,FUR-MK-0018,2,81,1,Meja Kerja Lipat (180 x 60),,,,,2026-03-09 09:52:19.000,2026-07-24 08:37:49.000
+362,FUR-MK-0019,2,81,1,Meja Kerja Lipat (200 x 60),Kaki Besi Warna Putih,,inventory/ams/inventoryPhoto/1713415657WhatsApp_Image_2024-04-18_at_11_46_42.jpeg,,2024-04-18 11:47:37.000,2024-08-23 14:15:45.000
+363,FUR-MK-0020,2,82,1,Meja Kerja,Warna Abu-Abu,,inventory/ams/inventoryPhoto/1726801969MEJA_KERJA.jpeg,,2017-02-27 00:00:00.000,2024-09-20 10:14:24.000
+364,FUR-MK-0021,2,82,1,Meja Kerja,Warna Cokelat,,inventory/ams/inventoryPhoto/17146229445.JPG,,2018-03-15 16:23:06.777,2026-06-07 21:06:00.000
+365,FUR-MK-0022,2,82,1,Meja Kerja,Warna Lainnya,,inventory/ams/inventoryPhoto/1726801651MEJA_KERJA.jpeg,,2025-03-18 14:07:26.000,2026-09-03 10:23:42.000
+366,FUR-MK-0023,2,82,1,Meja Kerja + Laci,Warna Cokelat,,inventory/ams/inventoryPhoto/1726801581MEJA_KERJA.jpeg,,2026-09-07 08:46:37.000,2026-09-07 08:47:34.000
+367,FUR-MK-0024,2,82,1,Meja Kerja Bundar,,,,,2024-09-20 10:13:51.000,2024-09-20 10:13:51.000
+368,FUR-MK-0025,2,82,1,Meja Meeting,Warna Cream,,inventory/ams/inventoryPhoto/1709104429WhatsApp_Image_2024-02-28_at_14_09_23.jpeg,,2024-02-28 14:10:11.000,2024-02-28 14:13:49.000
+369,FUR-MK-0026,2,123,1,Meja Lipat Besar,,,,,2025-03-10 10:06:11.000,2025-03-10 10:06:18.000
+370,FUR-MK-0027,2,123,1,Meja Meeting,,,,,2026-07-17 08:49:12.000,2026-07-17 08:49:12.000
+371,FUR-MK-0028,2,123,1,Meja Meeting Oval,Warna Cokelat,,,,2026-06-07 20:44:06.000,2026-06-07 20:44:06.000
+372,FUR-MK-0029,2,123,1,Meja Tamu Rotan,Bundar,,,,2025-02-14 09:01:06.000,2025-02-14 09:03:42.000
+373,FUR-MK-0030,2,132,1,Meja Tamu Kaca,,,,,2025-11-12 13:31:32.000,2025-11-12 13:31:32.000

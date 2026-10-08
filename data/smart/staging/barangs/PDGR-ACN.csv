@@ -1,5 +1,5 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-440,PDGR-ACN-0001,106,25,1,AC Cassette,2 PK,,inventory/ams/inventoryPhoto/1603694309AC_casette.jpg,,2024-08-01 10:30:12.000,2024-08-01 10:30:21.000
-441,PDGR-ACN-0002,106,25,1,AC Cassette,Sentral,,,,2024-08-01 10:30:31.000,2024-08-01 10:30:40.000
-442,PDGR-ACN-0003,106,25,1,AC Cassette,Koridor,,,,2024-08-01 09:00:43.000,2024-08-01 09:00:43.000
-443,PDGR-ACN-0004,106,89,1,AC Sentral,AHU 20 PK,,inventory/ams/inventoryPhoto/1688717945WhatsApp_Image_2023-07-07_at_15_12_33.jpeg,,2025-02-05 11:17:58.000,2026-04-14 10:22:59.000
+441,PDGR-ACN-0001,106,25,1,AC Cassette,2 PK,,inventory/ams/inventoryPhoto/1603694309AC_casette.jpg,,2024-08-01 10:30:12.000,2024-08-01 10:30:21.000
+442,PDGR-ACN-0002,106,25,1,AC Cassette,Sentral,,,,2024-08-01 10:30:31.000,2024-08-01 10:30:40.000
+443,PDGR-ACN-0003,106,25,1,AC Cassette,Koridor,,,,2024-08-01 09:00:43.000,2024-08-01 09:00:43.000
+444,PDGR-ACN-0004,106,89,1,AC Sentral,AHU 20 PK,,inventory/ams/inventoryPhoto/1688717945WhatsApp_Image_2023-07-07_at_15_12_33.jpeg,,2025-02-05 11:17:58.000,2026-04-14 10:22:59.000

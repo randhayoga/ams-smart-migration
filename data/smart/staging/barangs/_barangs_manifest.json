@@ -198,7 +198,7 @@
     },
     "ELEK-FR": {
       "file": "ELEK-FR.csv",
-      "row_count": 2
+      "row_count": 3
     },
     "ELEK-HD": {
       "file": "ELEK-HD.csv",
@@ -334,7 +334,7 @@
     },
     "PERP-ACCN": {
       "file": "PERP-ACCN.csv",
-      "row_count": 2
+      "row_count": 1
     },
     "PERP-ACCS": {
       "file": "PERP-ACCS.csv",
@@ -350,15 +350,15 @@
     },
     "PERP-MEXT": {
       "file": "PERP-MEXT.csv",
-      "row_count": 19
+      "row_count": 16
     },
     "PERP-MMD": {
       "file": "PERP-MMD.csv",
-      "row_count": 6
+      "row_count": 5
     },
     "PERP-NETW": {
       "file": "PERP-NETW.csv",
-      "row_count": 34
+      "row_count": 25
     },
     "PERP-PROJ": {
       "file": "PERP-PROJ.csv",
@@ -378,7 +378,7 @@
     },
     "PERP-STRG": {
       "file": "PERP-STRG.csv",
-      "row_count": 15
+      "row_count": 13
     },
     "PERP-UPS": {
       "file": "PERP-UPS.csv",
@@ -390,7 +390,7 @@
     },
     "PRNT-DOT": {
       "file": "PRNT-DOT.csv",
-      "row_count": 3
+      "row_count": 2
     },
     "PRNT-IDC": {
       "file": "PRNT-IDC.csv",
@@ -410,7 +410,7 @@
     },
     "PRNT-PLT": {
       "file": "PRNT-PLT.csv",
-      "row_count": 2
+      "row_count": 1
     },
     "PROP-PRO": {
       "file": "PROP-PRO.csv",
@@ -438,8 +438,8 @@
     },
     "TLKM-TL": {
       "file": "TLKM-TL.csv",
-      "row_count": 6
+      "row_count": 4
     }
   },
-  "total_barangs": 684
+  "total_barangs": 665
 }

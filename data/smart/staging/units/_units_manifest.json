@@ -198,7 +198,7 @@
     },
     "ELEK-FR": {
       "file": "ELEK-FR.csv",
-      "row_count": 4
+      "row_count": 7
     },
     "ELEK-HD": {
       "file": "ELEK-HD.csv",
@@ -334,7 +334,7 @@
     },
     "PERP-ACCN": {
       "file": "PERP-ACCN.csv",
-      "row_count": 6
+      "row_count": 3
     },
     "PERP-ACCS": {
       "file": "PERP-ACCS.csv",

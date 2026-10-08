@@ -1,8 +1,8 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-307,FUR-KT-0001,7,132,1,Sofa,Warna Hitam,,inventory/ams/inventoryPhoto/1726714868SOFA.jpeg,,2025-11-18 09:05:44.000,2025-11-18 09:47:46.000
-308,FUR-KT-0002,7,77,1,Sofa,Warna Hitam,,inventory/ams/inventoryPhoto/1726714945SOFA.jpeg,,2025-11-18 09:11:19.000,2025-11-18 09:52:50.000
-309,FUR-KT-0003,7,103,1,Kursi Cafe,Warna Hitam,,inventory/ams/inventoryPhoto/1710227027WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,2025-05-26 14:51:37.000,2025-05-26 17:54:55.000
-310,FUR-KT-0004,7,103,1,Kursi Cafe,Warna Coklat,,inventory/ams/inventoryPhoto/1710227350WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,2025-05-26 14:52:09.000,2025-05-26 17:54:38.000
-311,FUR-KT-0005,7,119,1,Sofa Lux,Warna Hitam,,inventory/ams/inventoryPhoto/1713516650WhatsApp_Image_2024-04-19_at_14_28_34.jpeg,,2025-02-07 14:54:51.000,2026-09-17 13:53:21.000
-312,FUR-KT-0006,7,123,1,Kursi Tamu Rotan,,,inventory/ams/inventoryPhoto/1726798844kursi_ROTAN.jpeg,,2025-02-07 10:06:28.000,2025-02-07 10:06:46.000
-313,FUR-KT-0007,7,123,1,Kursi Kecil,,,inventory/ams/inventoryPhoto/1752204680WhatsApp_Image_2025-07-11_at_10_29_07.jpeg,,2025-07-11 10:31:20.000,2025-07-16 10:59:44.000
+308,FUR-KT-0001,7,132,1,Sofa,Warna Hitam,,inventory/ams/inventoryPhoto/1726714868SOFA.jpeg,,2025-11-18 09:05:44.000,2025-11-18 09:47:46.000
+309,FUR-KT-0002,7,77,1,Sofa,Warna Hitam,,inventory/ams/inventoryPhoto/1726714945SOFA.jpeg,,2025-11-18 09:11:19.000,2025-11-18 09:52:50.000
+310,FUR-KT-0003,7,103,1,Kursi Cafe,Warna Hitam,,inventory/ams/inventoryPhoto/1710227027WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,2025-05-26 14:51:37.000,2025-05-26 17:54:55.000
+311,FUR-KT-0004,7,103,1,Kursi Cafe,Warna Coklat,,inventory/ams/inventoryPhoto/1710227350WhatsApp_Image_2024-03-01_at_16_39_04.jpeg,,2025-05-26 14:52:09.000,2025-05-26 17:54:38.000
+312,FUR-KT-0005,7,119,1,Sofa Lux,Warna Hitam,,inventory/ams/inventoryPhoto/1713516650WhatsApp_Image_2024-04-19_at_14_28_34.jpeg,,2025-02-07 14:54:51.000,2026-09-17 13:53:21.000
+313,FUR-KT-0006,7,123,1,Kursi Tamu Rotan,,,inventory/ams/inventoryPhoto/1726798844kursi_ROTAN.jpeg,,2025-02-07 10:06:28.000,2025-02-07 10:06:46.000
+314,FUR-KT-0007,7,123,1,Kursi Kecil,,,inventory/ams/inventoryPhoto/1752204680WhatsApp_Image_2025-07-11_at_10_29_07.jpeg,,2025-07-11 10:31:20.000,2025-07-16 10:59:44.000

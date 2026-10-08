@@ -1,11 +1,11 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-314,FUR-LC-0001,3,76,1,Laci Kerja,Warna Coklat,,inventory/ams/inventoryPhoto/1726199910Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-05-29 15:29:58.000
-315,FUR-LC-0002,3,76,1,Laci Kerja,Warna Cream,,inventory/ams/inventoryPhoto/1726199937Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-06-07 17:52:11.000
-316,FUR-LC-0003,3,76,1,Laci Kerja,Warna Abu-Abu,,inventory/ams/inventoryPhoto/1726199923Laci_Kerja.jpeg,,2024-04-05 09:05:50.000,2025-02-13 09:03:24.000
-317,FUR-LC-0004,3,76,1,Laci Kerja,Custom HPL,,inventory/ams/inventoryPhoto/1726198757Laci_Kerja.jpeg,,2026-06-07 20:53:53.000,2026-06-07 20:53:53.000
-318,FUR-LC-0005,3,76,1,Laci Kerja,,,inventory/ams/inventoryPhoto/1726199217Laci_Kerja.jpeg,,2024-09-13 10:17:38.000,2026-09-03 10:24:25.000
-319,FUR-LC-0006,3,82,1,Laci Kerja,Warna Coklat,,inventory/ams/inventoryPhoto/1726198833Laci_Kerja.jpeg,,2024-02-16 16:41:47.000,2024-09-13 10:40:33.000
-320,FUR-LC-0007,3,82,1,Laci Kerja,Warna Abu-Abu,,inventory/ams/inventoryPhoto/1726199831Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-06-07 20:57:28.000
-321,FUR-LC-0008,3,82,1,Laci Kerja,Warna Cream,,,,2017-02-27 00:00:00.000,2024-08-08 13:46:02.000
-322,FUR-LC-0009,3,82,1,Laci Kerja,,,inventory/ams/inventoryPhoto/1726197690Laci_Kerja.jpeg,,2026-06-07 20:53:40.000,2026-06-07 20:53:40.000
-323,FUR-LC-0010,3,77,1,Laci Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1601863596Kursi_Kerja_Hitam.jpg,,2024-08-01 11:43:12.000,2024-09-13 10:57:59.000
+315,FUR-LC-0001,3,76,1,Laci Kerja,Warna Coklat,,inventory/ams/inventoryPhoto/1726199910Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-05-29 15:29:58.000
+316,FUR-LC-0002,3,76,1,Laci Kerja,Warna Cream,,inventory/ams/inventoryPhoto/1726199937Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-06-07 17:52:11.000
+317,FUR-LC-0003,3,76,1,Laci Kerja,Warna Abu-Abu,,inventory/ams/inventoryPhoto/1726199923Laci_Kerja.jpeg,,2024-04-05 09:05:50.000,2025-02-13 09:03:24.000
+318,FUR-LC-0004,3,76,1,Laci Kerja,Custom HPL,,inventory/ams/inventoryPhoto/1726198757Laci_Kerja.jpeg,,2026-06-07 20:53:53.000,2026-06-07 20:53:53.000
+319,FUR-LC-0005,3,76,1,Laci Kerja,,,inventory/ams/inventoryPhoto/1726199217Laci_Kerja.jpeg,,2024-09-13 10:17:38.000,2026-09-03 10:24:25.000
+320,FUR-LC-0006,3,82,1,Laci Kerja,Warna Coklat,,inventory/ams/inventoryPhoto/1726198833Laci_Kerja.jpeg,,2024-02-16 16:41:47.000,2024-09-13 10:40:33.000
+321,FUR-LC-0007,3,82,1,Laci Kerja,Warna Abu-Abu,,inventory/ams/inventoryPhoto/1726199831Laci_Kerja.jpeg,,2017-02-27 00:00:00.000,2026-06-07 20:57:28.000
+322,FUR-LC-0008,3,82,1,Laci Kerja,Warna Cream,,,,2017-02-27 00:00:00.000,2024-08-08 13:46:02.000
+323,FUR-LC-0009,3,82,1,Laci Kerja,,,inventory/ams/inventoryPhoto/1726197690Laci_Kerja.jpeg,,2026-06-07 20:53:40.000,2026-06-07 20:53:40.000
+324,FUR-LC-0010,3,77,1,Laci Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1601863596Kursi_Kerja_Hitam.jpg,,2024-08-01 11:43:12.000,2024-09-13 10:57:59.000

@@ -1,2 +1,2 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-224,LOT-0001-26-ELEK-MPK-0001,224,1,,,,,,,2026-10-08 17:52:05.000,,inventory/ams/inventoryPhoto/1710229239WhatsApp_Image_2024-03-01_at_16_38_39.jpeg,,,2026-10-08 17:52:05.000,2026-10-08 17:52:05.000
+225,LOT-0001-26-ELEK-MPK-0001,225,1,,,,,,,2026-10-08 19:59:46.000,,inventory/ams/inventoryPhoto/1710229239WhatsApp_Image_2024-03-01_at_16_38_39.jpeg,,,2026-10-08 19:59:46.000,2026-10-08 19:59:46.000

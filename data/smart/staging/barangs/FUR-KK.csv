@@ -1,37 +1,37 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-270,FUR-KK-0001,1,77,1,Kursi Kerja Jaring,Warna Hitam,,inventory/ams/inventoryPhoto/1726197313kursi_cokelat_jaring.jpeg,,2020-10-15 10:59:42.000,2026-09-22 17:43:15.000
-271,FUR-KK-0002,1,77,1,Kursi Kerja Jaring,Warna Coklat,,inventory/ams/inventoryPhoto/1739506760kursi_cokelat_jaring.jpeg,,2024-02-28 10:30:43.000,2026-07-15 11:37:00.000
-272,FUR-KK-0003,1,77,1,Kursi Kerja Jaring,Warna Abu-Abu,,inventory/ams/inventoryPhoto/1726053089WhatsApp_Image_2024-09-11_at_11_39_29.jpeg,,2024-09-11 16:09:04.000,2024-09-11 18:11:29.000
-273,FUR-KK-0004,1,77,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1726197331kursi_cokelat_jaring.jpeg,,2017-02-27 00:00:00.000,2026-06-07 20:57:45.000
-274,FUR-KK-0005,1,77,1,Kursi Kerja,Warna Coklat,,inventory/ams/inventoryPhoto/1726197325kursi_cokelat_jaring.jpeg,,2017-02-27 00:00:00.000,2026-09-22 17:42:51.000
-275,FUR-KK-0006,1,77,1,Kursi Kerja,Warna Cream,,inventory/ams/inventoryPhoto/1601869670KURSI_SOFFA_SAVELLO.jpg,,2024-07-26 09:59:26.000,2025-11-18 09:50:22.000
-276,FUR-KK-0007,1,77,1,Kursi Kerja,Warna Abu-Abu,,inventory/ams/inventoryPhoto/1739505860kursi_Coklat.jpeg,,2025-02-14 11:04:20.000,2025-02-14 11:04:20.000
-277,FUR-KK-0008,1,77,1,Kursi Kaki Besi,Warna Coklat,,inventory/ams/inventoryPhoto/1714099850DSC_0007.png,,2024-04-18 11:17:41.000,2026-06-07 21:27:35.000
-278,FUR-KK-0009,1,77,1,Kursi Lipat,,,,,2024-07-25 13:56:24.000,2024-07-25 13:56:32.000
-279,FUR-KK-0010,1,77,1,Kursi Kerja Kulit,Warna Hitam,,inventory/ams/inventoryPhoto/1738899776KURSI_MORELLI.jpeg,,2026-06-07 18:13:48.000,2026-06-07 20:50:17.000
-280,FUR-KK-0011,1,77,1,Sofa,,,inventory/ams/inventoryPhoto/1726194302Kursi_Savello_Jaring.jpeg,,2024-08-19 10:31:46.000,2024-09-13 09:25:02.000
-281,FUR-KK-0012,1,76,1,Kursi Kerja Jaring,Warna Hitam,,inventory/ams/inventoryPhoto/1709279175WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-02-28 14:41:46.000,2026-06-07 21:29:42.000
-282,FUR-KK-0013,1,76,1,Kursi Kerja Jaring,Warna Coklat,,inventory/ams/inventoryPhoto/1709283145WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:41:32.000,2026-05-12 08:58:08.000
-283,FUR-KK-0014,1,76,1,Kursi Kerja Jaring,Warna Hitam Coklat,,inventory/ams/inventoryPhoto/1709283446WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 15:08:08.000,2024-08-23 14:16:55.000
-284,FUR-KK-0015,1,76,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1603350691KURSI_JARING_HITAM_SAVELLO.jpg,,2020-10-22 14:09:46.000,2024-09-13 14:07:15.000
-285,FUR-KK-0016,1,76,1,Kursi Kerja,Warna Coklat,,,,2018-03-15 16:23:06.777,2024-08-22 15:21:01.000
-286,FUR-KK-0017,1,76,1,Kursi Kerja,Warna Cream,,inventory/ams/inventoryPhoto/1603352772LACI_KERJA.jpg,,2024-07-31 14:37:09.000,2024-07-31 14:37:09.000
-287,FUR-KK-0018,1,76,1,Kursi Kaki Besi,Warna Hitam,,inventory/ams/inventoryPhoto/1714632368DSC_0007.png,,2024-07-30 14:54:12.000,2025-02-13 14:02:08.000
-288,FUR-KK-0019,1,76,1,Kursi Kaki Besi,Warna Coklat,,inventory/ams/inventoryPhoto/1741914872kursi_Coklat.jpeg,,2026-05-12 08:58:49.000,2026-05-12 08:58:49.000
-289,FUR-KK-0020,1,131,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1726211264Kursi_Pantry.jpeg,,2018-03-15 16:23:06.777,2024-09-13 14:08:02.000
-290,FUR-KK-0021,1,131,1,Kursi Kerja,Warna Coklat,,,,2024-02-28 10:29:30.000,2024-07-26 09:39:19.000
-291,FUR-KK-0022,1,131,1,Kursi Kaki Besi,Stainless,,,,2017-02-27 00:00:00.000,2024-07-25 10:31:28.000
-292,FUR-KK-0023,1,166,1,Kursi Kerja Jaring,Warna Hitam,,inventory/ams/inventoryPhoto/1784173361WhatsApp_Image_2026-07-16_at_10_31_56.jpeg,,2026-07-15 11:42:36.000,2026-09-22 17:42:25.000
-293,FUR-KK-0024,1,78,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1601879871WhatsApp_Image_2020-10-05_at_13_41_12.jpeg,,2020-10-05 13:43:12.000,2026-05-29 10:22:32.000
-294,FUR-KK-0025,1,150,1,Kursi Kerja Jaring,Warna Hitam,,inventory/ams/inventoryPhoto/1744343605Kursi_Inco.jpeg,,2025-04-25 10:13:48.000,2026-06-07 20:37:58.000
-295,FUR-KK-0026,1,123,1,Sofa,,,,,2018-03-15 16:23:06.777,2024-08-22 15:21:08.000
-296,FUR-KK-0027,1,132,1,Sofa,,,,,2018-03-15 16:23:06.777,2024-07-29 16:37:43.000
-297,FUR-KK-0028,1,173,1,Kursi Lipat,,,,,2017-02-27 00:00:00.000,2024-08-07 08:20:05.000
-298,FUR-KK-0029,1,173,1,Kursi Kerja,Warna Biru,,,,2017-02-27 00:00:00.000,2025-02-13 09:00:26.000
-299,FUR-KK-0030,1,82,1,Kursi Kerja,Warna Hitam,,,,2024-02-16 16:47:55.000,2024-02-16 16:50:51.000
-300,FUR-KK-0031,1,82,1,Kursi Kerja,Warna Coklat,,inventory/ams/inventoryPhoto/1601630895kursi_coklt_pendek.jpg,,2024-07-30 15:29:28.000,2024-07-30 15:29:28.000
-301,FUR-KK-0032,1,128,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1726211268Kursi_Pantry.jpeg,,2024-09-13 14:07:39.000,2025-02-12 14:29:11.000
-302,FUR-KK-0033,1,80,1,Kursi Kerja,Warna Putih,,,,2024-02-28 11:20:01.000,2024-02-28 11:20:01.000
-303,FUR-KK-0034,1,103,1,Kursi Cafe,Warna Hitam,,,,2024-08-02 09:39:24.000,2024-08-02 10:51:22.000
-304,FUR-KK-0035,1,135,1,Kursi Kerja Jaring,Warna Hitam,,inventory/ams/inventoryPhoto/1738899806KURSI_MORELLI.jpeg,,2026-06-07 20:50:53.000,2026-06-07 20:50:53.000
-305,FUR-KK-0036,1,176,1,Kursi Kerja,Warna Hitam,,,,2024-07-29 11:39:17.000,2024-07-29 11:39:17.000
+271,FUR-KK-0001,1,77,1,Kursi Kerja Jaring,Warna Hitam,,inventory/ams/inventoryPhoto/1726197313kursi_cokelat_jaring.jpeg,,2020-10-15 10:59:42.000,2026-09-22 17:43:15.000
+272,FUR-KK-0002,1,77,1,Kursi Kerja Jaring,Warna Coklat,,inventory/ams/inventoryPhoto/1739506760kursi_cokelat_jaring.jpeg,,2024-02-28 10:30:43.000,2026-07-15 11:37:00.000
+273,FUR-KK-0003,1,77,1,Kursi Kerja Jaring,Warna Abu-Abu,,inventory/ams/inventoryPhoto/1726053089WhatsApp_Image_2024-09-11_at_11_39_29.jpeg,,2024-09-11 16:09:04.000,2024-09-11 18:11:29.000
+274,FUR-KK-0004,1,77,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1726197331kursi_cokelat_jaring.jpeg,,2017-02-27 00:00:00.000,2026-06-07 20:57:45.000
+275,FUR-KK-0005,1,77,1,Kursi Kerja,Warna Coklat,,inventory/ams/inventoryPhoto/1726197325kursi_cokelat_jaring.jpeg,,2017-02-27 00:00:00.000,2026-09-22 17:42:51.000
+276,FUR-KK-0006,1,77,1,Kursi Kerja,Warna Cream,,inventory/ams/inventoryPhoto/1601869670KURSI_SOFFA_SAVELLO.jpg,,2024-07-26 09:59:26.000,2025-11-18 09:50:22.000
+277,FUR-KK-0007,1,77,1,Kursi Kerja,Warna Abu-Abu,,inventory/ams/inventoryPhoto/1739505860kursi_Coklat.jpeg,,2025-02-14 11:04:20.000,2025-02-14 11:04:20.000
+278,FUR-KK-0008,1,77,1,Kursi Kaki Besi,Warna Coklat,,inventory/ams/inventoryPhoto/1714099850DSC_0007.png,,2024-04-18 11:17:41.000,2026-06-07 21:27:35.000
+279,FUR-KK-0009,1,77,1,Kursi Lipat,,,,,2024-07-25 13:56:24.000,2024-07-25 13:56:32.000
+280,FUR-KK-0010,1,77,1,Kursi Kerja Kulit,Warna Hitam,,inventory/ams/inventoryPhoto/1738899776KURSI_MORELLI.jpeg,,2026-06-07 18:13:48.000,2026-06-07 20:50:17.000
+281,FUR-KK-0011,1,77,1,Sofa,,,inventory/ams/inventoryPhoto/1726194302Kursi_Savello_Jaring.jpeg,,2024-08-19 10:31:46.000,2024-09-13 09:25:02.000
+282,FUR-KK-0012,1,76,1,Kursi Kerja Jaring,Warna Hitam,,inventory/ams/inventoryPhoto/1709279175WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-02-28 14:41:46.000,2026-06-07 21:29:42.000
+283,FUR-KK-0013,1,76,1,Kursi Kerja Jaring,Warna Coklat,,inventory/ams/inventoryPhoto/1709283145WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 14:41:32.000,2026-05-12 08:58:08.000
+284,FUR-KK-0014,1,76,1,Kursi Kerja Jaring,Warna Hitam Coklat,,inventory/ams/inventoryPhoto/1709283446WhatsApp_Image_2024-02-28_at_14_18_19.jpeg,,2024-03-01 15:08:08.000,2024-08-23 14:16:55.000
+285,FUR-KK-0015,1,76,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1603350691KURSI_JARING_HITAM_SAVELLO.jpg,,2020-10-22 14:09:46.000,2024-09-13 14:07:15.000
+286,FUR-KK-0016,1,76,1,Kursi Kerja,Warna Coklat,,,,2018-03-15 16:23:06.777,2024-08-22 15:21:01.000
+287,FUR-KK-0017,1,76,1,Kursi Kerja,Warna Cream,,inventory/ams/inventoryPhoto/1603352772LACI_KERJA.jpg,,2024-07-31 14:37:09.000,2024-07-31 14:37:09.000
+288,FUR-KK-0018,1,76,1,Kursi Kaki Besi,Warna Hitam,,inventory/ams/inventoryPhoto/1714632368DSC_0007.png,,2024-07-30 14:54:12.000,2025-02-13 14:02:08.000
+289,FUR-KK-0019,1,76,1,Kursi Kaki Besi,Warna Coklat,,inventory/ams/inventoryPhoto/1741914872kursi_Coklat.jpeg,,2026-05-12 08:58:49.000,2026-05-12 08:58:49.000
+290,FUR-KK-0020,1,131,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1726211264Kursi_Pantry.jpeg,,2018-03-15 16:23:06.777,2024-09-13 14:08:02.000
+291,FUR-KK-0021,1,131,1,Kursi Kerja,Warna Coklat,,,,2024-02-28 10:29:30.000,2024-07-26 09:39:19.000
+292,FUR-KK-0022,1,131,1,Kursi Kaki Besi,Stainless,,,,2017-02-27 00:00:00.000,2024-07-25 10:31:28.000
+293,FUR-KK-0023,1,166,1,Kursi Kerja Jaring,Warna Hitam,,inventory/ams/inventoryPhoto/1784173361WhatsApp_Image_2026-07-16_at_10_31_56.jpeg,,2026-07-15 11:42:36.000,2026-09-22 17:42:25.000
+294,FUR-KK-0024,1,78,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1601879871WhatsApp_Image_2020-10-05_at_13_41_12.jpeg,,2020-10-05 13:43:12.000,2026-05-29 10:22:32.000
+295,FUR-KK-0025,1,150,1,Kursi Kerja Jaring,Warna Hitam,,inventory/ams/inventoryPhoto/1744343605Kursi_Inco.jpeg,,2025-04-25 10:13:48.000,2026-06-07 20:37:58.000
+296,FUR-KK-0026,1,123,1,Sofa,,,,,2018-03-15 16:23:06.777,2024-08-22 15:21:08.000
+297,FUR-KK-0027,1,132,1,Sofa,,,,,2018-03-15 16:23:06.777,2024-07-29 16:37:43.000
+298,FUR-KK-0028,1,173,1,Kursi Lipat,,,,,2017-02-27 00:00:00.000,2024-08-07 08:20:05.000
+299,FUR-KK-0029,1,173,1,Kursi Kerja,Warna Biru,,,,2017-02-27 00:00:00.000,2025-02-13 09:00:26.000
+300,FUR-KK-0030,1,82,1,Kursi Kerja,Warna Hitam,,,,2024-02-16 16:47:55.000,2024-02-16 16:50:51.000
+301,FUR-KK-0031,1,82,1,Kursi Kerja,Warna Coklat,,inventory/ams/inventoryPhoto/1601630895kursi_coklt_pendek.jpg,,2024-07-30 15:29:28.000,2024-07-30 15:29:28.000
+302,FUR-KK-0032,1,128,1,Kursi Kerja,Warna Hitam,,inventory/ams/inventoryPhoto/1726211268Kursi_Pantry.jpeg,,2024-09-13 14:07:39.000,2025-02-12 14:29:11.000
+303,FUR-KK-0033,1,80,1,Kursi Kerja,Warna Putih,,,,2024-02-28 11:20:01.000,2024-02-28 11:20:01.000
+304,FUR-KK-0034,1,103,1,Kursi Cafe,Warna Hitam,,,,2024-08-02 09:39:24.000,2024-08-02 10:51:22.000
+305,FUR-KK-0035,1,135,1,Kursi Kerja Jaring,Warna Hitam,,inventory/ams/inventoryPhoto/1738899806KURSI_MORELLI.jpeg,,2026-06-07 20:50:53.000,2026-06-07 20:50:53.000
+306,FUR-KK-0036,1,176,1,Kursi Kerja,Warna Hitam,,,,2024-07-29 11:39:17.000,2024-07-29 11:39:17.000
