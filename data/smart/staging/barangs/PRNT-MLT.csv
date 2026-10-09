@@ -1,7 +1,7 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-593,PRNT-MLT-0001,74,9,1,OfficeJet 4500,"A4 Multifungsi (Print, Scan, Copy)",,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-594,PRNT-MLT-0002,74,9,1,OfficeJet 4500 Color,"A4 Multifungsi, Color",,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-595,PRNT-MLT-0003,74,9,1,Deskjet 2050 All-in-One,"A4 (Print, Scan, Copy)",,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-596,PRNT-MLT-0004,74,9,1,Deskjet 2545 All-in-One,"A4 (Print, Scan, Copy)",,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-597,PRNT-MLT-0005,74,9,1,Ink Tank Wireless 415,"A4 Multifungsi, Wireless",,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-598,PRNT-MLT-0006,74,11,1,EcoTank L3150 Wi-Fi,"A4 Multifungsi, Wi-Fi",,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
+578,PRNT-MLT-0001,74,9,1,OfficeJet 4500,"A4 Multifungsi (Print, Scan, Copy)",,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+579,PRNT-MLT-0002,74,9,1,OfficeJet 4500 Color,"A4 Multifungsi, Color",,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+580,PRNT-MLT-0003,74,9,1,Deskjet 2050 All-in-One,"A4 (Print, Scan, Copy)",,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+581,PRNT-MLT-0004,74,9,1,Deskjet 2545 All-in-One,"A4 (Print, Scan, Copy)",,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+582,PRNT-MLT-0005,74,9,1,Ink Tank Wireless 415,"A4 Multifungsi, Wireless",,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+583,PRNT-MLT-0006,74,11,1,EcoTank L3150 Wi-Fi,"A4 Multifungsi, Wi-Fi",,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000

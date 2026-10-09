@@ -1,18 +1,18 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-97,ACC-TS-0001,16,125,1,Tempat Sampah,Bundar,,inventory/ams/inventoryPhoto/1726220771tempat_sampah_lion_star.jpeg,,2024-07-25 13:56:52.000,2025-11-28 15:59:54.000
-98,ACC-TS-0002,16,79,1,Tempat Sampah,Stainless,,inventory/ams/inventoryPhoto/1726220448tempat_sampah_stenlis.jpeg,,2017-02-27 00:00:00.000,2026-06-07 21:23:08.000
-99,ACC-TS-0003,16,125,1,Tempat Sampah,Stainless,,,,2024-07-26 09:59:19.000,2024-07-26 09:59:19.000
-100,ACC-TS-0004,16,79,1,Tempat Sampah,,,inventory/ams/inventoryPhoto/1726220358tempat_sampah_stenlis.jpeg,,2024-04-19 16:25:58.000,2026-06-07 18:05:08.000
-101,ACC-TS-0005,16,64,1,Tempat Sampah,,,,,2023-06-14 10:49:46.000,2023-06-14 10:49:46.000
-102,ACC-TS-0006,16,79,1,Tempat Sampah,Bundar,,,,2017-02-27 00:00:00.000,2024-08-20 13:28:07.000
-103,ACC-TS-0007,16,64,1,Tempat Sampah,TS-Doble,,inventory/ams/inventoryPhoto/1601624527Screenshot_20201002-111345_Google.jpg,,2024-07-31 14:25:21.000,2024-07-31 14:25:21.000
-104,ACC-TS-0008,16,79,1,Tempat Sampah B3,Warna Merah,,inventory/ams/inventoryPhoto/1726562403TEMPAT_SAMPAH_B3.jpeg,,2024-09-17 15:40:03.000,2024-09-17 15:40:03.000
-105,ACC-TS-0009,16,64,1,Tempat Sampah,Plastik Tutup 12 Liter,,inventory/ams/inventoryPhoto/1715162395WhatsApp_Image_2024-05-08_at_16_36_11.jpeg,,2025-05-19 10:29:50.000,2025-05-19 10:29:58.000
-106,ACC-TS-0010,16,64,1,Tempat Sampah,Plastik Tutup 10 Liter,,inventory/ams/inventoryPhoto/1715166844WhatsApp_Image_2024-05-08_at_18_13_43.jpeg,,2025-05-19 10:29:22.000,2025-05-19 10:29:37.000
-107,ACC-TS-0011,16,123,1,Tempat Sampah Kertas,,,,,2026-06-07 18:05:03.000,2026-06-07 18:05:03.000
-108,ACC-TS-0012,16,125,1,Tempat Sampah,,,inventory/ams/inventoryPhoto/1726220626tempat_sampah_lion_star.jpeg,,2024-07-31 13:28:35.000,2026-05-29 15:33:48.000
-109,ACC-TS-0013,16,123,1,Tempat Sampah B3,,,inventory/ams/inventoryPhoto/1726562394TEMPAT_SAMPAH_B3.jpeg,,2024-09-17 15:39:54.000,2024-09-17 15:39:54.000
-110,ACC-TS-0014,16,64,1,Tempat Sampah B3,,,inventory/ams/inventoryPhoto/1726562389TEMPAT_SAMPAH_B3.jpeg,,2024-09-17 15:39:49.000,2024-09-17 15:39:49.000
-111,ACC-TS-0015,16,123,1,Tempat Sampah,Besi,,,,2024-08-05 11:41:00.000,2025-02-13 09:51:25.000
-112,ACC-TS-0016,16,142,1,Tempat Sampah,,,inventory/ams/inventoryPhoto/1726221055tempat_sampah_shinpo1.jpeg,,2024-09-13 16:50:55.000,2024-09-13 16:50:55.000
-113,ACC-TS-0017,16,123,1,Standing Ashtray,Ukuran 60 x 30 cm,,inventory/ams/inventoryPhoto/1776821636tempat_sampah_rokok.jpeg,,2026-07-14 09:12:44.000,2026-07-14 09:12:44.000
+94,ACC-TS-0001,16,125,1,Tempat Sampah,Bundar,,inventory/ams/inventoryPhoto/1726220771tempat_sampah_lion_star.jpeg,,2024-07-25 13:56:52.000,2025-11-28 15:59:54.000
+95,ACC-TS-0002,16,79,1,Tempat Sampah,Stainless,,inventory/ams/inventoryPhoto/1726220448tempat_sampah_stenlis.jpeg,,2024-02-28 10:32:24.000,2026-06-07 21:23:08.000
+96,ACC-TS-0003,16,125,1,Tempat Sampah,Stainless,,,,2024-07-26 09:59:19.000,2024-07-26 09:59:19.000
+97,ACC-TS-0004,16,79,1,Tempat Sampah,,,inventory/ams/inventoryPhoto/1726220358tempat_sampah_stenlis.jpeg,,2024-04-19 16:25:58.000,2026-06-07 18:05:08.000
+98,ACC-TS-0005,16,64,1,Tempat Sampah,,,,,2023-06-14 10:49:46.000,2023-06-14 10:49:46.000
+99,ACC-TS-0006,16,79,1,Tempat Sampah,Bundar,,,,2026-10-09 05:58:42.000,2026-10-09 05:58:42.000
+100,ACC-TS-0007,16,64,1,Tempat Sampah,TS-Doble,,inventory/ams/inventoryPhoto/1601624527Screenshot_20201002-111345_Google.jpg,,2024-07-31 14:25:21.000,2024-07-31 14:25:21.000
+101,ACC-TS-0008,16,79,1,Tempat Sampah B3,Warna Merah,,inventory/ams/inventoryPhoto/1726562403TEMPAT_SAMPAH_B3.jpeg,,2024-09-17 15:40:03.000,2024-09-17 15:40:03.000
+102,ACC-TS-0009,16,64,1,Tempat Sampah,Plastik Tutup 12 Liter,,inventory/ams/inventoryPhoto/1715162395WhatsApp_Image_2024-05-08_at_16_36_11.jpeg,,2025-05-19 10:29:50.000,2025-05-19 10:29:58.000
+103,ACC-TS-0010,16,64,1,Tempat Sampah,Plastik Tutup 10 Liter,,inventory/ams/inventoryPhoto/1715166844WhatsApp_Image_2024-05-08_at_18_13_43.jpeg,,2025-05-19 10:29:22.000,2025-05-19 10:29:37.000
+104,ACC-TS-0011,16,123,1,Tempat Sampah Kertas,,,,,2026-06-07 18:05:03.000,2026-06-07 18:05:03.000
+105,ACC-TS-0012,16,125,1,Tempat Sampah,,,inventory/ams/inventoryPhoto/1726220626tempat_sampah_lion_star.jpeg,,2024-09-13 16:43:12.000,2026-05-29 15:33:48.000
+106,ACC-TS-0013,16,123,1,Tempat Sampah B3,,,inventory/ams/inventoryPhoto/1726562394TEMPAT_SAMPAH_B3.jpeg,,2024-09-17 15:39:54.000,2024-09-17 15:39:54.000
+107,ACC-TS-0014,16,64,1,Tempat Sampah B3,,,inventory/ams/inventoryPhoto/1726562389TEMPAT_SAMPAH_B3.jpeg,,2024-09-17 15:39:49.000,2024-09-17 15:39:49.000
+108,ACC-TS-0015,16,123,1,Tempat Sampah,Besi,,,,2024-08-05 11:41:00.000,2025-02-13 09:51:25.000
+109,ACC-TS-0016,16,142,1,Tempat Sampah,,,inventory/ams/inventoryPhoto/1726221055tempat_sampah_shinpo1.jpeg,,2024-09-13 16:50:55.000,2024-09-13 16:50:55.000
+110,ACC-TS-0017,16,123,1,Standing Ashtray,Ukuran 60 x 30 cm,,inventory/ams/inventoryPhoto/1776821636tempat_sampah_rokok.jpeg,,2026-07-14 09:12:44.000,2026-07-14 09:12:44.000

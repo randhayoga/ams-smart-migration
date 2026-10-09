@@ -1,2 +1,2 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-307,FUR-KP-0001,5,123,1,Kursi Plastik,Warna Coklat,,inventory/ams/inventoryPhoto/1726563297KURSI_PLASTIK.jpeg,,2025-02-14 14:20:32.000,2025-03-10 10:55:48.000
+297,FUR-KP-0001,5,123,1,Kursi Plastik,Warna Coklat,,inventory/ams/inventoryPhoto/1726563297KURSI_PLASTIK.jpeg,,2025-02-14 14:20:32.000,2025-03-10 10:55:48.000

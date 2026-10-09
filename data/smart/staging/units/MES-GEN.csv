@@ -1,2 +1,2 @@
 id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at,specification
-5546,8140,02733-MES-GEN-CFS-PTRE-13,02733-SIN-MSN-CFS-PTRE-13,380,MES-GEN,184,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,10780,1,2025-02-11 09:54:09.000,2025-02-11 09:54:09.000,Diesel Engine Generator 250
+5146,8140,02733-MES-GEN-CFS-PTRE-13,02733-SIN-MSN-CFS-PTRE-13,367,MES-GEN,184,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,10780,1,2025-02-11 09:54:09.000,2025-02-11 09:54:09.000,Diesel Engine Generator 250

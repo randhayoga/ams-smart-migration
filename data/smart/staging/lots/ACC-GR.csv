@@ -1,2 +1,2 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-38,LOT-0001-26-ACC-GR-0001,38,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1752122057WhatsApp_Image_2025-07-10_at_11_23_32.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+36,LOT-0001-26-ACC-GR-0001,36,1,,,,,,,2026-10-09 05:10:34.000,,inventory/ams/inventoryPhoto/1752122057WhatsApp_Image_2025-07-10_at_11_23_32.jpeg,,,2026-10-09 05:10:34.000,2026-10-09 05:10:34.000

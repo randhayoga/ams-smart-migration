@@ -1,2 +1,2 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-46,LOT-0001-26-ACC-KL-0001,46,1,,,,,,,2026-10-08 10:50:07.000,,inventory/ams/inventoryPhoto/1726628099KARPET_LANTAI.jpeg,,,2026-10-08 10:50:07.000,2026-10-08 10:50:07.000
+44,LOT-0001-26-ACC-KL-0001,44,1,,,,,,,2026-10-09 05:10:34.000,,inventory/ams/inventoryPhoto/1726628099KARPET_LANTAI.jpeg,,,2026-10-09 05:10:34.000,2026-10-09 05:10:34.000

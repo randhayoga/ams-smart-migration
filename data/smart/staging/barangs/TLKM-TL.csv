@@ -1,5 +1,5 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-662,TLKM-TL-0001,12,25,1,Pesawat Telepon,Warna Putih,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-663,TLKM-TL-0002,12,25,1,Pesawat Telepon,Warna Hitam,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-664,TLKM-TL-0003,12,25,1,Pesawat Telepon,,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-665,TLKM-TL-0004,12,79,1,Pesawat Telepon,,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
+647,TLKM-TL-0001,12,25,1,Pesawat Telepon,Warna Putih,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+648,TLKM-TL-0002,12,25,1,Pesawat Telepon,Warna Hitam,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+649,TLKM-TL-0003,12,25,1,Pesawat Telepon,,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+650,TLKM-TL-0004,12,79,1,Pesawat Telepon,,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000

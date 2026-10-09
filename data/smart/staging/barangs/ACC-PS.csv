@@ -1,2 +1,2 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-79,ACC-PS-0001,38,153,1,Mesin Penghancur Kertas,,,,,2025-05-26 17:53:23.000,2025-05-26 17:53:23.000
+77,ACC-PS-0001,38,153,1,Mesin Penghancur Kertas,,,,,2025-05-26 17:53:23.000,2025-05-26 17:53:23.000

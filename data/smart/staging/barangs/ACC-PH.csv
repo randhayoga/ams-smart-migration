@@ -1,7 +1,7 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-66,ACC-PH-0001,18,120,1,Pengharum Ruangan,Pengharum Otomatis,,,,2024-07-26 09:05:25.000,2024-07-26 09:05:25.000
-67,ACC-PH-0002,18,175,1,Pengharum Ruangan,Warna Putih,,,,2017-02-27 00:00:00.000,2025-03-18 14:12:54.000
-68,ACC-PH-0003,18,120,1,Pengharum Ruangan,Pengarum Tempel,,,,2024-07-29 10:30:13.000,2024-07-29 10:30:13.000
-69,ACC-PH-0004,18,120,1,Pengharum Ruangan,Warna Putih,,,,2024-02-28 10:28:00.000,2024-02-28 10:28:00.000
-70,ACC-PH-0005,18,120,1,Pengharum Ruangan,,,inventory/ams/inventoryPhoto/1726558561PENGHARUM_RUANGAN.jpeg,,2017-02-27 00:00:00.000,2026-02-06 11:04:53.000
-71,ACC-PH-0006,18,175,1,Pengharum Ruangan,,,inventory/ams/inventoryPhoto/1709951451WhatsApp_Image_2024-03-01_at_16_39_38.jpeg,,2018-03-15 16:23:06.777,2026-06-07 20:56:02.000
+64,ACC-PH-0001,18,120,1,Pengharum Ruangan,Pengharum Otomatis,,,,2024-07-26 09:05:25.000,2024-07-26 09:05:25.000
+65,ACC-PH-0002,18,175,1,Pengharum Ruangan,Warna Putih,,,,2017-02-27 00:00:00.000,2025-03-18 14:12:54.000
+66,ACC-PH-0003,18,120,1,Pengharum Ruangan,Pengarum Tempel,,,,2024-07-29 10:30:13.000,2024-07-29 10:30:13.000
+67,ACC-PH-0004,18,120,1,Pengharum Ruangan,Warna Putih,,,,2024-02-28 10:28:00.000,2024-02-28 10:28:00.000
+68,ACC-PH-0005,18,120,1,Pengharum Ruangan,,,inventory/ams/inventoryPhoto/1726558561PENGHARUM_RUANGAN.jpeg,,2017-02-27 00:00:00.000,2026-02-06 11:04:53.000
+69,ACC-PH-0006,18,175,1,Pengharum Ruangan,,,inventory/ams/inventoryPhoto/1709951451WhatsApp_Image_2024-03-01_at_16_39_38.jpeg,,2018-03-15 16:23:06.777,2026-06-07 20:56:02.000

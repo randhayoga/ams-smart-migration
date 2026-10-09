@@ -36,13 +36,9 @@
       "file": "ACC-FC.csv",
       "row_count": 2
     },
-    "ACC-FT": {
-      "file": "ACC-FT.csv",
-      "row_count": 1
-    },
     "ACC-GE": {
       "file": "ACC-GE.csv",
-      "row_count": 2
+      "row_count": 1
     },
     "ACC-GL": {
       "file": "ACC-GL.csv",
@@ -126,7 +122,7 @@
     },
     "ACC-STB": {
       "file": "ACC-STB.csv",
-      "row_count": 2
+      "row_count": 1
     },
     "ACC-TAP": {
       "file": "ACC-TAP.csv",
@@ -198,7 +194,7 @@
     },
     "ELEK-FR": {
       "file": "ELEK-FR.csv",
-      "row_count": 3
+      "row_count": 2
     },
     "ELEK-HD": {
       "file": "ELEK-HD.csv",
@@ -250,11 +246,11 @@
     },
     "ELEK-TV": {
       "file": "ELEK-TV.csv",
-      "row_count": 14
+      "row_count": 12
     },
     "FUR-KK": {
       "file": "FUR-KK.csv",
-      "row_count": 36
+      "row_count": 32
     },
     "FUR-KP": {
       "file": "FUR-KP.csv",
@@ -266,11 +262,11 @@
     },
     "FUR-LC": {
       "file": "FUR-LC.csv",
-      "row_count": 10
+      "row_count": 9
     },
     "FUR-LM": {
       "file": "FUR-LM.csv",
-      "row_count": 16
+      "row_count": 15
     },
     "FUR-MB": {
       "file": "FUR-MB.csv",
@@ -278,7 +274,7 @@
     },
     "FUR-MK": {
       "file": "FUR-MK.csv",
-      "row_count": 30
+      "row_count": 29
     },
     "FUR-MT": {
       "file": "FUR-MT.csv",
@@ -310,7 +306,7 @@
     },
     "MON-LCD": {
       "file": "MON-LCD.csv",
-      "row_count": 28
+      "row_count": 27
     },
     "PDGR-ACN": {
       "file": "PDGR-ACN.csv",
@@ -326,7 +322,7 @@
     },
     "PDGR-ACSP": {
       "file": "PDGR-ACSP.csv",
-      "row_count": 18
+      "row_count": 17
     },
     "PDGR-AHU": {
       "file": "PDGR-AHU.csv",
@@ -441,5 +437,5 @@
       "row_count": 4
     }
   },
-  "total_barangs": 665
+  "total_barangs": 650
 }

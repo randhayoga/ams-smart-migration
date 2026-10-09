@@ -1,2 +1,2 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-37,ACC-GPS-0001,47,90,1,D-RTK 3,Multifunctional Station + Tripod Station,,inventory/ams/inventoryPhoto/1776066312GPS.jpeg,,2026-04-21 16:52:53.000,2026-04-21 16:52:53.000
+35,ACC-GPS-0001,47,90,1,D-RTK 3,Multifunctional Station + Tripod Station,,inventory/ams/inventoryPhoto/1776066312GPS.jpeg,,2026-04-21 16:52:53.000,2026-04-21 16:52:53.000

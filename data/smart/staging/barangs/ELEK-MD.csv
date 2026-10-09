@@ -1,2 +1,2 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-221,ELEK-MD-0001,102,140,1,BW Microchip XL,"O2/LEL/H2S/CO, OE Version",,inventory/ams/inventoryPhoto/1730429310FOTO_MULTIGAS_DETECTOR.jpeg,,2026-03-12 09:52:28.000,2026-07-17 08:55:51.000
+217,ELEK-MD-0001,102,140,1,BW Microchip XL,"O2/LEL/H2S/CO, OE Version",,inventory/ams/inventoryPhoto/1730429310FOTO_MULTIGAS_DETECTOR.jpeg,,2026-03-12 09:52:28.000,2026-07-17 08:55:51.000

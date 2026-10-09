@@ -1,4 +1,4 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-92,ACC-TK-0001,20,64,1,Troli Stainless Pantry,Stainless,,inventory/ams/inventoryPhoto/1714635151WhatsApp_Image_2024-05-02_at_14_16_50.jpeg,,2025-02-07 14:51:27.000,2025-02-07 14:51:27.000
-93,ACC-TK-0002,20,123,1,Troli Kecil,,,inventory/ams/inventoryPhoto/1726715976TROLI.jpeg,,2025-02-07 09:23:31.000,2025-11-28 16:25:21.000
-94,ACC-TK-0003,20,64,1,Troli Kecil,Troli Stainless Lt 1,,inventory/ams/inventoryPhoto/1748257643TROLI.jpeg,,2025-05-26 18:07:23.000,2025-05-26 18:07:23.000
+89,ACC-TK-0001,20,64,1,Troli Stainless Pantry,Stainless,,inventory/ams/inventoryPhoto/1714635151WhatsApp_Image_2024-05-02_at_14_16_50.jpeg,,2025-02-07 14:51:27.000,2025-02-07 14:51:27.000
+90,ACC-TK-0002,20,123,1,Troli Kecil,,,inventory/ams/inventoryPhoto/1726715976TROLI.jpeg,,2025-02-07 10:02:52.000,2025-11-28 16:25:21.000
+91,ACC-TK-0003,20,64,1,Troli Kecil,Troli Stainless Lt 1,,inventory/ams/inventoryPhoto/1748257643TROLI.jpeg,,2025-05-26 18:07:23.000,2025-05-26 18:07:23.000

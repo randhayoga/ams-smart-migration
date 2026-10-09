@@ -1,3 +1,3 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-245,LOT-0001-26-ELEK-SPR-0001,245,1,,,,,,,2026-10-08 19:59:51.000,,inventory/ams/inventoryPhoto/1712046268WhatsApp_Image_2024-04-01_at_1_37_13_PM.jpeg,,,2026-10-08 19:59:51.000,2026-10-08 19:59:51.000
-246,LOT-0001-26-ELEK-SPR-0002,246,1,,,,,,,2026-10-08 19:59:51.000,,inventory/ams/inventoryPhoto/1711954679WhatsApp_Image_2024-04-01_at_1_37_13_PM.jpeg,,,2026-10-08 19:59:51.000,2026-10-08 19:59:51.000
+241,LOT-0001-26-ELEK-SPR-0001,241,1,,,,,,,2026-10-09 05:59:16.000,,inventory/ams/inventoryPhoto/1712046268WhatsApp_Image_2024-04-01_at_1_37_13_PM.jpeg,,,2026-10-09 05:59:16.000,2026-10-09 05:59:16.000
+242,LOT-0001-26-ELEK-SPR-0002,242,1,,,,,,,2026-10-09 05:59:16.000,,inventory/ams/inventoryPhoto/1711954679WhatsApp_Image_2024-04-01_at_1_37_13_PM.jpeg,,,2026-10-09 05:59:16.000,2026-10-09 05:59:16.000

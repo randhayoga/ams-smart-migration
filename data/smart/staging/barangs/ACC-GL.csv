@@ -1,8 +1,8 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-30,ACC-GL-0001,14,130,1,Glassboard,90 x 80 cm,,inventory/ams/inventoryPhoto/1726562050GLASSBOARD.jpeg,,2024-09-17 15:34:08.000,2025-02-13 09:06:02.000
-31,ACC-GL-0002,14,130,1,Glassboard,,,inventory/ams/inventoryPhoto/1726562053GLASSBOARD.jpeg,,2018-03-15 16:23:06.777,2026-06-07 20:54:21.000
-32,ACC-GL-0003,14,130,1,Glassboard,90 x 120 cm,,inventory/ams/inventoryPhoto/1714105758WhatsApp_Image_2024-04-26_at_10_22_48.jpeg,,2024-04-26 11:29:18.000,2024-04-26 11:29:18.000
-33,ACC-GL-0004,14,112,1,Glassboard,90 x 120 cm,,inventory/ams/inventoryPhoto/1712285593WhatsApp_Image_2024-04-05_at_9_26_48_AM.jpeg,,2024-04-05 09:53:13.000,2024-04-05 10:43:27.000
-34,ACC-GL-0005,14,112,1,Glassboard,90 x 140 cm,,inventory/ams/inventoryPhoto/1712288743WhatsApp_Image_2024-04-05_at_9_26_48_AM.jpeg,,2024-04-05 10:45:43.000,2024-04-05 10:45:43.000
-35,ACC-GL-0006,14,112,1,Glassboard,90 x 90 cm,,inventory/ams/inventoryPhoto/1713518700WhatsApp_Image_2024-04-19_at_14_25_04.jpeg,,2024-04-19 16:25:00.000,2024-04-19 16:25:00.000
-36,ACC-GL-0007,14,123,1,Glassboard,,,inventory/ams/inventoryPhoto/1726561957GLASSBOARD.jpeg,,2024-09-17 15:32:37.000,2024-09-17 15:32:37.000
+28,ACC-GL-0001,14,130,1,Glassboard,90 x 80 cm,,inventory/ams/inventoryPhoto/1726562048GLASSBOARD.jpeg,,2024-09-17 15:34:08.000,2024-09-17 15:34:08.000
+29,ACC-GL-0002,14,130,1,Glassboard,,,inventory/ams/inventoryPhoto/1726562053GLASSBOARD.jpeg,,2024-02-16 16:37:40.000,2026-06-07 20:54:21.000
+30,ACC-GL-0003,14,130,1,Glassboard,90 x 120 cm,,inventory/ams/inventoryPhoto/1714105758WhatsApp_Image_2024-04-26_at_10_22_48.jpeg,,2024-04-26 11:29:18.000,2024-04-26 11:29:18.000
+31,ACC-GL-0004,14,112,1,Glassboard,90 x 120 cm,,inventory/ams/inventoryPhoto/1712285593WhatsApp_Image_2024-04-05_at_9_26_48_AM.jpeg,,2024-04-05 09:53:13.000,2024-04-05 10:43:27.000
+32,ACC-GL-0005,14,112,1,Glassboard,90 x 140 cm,,inventory/ams/inventoryPhoto/1712288743WhatsApp_Image_2024-04-05_at_9_26_48_AM.jpeg,,2024-04-05 10:45:43.000,2024-04-05 10:45:43.000
+33,ACC-GL-0006,14,112,1,Glassboard,90 x 90 cm,,inventory/ams/inventoryPhoto/1713518700WhatsApp_Image_2024-04-19_at_14_25_04.jpeg,,2024-04-19 16:25:00.000,2024-04-19 16:25:00.000
+34,ACC-GL-0007,14,123,1,Glassboard,,,inventory/ams/inventoryPhoto/1726561957GLASSBOARD.jpeg,,2024-09-17 15:32:37.000,2024-09-17 15:32:37.000

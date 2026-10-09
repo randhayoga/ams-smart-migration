@@ -1,2 +1,2 @@
 id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-661,LOT-0001-26-TLKM-SP-0001,661,1,,,,,,,2026-10-08 20:00:22.000,,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
+646,LOT-0001-26-TLKM-SP-0001,646,1,,,,,,,2026-10-09 05:59:44.000,,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000

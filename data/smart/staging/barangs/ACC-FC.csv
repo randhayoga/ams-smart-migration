@@ -1,3 +1,3 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-25,ACC-FC-0001,44,123,1,Flipchart,,,inventory/ams/inventoryPhoto/1726558093WHITEBOARD.jpeg,,2026-05-29 15:11:08.000,2026-07-22 10:38:08.000
+25,ACC-FC-0001,44,123,1,Flipchart,,,inventory/ams/inventoryPhoto/1726558093WHITEBOARD.jpeg,,2026-07-22 10:38:08.000,2026-07-22 10:38:08.000
 26,ACC-FC-0002,44,164,1,FlipChart,,,,,2026-07-22 10:37:54.000,2026-07-22 10:38:00.000

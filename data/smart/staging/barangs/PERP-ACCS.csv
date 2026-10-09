@@ -1,4 +1,4 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-471,PERP-ACCS-0001,56,41,1,Laser Pointer,With Mouse Function,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-472,PERP-ACCS-0002,56,45,1,Converter USB,USB to 140016,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-473,PERP-ACCS-0003,56,83,1,Bangunan Graha RE 1,,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
+456,PERP-ACCS-0001,56,41,1,Laser Pointer,With Mouse Function,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+457,PERP-ACCS-0002,56,45,1,Converter USB,USB to 140016,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+458,PERP-ACCS-0003,56,83,1,Bangunan Graha RE 1,,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000

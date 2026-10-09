@@ -1,2 +1,2 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-81,ACC-RP-0001,25,123,1,Rak Piring,,,inventory/ams/inventoryPhoto/1726716125RAK_PIRING.jpeg,,2025-02-07 09:41:43.000,2025-02-07 14:25:45.000
+79,ACC-RP-0001,25,123,1,Rak Piring,,,inventory/ams/inventoryPhoto/1726716125RAK_PIRING.jpeg,,2025-02-07 09:41:43.000,2025-02-07 14:25:45.000

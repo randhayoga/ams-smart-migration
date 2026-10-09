@@ -1,3 +1,3 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-210,ELEK-CS-0001,85,55,1,ZS-645R,Daya Nominal 5 W,,inventory/ams/inventoryPhoto/1710919062WhatsApp_Image_2024-03-20_at_14_05_42.jpeg,,2024-03-20 14:49:43.000,2026-07-28 08:44:30.000
-211,ELEK-CS-0002,85,55,1,ZS-658R,Daya Nominal 6 W,,,,2026-07-28 08:52:28.000,2026-07-28 08:52:40.000
+207,ELEK-CS-0001,85,55,1,ZS-645R,Daya Nominal 5 W,,inventory/ams/inventoryPhoto/1710919062WhatsApp_Image_2024-03-20_at_14_05_42.jpeg,,2025-02-05 11:00:21.000,2026-07-28 08:44:30.000
+208,ELEK-CS-0002,85,55,1,ZS-658R,Daya Nominal 6 W,,,,2026-07-28 08:52:28.000,2026-07-28 08:52:40.000

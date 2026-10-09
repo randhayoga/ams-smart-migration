@@ -1,3 +1,3 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-114,ACC-WB-0001,10,123,1,Whiteboard,,,inventory/ams/inventoryPhoto/1726558100WHITEBOARD.jpeg,,2024-09-17 14:28:17.000,2026-06-07 21:08:24.000
-115,ACC-WB-0002,10,25,1,Panaboard,,,inventory/ams/inventoryPhoto/1726558324PANABOARD.jpeg,,2024-09-17 14:32:04.000,2024-09-17 14:32:04.000
+111,ACC-WB-0001,10,123,1,Whiteboard,,,inventory/ams/inventoryPhoto/1726558100WHITEBOARD.jpeg,,2024-09-17 14:28:17.000,2026-06-07 21:08:24.000
+112,ACC-WB-0002,10,25,1,Panaboard,,,inventory/ams/inventoryPhoto/1726558324PANABOARD.jpeg,,2024-09-17 14:32:04.000,2024-09-17 14:32:04.000

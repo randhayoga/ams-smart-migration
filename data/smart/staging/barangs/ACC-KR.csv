@@ -1,2 +1,2 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-47,ACC-KR-0001,43,163,1,Koper (Besar),,,,,2026-06-29 09:35:08.000,2026-06-29 09:35:08.000
+45,ACC-KR-0001,43,163,1,Koper (Besar),,,,,2026-06-29 09:35:08.000,2026-06-29 09:35:08.000

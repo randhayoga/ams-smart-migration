@@ -1,5 +1,5 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-543,PERP-RAKS-0001,64,86,1,Rak Switch/Hub (50 cm),Tinggi 50 cm,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-544,PERP-RAKS-0002,64,66,1,Rak Server (2 m),Tinggi 2 m,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-545,PERP-RAKS-0003,64,66,1,Closed Rack 42U,"19"" Depth 1100 mm",,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-546,PERP-RAKS-0004,64,86,1,Rak Server,,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
+528,PERP-RAKS-0001,64,86,1,Rak Switch/Hub (50 cm),Tinggi 50 cm,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+529,PERP-RAKS-0002,64,66,1,Rak Server (2 m),Tinggi 2 m,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+530,PERP-RAKS-0003,64,66,1,Closed Rack 42U,"19"" Depth 1100 mm",,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+531,PERP-RAKS-0004,64,86,1,Rak Server,,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000

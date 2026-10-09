@@ -1,4 +1,4 @@
 id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at,specification
-6495,3016,00423-PERP-ACCN-ICT-PTRE-06,00423-PERP-ACCS-ICT-PTRE-06,470,PERP-ACCN,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000,Mesin Akses Kontrol Magnetik
-6496,3017,00424-PERP-ACCN-ICT-PTRE-06,00424-PERP-ACCS-ICT-PTRE-06,470,PERP-ACCN,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000,Mesin Akses Kontrol Magnetik
-6497,3018,00425-PERP-ACCN-ICT-PTRE-06,00425-PERP-ACCS-ICT-PTRE-06,470,PERP-ACCN,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000,Mesin Akses Kontrol Magnetik
+6076,3016,00423-PERP-ACCN-ICT-PTRE-06,00423-PERP-ACCS-ICT-PTRE-06,455,PERP-ACCN,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000,Mesin Akses Kontrol Magnetik
+6077,3017,00424-PERP-ACCN-ICT-PTRE-06,00424-PERP-ACCS-ICT-PTRE-06,455,PERP-ACCN,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000,Mesin Akses Kontrol Magnetik
+6078,3018,00425-PERP-ACCN-ICT-PTRE-06,00425-PERP-ACCS-ICT-PTRE-06,455,PERP-ACCN,77,Tersedia,Rusak,0.0,,,LT,Aset,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000,Mesin Akses Kontrol Magnetik

@@ -1,6 +1,6 @@
 id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-503,PERP-MMD-0001,59,14,1,Home Theater,Audio Video DVD Player,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-504,PERP-MMD-0002,59,15,1,Video Player VHS,TV Tuner,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-505,PERP-MMD-0003,59,25,1,Panaboard 5220,Papan Tulis Elektrik (900 x 400),,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-506,PERP-MMD-0004,59,54,1,CCS 900,16 Unit,,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
-507,PERP-MMD-0005,59,55,1,VM-2240 & RM-200M,"Power Amplifier 240W, Mic Remote, Ceiling Speaker",,,,2026-10-08 20:00:22.000,2026-10-08 20:00:22.000
+488,PERP-MMD-0001,59,14,1,Home Theater,Audio Video DVD Player,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+489,PERP-MMD-0002,59,15,1,Video Player VHS,TV Tuner,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+490,PERP-MMD-0003,59,25,1,Panaboard 5220,Papan Tulis Elektrik (900 x 400),,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+491,PERP-MMD-0004,59,54,1,CCS 900,16 Unit,,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
+492,PERP-MMD-0005,59,55,1,VM-2240 & RM-200M,"Power Amplifier 240W, Mic Remote, Ceiling Speaker",,,,2026-10-09 05:59:44.000,2026-10-09 05:59:44.000
