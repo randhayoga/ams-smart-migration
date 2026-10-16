@@ -9,8 +9,8 @@ class ActualDatabaseSeeder extends Seeder
     /**
      * Run the complete production actual database seeds.
      * Order:
-     * 1. Master Data (Categories, Subcategories, UOMs, Brands, Vendors, Organizers, Locations)
-     * 2. Inventory Data (Barangs, Lots, Units)
+     * 1. Master Data (Categories, Types, UOMs, Brands, Vendors, Organizers, Locations)
+     * 2. Inventory Data (Models, Lots, Assets)
      */
     public function run(): void
     {

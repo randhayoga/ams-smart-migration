@@ -1,0 +1,9 @@
+id,number,type_id,brand_id,uom_id,name,specification,min_stock_threshold,last_restock_at,created_at,updated_at
+570,PRNT-LJT-0001,71,9,1,LaserJet 1200,"A4, Monokrom",,,2026-10-14 22:22:51.000,2026-10-14 22:22:51.000
+571,PRNT-LJT-0002,71,9,1,LaserJet 5100,"A3, Monokrom, Network",,,2026-10-14 22:22:51.000,2026-10-14 22:22:51.000
+572,PRNT-LJT-0003,71,9,1,LaserJet 6L,"A4, Monokrom",,,2026-10-14 22:22:51.000,2026-10-14 22:22:51.000
+573,PRNT-LJT-0004,71,9,1,LaserJet 5500,"A3, Color, Network",,,2026-10-14 22:22:51.000,2026-10-14 22:22:51.000
+574,PRNT-LJT-0005,71,9,1,LaserJet 5200,"A3, Monokrom, Network",,,2026-10-14 22:22:51.000,2026-10-14 22:22:51.000
+575,PRNT-LJT-0006,71,16,1,Phaser 3200MFP,"Laser Multifungsi (Print, Scan, Copy, Fax)",,,2026-10-14 22:22:51.000,2026-10-14 22:22:51.000
+576,PRNT-LJT-0007,71,16,1,Phaser 3125N,"Laser A4, Network",,,2026-10-14 22:22:51.000,2026-10-14 22:22:51.000
+577,PRNT-LJT-0008,71,9,1,LaserJet 5200L,"A3, Monokrom",,,2026-10-14 22:22:51.000,2026-10-14 22:22:51.000

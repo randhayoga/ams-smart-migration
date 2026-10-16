@@ -1,0 +1,4 @@
+id,number,type_id,brand_id,uom_id,name,specification,min_stock_threshold,last_restock_at,created_at,updated_at
+329,FUR-MB-0001,6,123,1,Meja Bundar (Kecil),,,,2025-11-18 10:19:25.000,2026-09-07 13:24:21.000
+330,FUR-MB-0002,6,123,1,Meja Bundar,,,,2026-06-29 09:36:57.000,2026-06-29 09:36:57.000
+331,FUR-MB-0003,6,76,1,Meja Bundar (Kecil),,,,2026-06-07 21:00:00.000,2026-06-07 21:00:00.000

@@ -9,16 +9,16 @@ class ActualInventorySeeder extends Seeder
     /**
      * Run the actual Inventory database seeds in relational dependency order.
      * Order:
-     * 1. Barangs (665 items)
-     * 2. Lots (665 items)
-     * 3. Units (6,939 items)
+     * 1. Models (650 items)
+     * 2. Lots (659 items)
+     * 3. Assets (6,515 items)
      */
     public function run(): void
     {
         $this->call([
-            ActualBarangSeeder::class,
+            ActualModelSeeder::class,
             ActualLotSeeder::class,
-            ActualUnitSeeder::class,
+            ActualAssetSeeder::class,
         ]);
     }
 }

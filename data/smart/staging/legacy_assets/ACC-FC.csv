@@ -1,0 +1,5 @@
+id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
+9054,,04809-ACC-FC-CFS-PTRE-22,Flipchart,CFS,NOBRAND,,0,102024,0,0,NULL,110039,9,LT,0,NULL,NULL,NULL,NULL,255578,2026-07-22 10:38:08.000,0,NULL,NULL,2022-07-21,1726558093WHITEBOARD.jpeg,1726558093WHITEBOARD_thumb.jpeg,/assets/uploads/assetsre/ap/,1,0,
+11850,,04856-ACC-FC-CFS-PTRE-25,FlipChart,CFS,GM,,0,991001,0,0,NULL,110039,9,LT,0,NULL,NULL,NULL,NULL,255578,2026-07-22 10:38:00.000,0,NULL,NULL,2025-12-04,NULL,NULL,NULL,1,0,
+11851,,04857-ACC-FC-CFS-PTRE-25,FlipChart,CFS,GM,,0,991001,0,0,NULL,110039,9,LT,0,NULL,NULL,NULL,NULL,255578,2026-07-22 10:37:54.000,0,NULL,NULL,2025-12-04,NULL,NULL,NULL,1,0,
+11961,,01589-ACC-FC-CFS-PTRE-18,Flipchart,CFS,NOBRAND,,0,102024,0,0,NULL,110039,9,LT,0,NULL,NULL,NULL,NULL,255578,2026-05-29 15:11:08.000,1,255578,2026-05-29 15:11:40.000,2018-05-17,NULL,NULL,NULL,0,0,

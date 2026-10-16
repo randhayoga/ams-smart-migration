@@ -1,2 +1,0 @@
-id,number,subcategory_id,brand_id,uom_id,name,specification,min_stock_threshold,image_url,last_restock_at,created_at,updated_at
-27,ACC-GE-0001,21,123,1,Gerobak Etalase Kantin,,,inventory/ams/inventoryPhoto/1727663431gerobak_etalase.jpeg,,2025-11-18 09:00:02.000,2025-11-18 09:00:39.000

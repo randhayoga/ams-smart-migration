@@ -1,0 +1,2 @@
+id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
+10758,,04774-ACC-PS-CFS-PTRE-25,Mesin Penghancur Kertas,CFS,SECURE,,1775000,103010,0,0,NULL,110033,9,LT,0,NULL,NULL,NULL,NULL,140133,2025-05-26 17:53:23.000,0,NULL,NULL,2025-05-26,NULL,NULL,NULL,0,0,

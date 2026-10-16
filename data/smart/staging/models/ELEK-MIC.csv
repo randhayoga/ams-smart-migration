@@ -1,0 +1,3 @@
+id,number,type_id,brand_id,uom_id,name,specification,min_stock_threshold,last_restock_at,created_at,updated_at
+218,ELEK-MIC-0001,99,64,1,Kris,20 Ltr,,,2025-11-18 16:18:50.000,2025-11-18 16:18:50.000
+219,ELEK-MIC-0002,99,88,1,R-728,,,,2025-11-18 16:13:40.000,2025-11-18 16:18:38.000

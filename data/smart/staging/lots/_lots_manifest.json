@@ -1,5 +1,5 @@
 {
-  "subcategories": {
+  "types": {
     "ACC-AM": {
       "file": "ACC-AM.csv",
       "row_count": 2
@@ -250,7 +250,7 @@
     },
     "FUR-KK": {
       "file": "FUR-KK.csv",
-      "row_count": 32
+      "row_count": 35
     },
     "FUR-KP": {
       "file": "FUR-KP.csv",
@@ -262,11 +262,11 @@
     },
     "FUR-LC": {
       "file": "FUR-LC.csv",
-      "row_count": 9
+      "row_count": 10
     },
     "FUR-LM": {
       "file": "FUR-LM.csv",
-      "row_count": 15
+      "row_count": 17
     },
     "FUR-MB": {
       "file": "FUR-MB.csv",
@@ -322,7 +322,7 @@
     },
     "PDGR-ACSP": {
       "file": "PDGR-ACSP.csv",
-      "row_count": 17
+      "row_count": 20
     },
     "PDGR-AHU": {
       "file": "PDGR-AHU.csv",
@@ -437,5 +437,5 @@
       "row_count": 4
     }
   },
-  "total_lots": 650
+  "total_lots": 659
 }

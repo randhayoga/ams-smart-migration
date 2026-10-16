@@ -1,0 +1,2 @@
+id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
+11765,,04779-ACC-RB-CFS-PTRE-25,Rak Brosur,CFS,NOBRAND,,0,101026,0,0,NULL,110036,9,LT,0,NULL,NULL,NULL,NULL,130090,2025-07-10 13:47:31.000,0,NULL,NULL,2025-07-10,NULL,NULL,NULL,0,0,

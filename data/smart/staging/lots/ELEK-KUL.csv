@@ -1,4 +1,4 @@
-id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-214,LOT-0001-26-ELEK-KUL-0001,214,1,,,,,,,2026-10-09 05:59:05.000,,inventory/ams/inventoryPhoto/1726562581KULKAS.jpeg,,,2026-10-09 05:59:05.000,2026-10-09 05:59:05.000
-215,LOT-0001-26-ELEK-KUL-0002,215,1,,,,,,,2026-10-09 05:59:05.000,,,,,2026-10-09 05:59:05.000,2026-10-09 05:59:05.000
-216,LOT-0001-26-ELEK-KUL-0003,216,1,,,,,,,2026-10-09 05:59:05.000,,,,,2026-10-09 05:59:05.000,2026-10-09 05:59:05.000
+id,number,model_id,organizer_id,vendor_id,legacy_vendor_id,initial_quantity,current_quantity,po_number,purchase_grant_date,burden,project_id,created_at,updated_at,entry_type,memo_number,memo_url
+214,LOT-0001-26-ELEK-KUL-0001,214,1,,,,,,2026-10-14 22:22:06.000,,,2026-10-14 22:22:06.000,2026-10-14 22:22:06.000,Procurement,,
+215,LOT-0001-26-ELEK-KUL-0002,215,1,,,,,,2026-10-14 22:22:06.000,,,2026-10-14 22:22:06.000,2026-10-14 22:22:06.000,Procurement,,
+216,LOT-0001-26-ELEK-KUL-0003,216,1,,,,,,2026-10-14 22:22:06.000,,,2026-10-14 22:22:06.000,2026-10-14 22:22:06.000,Procurement,,

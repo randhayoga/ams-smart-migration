@@ -1,0 +1,3 @@
+id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
+11939,,01621-ACC-AM-CFS-PTRE-26,Piano,CFS,YAMAHA,YAMAHA PSR 650,0,105014,0,0,NULL,110040,9,LT,0,NULL,NULL,NULL,NULL,255578,2026-03-31 15:22:17.000,0,NULL,NULL,2018-08-16,NULL,NULL,NULL,0,0,
+11940,,01622-ACC-AM-CFS-PTRE-26,Gitar Akustik,CFS,YAMAHA,,0,105014,0,0,NULL,110040,9,LT,0,NULL,NULL,NULL,NULL,255578,2026-04-21 07:46:21.000,0,NULL,NULL,2018-07-19,NULL,NULL,NULL,0,0,

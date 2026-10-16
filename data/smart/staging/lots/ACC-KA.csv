@@ -1,4 +1,4 @@
-id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-41,LOT-0001-26-ACC-KA-0001,41,1,,,,,,,2026-10-09 05:10:34.000,,inventory/ams/inventoryPhoto/1727685729KIPAS_ANGIN.jpeg,,,2026-10-09 05:10:34.000,2026-10-09 05:10:34.000
-42,LOT-0001-26-ACC-KA-0002,42,1,,,,,,,2026-10-09 05:10:34.000,,inventory/ams/inventoryPhoto/1726796030KIPAS_ANGIN_SEKAI.jpeg,,,2026-10-09 05:10:34.000,2026-10-09 05:10:34.000
-43,LOT-0001-26-ACC-KA-0003,43,1,,,,,,,2026-10-09 05:10:34.000,,,,,2026-10-09 05:10:34.000,2026-10-09 05:10:34.000
+id,number,model_id,organizer_id,vendor_id,legacy_vendor_id,initial_quantity,current_quantity,entry_type,po_number,purchase_grant_date,memo_number,memo_url,burden,project_id,created_at,updated_at
+41,LOT-0001-26-ACC-KA-0001,41,1,,,,,Procurement,,2026-10-14 22:21:03.000,,,,,2026-10-14 22:21:03.000,2026-10-14 22:21:03.000
+42,LOT-0001-26-ACC-KA-0002,42,1,,,,,Procurement,,2026-10-14 22:21:03.000,,,,,2026-10-14 22:21:03.000,2026-10-14 22:21:03.000
+43,LOT-0001-26-ACC-KA-0003,43,1,,,,,Procurement,,2026-10-14 22:21:03.000,,,,,2026-10-14 22:21:03.000,2026-10-14 22:21:03.000

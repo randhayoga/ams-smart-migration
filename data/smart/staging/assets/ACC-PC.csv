@@ -1,2 +1,2 @@
-id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
-10740,,04762-ACC-PC-CFS-PTRE-25,Paper Cutter,CFS,NOBRAND,,1887000,101036,0,0,NULL,110032,9,LT,0,NULL,NULL,NULL,NULL,255578,2026-04-10 08:24:36.000,0,NULL,NULL,2025-04-25,NULL,NULL,NULL,0,0,
+id,ams_asset_id,number,legacy_number,lot_id,type_code,location_id,status,condition,comp_specification,borrowing_type,classification,price,image_url,vehicle_registration,legacy_burden,legacy_project_id,legacy_vendor_id,created_at,updated_at
+378,10740,04762-ACC-PC-CFS-PTRE-25,04762-ACC-PC-CFS-PTRE-25,62,ACC-PC,117,Tersedia,Bagus,,LT,Aset,1887000.0,,,Corporate,,1,2026-04-10 08:24:36.000,2026-04-10 08:24:36.000

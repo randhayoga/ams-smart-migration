@@ -1,0 +1,4 @@
+id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
+3189,,00596-PERP-ACCS-ICT-PTRE-10,TARGUS TARGUS LASER POINTER,ICT,TARGUS,TARGUS LASER POINTER WITH MOUSE FUNTION,0,121001,0,0,NULL,140003,9,LT,1,0,NULL,NULL,NULL,053573,2020-05-31 09:45:35.000,0,NULL,NULL,2010-02-12,NULL,NULL,NULL,0,1,
+3258,,00665-PERP-ACCS-ICT-PTRE-11,SUNIX,ICT,SUNIX,CONVERTE USB TO 140016,0,121001,0,0,NULL,140003,9,LT,1,0,NULL,NULL,NULL,053573,2020-05-31 09:45:31.000,0,NULL,NULL,2011-02-02,NULL,NULL,NULL,0,1,
+7899,,02621-PER-ACC-CFS-PTRE-22,Bangunan Graha RE 1,CFS,DAIKIN,,0,101001,0,0,NULL,140003,80,LT,0,NULL,NULL,NULL,NULL,130090,2023-06-14 08:57:14.000,0,NULL,NULL,2022-07-01,NULL,NULL,NULL,0,0,

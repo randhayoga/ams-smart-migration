@@ -1,3 +1,3 @@
-id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
-3014,NULL,00421-PERP-FAX-ICT-PTRE-06,PANASONIC MESIN FAX 14.4 KBPS,ICT,PANASONIC,MESIN FAX 14.4 KBPS,0,121001,0,0,NULL,140007,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2006-05-01,NULL,NULL,NULL,0,0,
-3066,NULL,00473-PERP-FAX-ICT-PTRE-08,CANON MESIN FAX 33.4 KBPS,ICT,CANON,MESIN FAX 33.4 KBPS,0,121001,0,0,NULL,140007,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2008-04-28,NULL,NULL,NULL,0,0,
+id,ams_asset_id,number,legacy_number,lot_id,type_code,location_id,status,condition,comp_specification,borrowing_type,classification,price,image_url,vehicle_registration,legacy_burden,legacy_project_id,legacy_vendor_id,created_at,updated_at
+6390,3014,00421-TLKM-FAX-ICT-PTRE-06,00421-PERP-FAX-ICT-PTRE-06,652,TLKM-FAX,77,Tersedia,Rusak,,LT,Aset,0.0,,,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000
+6391,3066,00473-TLKM-FAX-ICT-PTRE-08,00473-PERP-FAX-ICT-PTRE-08,653,TLKM-FAX,77,Tersedia,Rusak,,LT,Aset,0.0,,,Corporate,,,2017-01-04 00:00:00.000,2017-01-04 00:00:00.000

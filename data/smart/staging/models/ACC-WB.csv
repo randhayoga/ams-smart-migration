@@ -1,0 +1,3 @@
+id,number,type_id,brand_id,uom_id,name,specification,min_stock_threshold,last_restock_at,created_at,updated_at
+111,ACC-WB-0001,10,123,1,Whiteboard,,,,2024-09-17 14:28:17.000,2026-06-07 21:08:24.000
+112,ACC-WB-0002,10,25,1,Panaboard,,,,2024-09-17 14:32:04.000,2024-09-17 14:32:04.000

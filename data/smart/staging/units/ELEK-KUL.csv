@@ -1,5 +1,0 @@
-id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at,specification
-2364,9364,04033-ELEK-KUL-CFS-PTRE-24,04033-ELK-KUL-CFS-PTRE-24,215,ELEK-KUL,155,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,1,2024-08-19 13:14:11.000,2024-08-19 13:14:11.000,
-2365,9375,04032-ELEK-KUL-CFS-PTRE-24,04032-ELK-KUL-CFS-PTRE-24,216,ELEK-KUL,156,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,1,2024-08-19 13:13:54.000,2024-08-19 13:13:54.000,
-2366,9397,04135-ELEK-KUL-CFS-PTRE-24,04135-ELK-KUL-CFS-PTRE-24,215,ELEK-KUL,157,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,1,2024-08-19 13:53:41.000,2024-08-19 13:53:41.000,
-2367,10517,04593-ELEK-KUL-CFS-PTRE-24,04593-ELK-KUL-CFS-PTRE-24,214,ELEK-KUL,109,Tersedia,Bagus,0.0,inventory/ams/inventoryPhoto/1726562581KULKAS.jpeg,inventory/ams/assets/uploads/assetsre/ap/1726562581KULKAS.jpeg,LT,Aset,Corporate,10780,1,2025-11-18 11:34:01.000,2025-11-18 11:34:01.000,

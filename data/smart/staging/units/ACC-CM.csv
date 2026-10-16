@@ -1,4 +1,0 @@
-id,ams_asset_id,number,legacy_number,lot_id,subcategory_code,location_id,status,condition,price,image_url,ams_image_url,type,classification,burden,project_id,vendor_id,created_at,updated_at,specification
-60,10475,04463-ACC-CM-CFS-PTRE-24,04463-ACC-CM-CFS-PTRE-24,21,ACC-CM,96,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-07 09:25:46.000,2025-02-07 09:25:46.000,
-61,10476,04464-ACC-CM-CFS-PTRE-24,04464-ACC-CM-CFS-PTRE-24,21,ACC-CM,96,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-07 09:24:53.000,2025-02-07 09:24:53.000,
-62,10477,04465-ACC-CM-CFS-PTRE-24,04465-ACC-CM-CFS-PTRE-24,21,ACC-CM,96,Tersedia,Bagus,0.0,,,LT,Aset,Corporate,,1,2025-02-07 09:24:29.000,2025-02-07 09:24:29.000,

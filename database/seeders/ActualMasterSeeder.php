@@ -13,7 +13,7 @@ class ActualMasterSeeder extends Seeder
     {
         $this->call([
             ActualCategorySeeder::class,
-            ActualSubcategorySeeder::class,
+            ActualTypeSeeder::class,
             ActualUomSeeder::class,
             ActualBrandSeeder::class,
             ActualVendorSeeder::class,

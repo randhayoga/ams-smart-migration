@@ -1,0 +1,2 @@
+id,po_ref,code,name,organizer,brand,spesifikasi,value,location,umur_ekonomis,pembebanan,project_no,category,vendor,rent_type,kondisi,peminjaman,peminjaman_owner,peminjaman_token,peminjaman_start,create_owner,create_date,deletion,deletion_owner,deletion_date,buy_date,sample_photo,thumbnail,patch,assets_or_inventaris,status,duplicated_number
+3184,NULL,00591-PERP-SCRN-ICT-PTRE-10,GTC SCREEN PRESENTATION,ICT,GTC,SCREEN PRESENTATION WITH STANDING PORTABLE,0,121001,0,0,NULL,140014,NULL,LT,1,0,NULL,NULL,NULL,53573,2017-01-04 00:00:00.000,0,NULL,NULL,2010-02-12,NULL,NULL,NULL,0,0,

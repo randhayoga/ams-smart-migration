@@ -1,3 +1,3 @@
-id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-111,LOT-0001-26-ACC-WB-0001,111,1,,,,,,,2026-10-09 05:58:44.000,,inventory/ams/inventoryPhoto/1726558100WHITEBOARD.jpeg,,,2026-10-09 05:58:44.000,2026-10-09 05:58:44.000
-112,LOT-0001-26-ACC-WB-0002,112,1,,,,,,,2026-10-09 05:58:44.000,,inventory/ams/inventoryPhoto/1726558324PANABOARD.jpeg,,,2026-10-09 05:58:44.000,2026-10-09 05:58:44.000
+id,number,model_id,organizer_id,vendor_id,legacy_vendor_id,initial_quantity,current_quantity,po_number,purchase_grant_date,burden,project_id,created_at,updated_at,entry_type,memo_number,memo_url
+111,LOT-0001-26-ACC-WB-0001,111,1,,,,,,2026-10-14 22:21:41.000,,,2026-10-14 22:21:41.000,2026-10-14 22:21:41.000,Procurement,,
+112,LOT-0001-26-ACC-WB-0002,112,1,,,,,,2026-10-14 22:21:41.000,,,2026-10-14 22:21:41.000,2026-10-14 22:21:41.000,Procurement,,

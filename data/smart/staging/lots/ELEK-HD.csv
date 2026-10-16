@@ -1,3 +1,3 @@
-id,number,barang_id,organizer_id,vendor_id,legacy_vendor_id,location_id,initial_quantity,current_quantity,po_number,date_of_receipt,unit_price,image_url,burden,project_id,created_at,updated_at
-212,LOT-0001-26-ELEK-HD-0001,212,1,,,,,,,2026-10-09 05:59:03.000,,inventory/ams/inventoryPhoto/1738727857Heat_System.jpeg,,,2026-10-09 05:59:03.000,2026-10-09 05:59:03.000
-213,LOT-0001-26-ELEK-HD-0002,213,1,,,,,,,2026-10-09 05:59:03.000,,,,,2026-10-09 05:59:03.000,2026-10-09 05:59:03.000
+id,number,model_id,organizer_id,vendor_id,legacy_vendor_id,initial_quantity,current_quantity,po_number,purchase_grant_date,burden,project_id,created_at,updated_at,entry_type,memo_number,memo_url
+212,LOT-0001-26-ELEK-HD-0001,212,1,,,,,,2026-10-14 22:22:04.000,,,2026-10-14 22:22:04.000,2026-10-14 22:22:04.000,Procurement,,
+213,LOT-0001-26-ELEK-HD-0002,213,1,,,,,,2026-10-14 22:22:04.000,,,2026-10-14 22:22:04.000,2026-10-14 22:22:04.000,Procurement,,
